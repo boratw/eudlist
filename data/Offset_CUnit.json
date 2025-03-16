@@ -1,6 +1,6 @@
 ﻿{
     "summary": {
-		"name" : "CUnit Offset",
+		"name" : "CUnit Offset (EPDCUnitMap)",
 		"large_offset" : false
 	},
     "data": [
@@ -95,6 +95,21 @@
             "varname": "moveTarget"
         },
         {
+            "id": "824",
+            "address": "5885116",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19030",
+            "byte": "0",
+            "name": "Target Unit",
+            "size": "4",
+            "length": "1",
+            "scr": "Supported",
+            "description": "CUnit target pointer",
+            "offset": "0x014",
+            "varname": "moveTargetUnit"
+        },
+        {
             "id": "842",
             "address": "5885120",
             "version": "1.16.1",
@@ -118,7 +133,7 @@
             "byte": "0",
             "name": "Next Target Waypoint",
             "size": "2",
-            "length": "1",
+            "length": "2",
             "scr": "Supported",
             "description": "0x0000FFFF x-coord<br>0xFFFF0000 y-coord<br><br>The desired position (bwapi)<br><br>&quot;When this is set to a certain point, a unit will face in the direction of that point while it idles. This has no effect on the unit when it&#039;s moving. By default, it was on the current position of the Marine. When the unit is attacking another unit, this point is set to the unit&#039;s target. This is likely used to make a unit face its target when attacking.&quot; -Roy",
             "offset": "0x01C",
@@ -153,6 +168,21 @@
             "description": "256 directions starting from the top going clockwise.<br>0x0000FF00 - *256",
             "offset": "0x021",
             "varname": "currentDirection1"
+        },
+        {
+            "id": "614",
+            "address": "5885130",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19033",
+            "byte": "2",
+            "name": "Flingy Turn Radius",
+            "size": "1",
+            "length": "1",
+            "scr": "Supported",
+            "description": "&quot;The unit flips out when this is frozen on a specific value. It will have difficulty turning, and will usually be seen walking diagonally instead of facing the direction it is actually walking towards.&quot; -Roy",
+            "offset": "0x022",
+            "varname": "turnSpeed"
         },
         {
             "id": "614",
@@ -402,6 +432,21 @@
             "scr": "Supported",
             "description": "The owner of the cunit.<br><br>Mask: 0x000000FF *1<br><br>P1: 00<br>P2: 01<br>P3: 02<br>etc.",
             "offset": "0x04C",
+            "varname": "owner"
+        },
+        {
+            "id": "553",
+            "address": "5885172",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19044",
+            "byte": "0",
+            "name": "Player ID",
+            "size": "1",
+            "length": "1",
+            "scr": "Supported",
+            "description": "The owner of the cunit.<br><br>Mask: 0x000000FF *1<br><br>P1: 00<br>P2: 01<br>P3: 02<br>etc.",
+            "offset": "0x04C",
             "varname": "playerID"
         },
         {
@@ -472,12 +517,27 @@
             "pid": "19046",
             "byte": "0",
             "name": "Main Order Timer",
-            "size": "4",
+            "size": "1",
             "length": "1",
             "scr": "Supported",
             "description": "A timer for orders. An example would be the time left before a worker harvest the gas from a mine or transport unloading.",
             "offset": "0x054",
             "varname": "cooldown"
+        },
+        {
+            "id": "559",
+            "address": "5885180",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19046",
+            "byte": "0",
+            "name": "Main Order Timer",
+            "size": "1",
+            "length": "1",
+            "scr": "Supported",
+            "description": "A timer for orders. An example would be the time left before a worker harvest the gas from a mine or transport unloading.",
+            "offset": "0x054",
+            "varname": "orderTimer"
         },
         {
             "id": "560",
@@ -488,11 +548,71 @@
             "byte": "1",
             "name": "Cooldown",
             "size": "1",
-            "length": "3",
+            "length": "1",
+            "scr": "Supported",
+            "description": "The firing rate (or cooldown) for ground weapons (*256).<br>0x0059CCFD<br><br>The firing rate (or cooldown) for air weapons (*65536).<br>0x0059CCFE<br><br>The casting rate (or cooldown) for spells (*16777216).<br>0x0059CCFF",
+            "offset": "0x055",
+            "varname": "groundWeaponCooldown"
+        },
+        {
+            "id": "560",
+            "address": "5885181",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19046",
+            "byte": "1",
+            "name": "Cooldown",
+            "size": "1",
+            "length": "1",
             "scr": "Supported",
             "description": "The firing rate (or cooldown) for ground weapons (*256).<br>0x0059CCFD<br><br>The firing rate (or cooldown) for air weapons (*65536).<br>0x0059CCFE<br><br>The casting rate (or cooldown) for spells (*16777216).<br>0x0059CCFF",
             "offset": "0x055",
             "varname": "gCooldown"
+        },
+        {
+            "id": "560",
+            "address": "5885181",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19046",
+            "byte": "1",
+            "name": "Cooldown",
+            "size": "1",
+            "length": "1",
+            "scr": "Supported",
+            "description": "The firing rate (or cooldown) for ground weapons (*256).<br>0x0059CCFD<br><br>The firing rate (or cooldown) for air weapons (*65536).<br>0x0059CCFE<br><br>The casting rate (or cooldown) for spells (*16777216).<br>0x0059CCFF",
+            "offset": "0x056",
+            "varname": "airWeaponCooldown"
+        },
+        {
+            "id": "560",
+            "address": "5885181",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19046",
+            "byte": "1",
+            "name": "Cooldown",
+            "size": "1",
+            "length": "1",
+            "scr": "Supported",
+            "description": "The firing rate (or cooldown) for ground weapons (*256).<br>0x0059CCFD<br><br>The firing rate (or cooldown) for air weapons (*65536).<br>0x0059CCFE<br><br>The casting rate (or cooldown) for spells (*16777216).<br>0x0059CCFF",
+            "offset": "0x056",
+            "varname": "aCooldown"
+        },
+        {
+            "id": "560",
+            "address": "5885181",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19046",
+            "byte": "1",
+            "name": "Cooldown",
+            "size": "1",
+            "length": "1",
+            "scr": "Supported",
+            "description": "The firing rate (or cooldown) for ground weapons (*256).<br>0x0059CCFD<br><br>The firing rate (or cooldown) for air weapons (*65536).<br>0x0059CCFE<br><br>The casting rate (or cooldown) for spells (*16777216).<br>0x0059CCFF",
+            "offset": "0x057",
+            "varname": "spellCooldown"
         },
         {
             "id": "556",
@@ -538,6 +658,21 @@
             "description": "The amount of shield points that a unit have (*256).",
             "offset": "0x060",
             "varname": "shield"
+        },
+        {
+            "id": "657",
+            "address": "5885196",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19050",
+            "byte": "0",
+            "name": "Unit Type",
+            "size": "2",
+            "length": "1",
+            "scr": "Supported",
+            "description": "",
+            "offset": "0x064",
+            "varname": "unitType"
         },
         {
             "id": "657",
@@ -982,6 +1117,21 @@
             "scr": "Supported",
             "description": "A byte used to determine uniqueness of the unit",
             "offset": "0x0A5",
+            "varname": "uniquenessIdentifier"
+        },
+        {
+            "id": "859",
+            "address": "5885261",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19066",
+            "byte": "1",
+            "name": "Uniqueness Identifier",
+            "size": "1",
+            "length": "1",
+            "scr": "Supported",
+            "description": "A byte used to determine uniqueness of the unit",
+            "offset": "0x0A5",
             "varname": "targetOrderSpecial"
         },
         {
@@ -998,6 +1148,21 @@
             "description": "The order ID for passive orders such as Cloak, Build, ExpandCreep, cloaking field, etc.",
             "offset": "0x0A6",
             "varname": "secondaryOrder"
+        },
+        {
+            "id": "860",
+            "address": "5885262",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19066",
+            "byte": "2",
+            "name": "Secondary Order ID",
+            "size": "1",
+            "length": "1",
+            "scr": "Supported",
+            "description": "The order ID for passive orders such as Cloak, Build, ExpandCreep, cloaking field, etc.",
+            "offset": "0x0A6",
+            "varname": "secondaryOrderID"
         },
         {
             "id": "861",
@@ -1091,7 +1256,7 @@
         },
         {
             "id": "9999",
-            "name": "Union",
+            "name": "Union 0x0C0",
             "size": "28",
             "length": "1",
             "scr": "Supported",
@@ -2511,6 +2676,17 @@
             "varname": "nextBurrowedUnit"
         },
         {
+            "id": "9999",
+            "name": "Union 0x0F8",
+            "size": "8",
+            "length": "1",
+            "scr": "Supported",
+            "description": "",
+            "offset": "0x0F8",
+            "varname": "",
+            "uniongroup": "0x0F8"
+        },
+        {
             "id": "547",
             "address": "5885344",
             "version": "1.16.1",
@@ -2523,22 +2699,9 @@
             "scr": "Supported",
             "description": "The coordinates of a rally from a building (X + 65536*Y)<br><br>0x0000FFFF - X coordinate<br>0xFFFF0000 - Y coordinate<br><br>For pylons:<br>Previous Psi Provider (CUnit pointer)",
             "offset": "0x0F8",
-            "varname": "rallyPos"
-        },
-        {
-            "id": "917",
-            "address": "5885344",
-            "version": "1.16.1",
-            "platform": "0",
-            "pid": "19087",
-            "byte": "0",
-            "name": "Pylon - Previous Psi Provider",
-            "size": "2",
-            "length": "1",
-            "scr": "Supported",
-            "description": "CUnit pointer to previous psi provider<br><br>For other buildings:<br>The coordinates of a rally from a building",
-            "offset": "0x0F8",
-            "varname": "rallyPos"
+            "varname": "rallyPos",
+			"union": "Rally",
+			"unionof": "0x0F8"
         },
         {
             "id": "590",
@@ -2553,7 +2716,26 @@
             "scr": "Supported",
             "description": "The unit that a building set their rally to (CUnit pointer).<br><br>For pylons: <br>Next Psi Provider (CUnit pointer)",
             "offset": "0x0FC",
-            "varname": "rallyUnit"
+            "varname": "rallyUnit",
+			"union": "Rally",
+			"unionof": "0x0F8"
+        },
+        {
+            "id": "917",
+            "address": "5885344",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "19087",
+            "byte": "0",
+            "name": "Pylon - Previous Psi Provider",
+            "size": "4",
+            "length": "1",
+            "scr": "Supported",
+            "description": "CUnit pointer to previous psi provider<br><br>For other buildings:<br>The coordinates of a rally from a building",
+            "offset": "0x0F8",
+            "varname": "prevPsiProvider",
+			"union": "Pylon",
+			"unionof": "0x0F8"
         },
         {
             "id": "918",
@@ -2568,7 +2750,9 @@
             "scr": "Supported",
             "description": "CUnit pointer to next psi provider<br><br>For other  buildings:<br>The unit that a building set their rally to",
             "offset": "0x0FC",
-            "varname": "rallyUnit"
+            "varname": "nextPsiProvider",
+			"union": "Pylon",
+			"unionof": "0x0F8"
         },
         {
             "id": "873",

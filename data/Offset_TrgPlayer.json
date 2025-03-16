@@ -17,6 +17,21 @@
             "scr": "Simple Data",
             "description": "The current amount of minerals the player has.",
             "offset": "0x57F0F0",
+            "varname": "mineral"
+        },
+        {
+            "id": "459",
+            "address": "5763312",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "-11421",
+            "byte": "0",
+            "name": "Player Minerals",
+            "size": "4",
+            "length": "12",
+            "scr": "Simple Data",
+            "description": "The current amount of minerals the player has.",
+            "offset": "0x57F0F0",
             "varname": "ore"
         },
         {

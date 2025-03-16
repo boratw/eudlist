@@ -197,6 +197,21 @@
             "scr": "Simple Data",
             "description": "",
             "offset": "0x66E860",
+            "varname": "graphicTurn"
+        },
+        {
+            "id": "347",
+            "address": "6744160",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "233791",
+            "byte": "0",
+            "name": "Graphics Turns",
+            "size": "1",
+            "length": "999",
+            "scr": "Simple Data",
+            "description": "",
+            "offset": "0x66E860",
             "varname": "isTurnable"
         },
         {
