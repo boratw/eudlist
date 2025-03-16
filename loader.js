@@ -68,7 +68,7 @@ function LoadOffset(name, json)
                 p.className = "item address";
             p.innerHTML = item["offset"];
             elem2.appendChild(p);
-            key += item["offset"]
+            key += item["offset"] + "\t"
         }
         if ("datatype" in item)
         {
@@ -96,6 +96,8 @@ function LoadOffset(name, json)
             p.className = "item varname";
             p.innerHTML = item["varname"];
             elem2.appendChild(p);
+
+            key += item["varname"].toLowerCase() + "\t"
         }
         p = document.createElement("p");
         if ("params" in item)
@@ -105,6 +107,7 @@ function LoadOffset(name, json)
         else
             p.className = "item name";
         p.innerHTML = item["name"];
+        key += item["name"].toLowerCase()
 
         elem2.appendChild(p);
         if ("value" in item)
@@ -165,7 +168,6 @@ function LoadOffset(name, json)
         
         table.appendChild(elem);
 
-        key += "\t" + item["name"].toLowerCase()
         if (is_uniongroup != "")
             union_key[is_uniongroup] = key
         
