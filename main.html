@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="main.css" rel="stylesheet"/>
+    <link href="page.css" rel="stylesheet"/>
+    <script src="ui.js"></script>
+    <script src="pageui.js"></script>
+    <script src="loader.js"></script>
+</head>
+<body onload="OnLoad()" onresize="OnResize()">
+    <div id="actualbody">
+        <div id="main">
+            
+            <div id="credit" class="page" style="padding-left : 3em" active="false">
+                <p class="title">
+                    EUD Dictionary
+                </p>
+                <p>
+                    Contact : boratw@naver.com<br>
+                    You can also report errors using the Issue Tracker.
+                </p>
+                <p>
+                    Most of the content was taken from or referenced the following: <br>
+                    <ul>
+                        <li>EUD DB by FaRTy1billion (Link is Down) </li>
+                        <ul>
+                            <li>I took a backup copy from <a href="https://github.com/armoha/eud-book">https://github.com/armoha/eud-book</a> </li>
+                        </ul>
+                        <li>EUDPlib <a href="https://github.com/armoha/eudplib">https://github.com/armoha/eudplib</a></li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+        <div id="nav">
+            <p class="nav_title">
+                EUD Dictionary
+            </p>
+            <div id="nav_p1">
+                <div class="navbtn" onclick="OnNavBtn1Clicked('nav_p1')">
+                    <div class="navbtn_p1">
+                        Offset
+                    </div>
+                </div>
+                <div name="Offset_Global" class="navbtn child" onclick="OpenPage('Offset_Global')">
+                    <div class="navbtn_p2">
+                        Global
+                    </div>
+                </div>
+                <div name="Offset_CUnit" class="navbtn child" onclick="OpenPage('Offset_CUnit')">
+                    <div  class="navbtn_p2">
+                        CUnit
+                    </div>
+                </div>
+                <div name="Offset_CSprite" class="navbtn child" onclick="OpenPage('Offset_CSprite')">
+                    <div  class="navbtn_p2">
+                        CSprite
+                    </div>
+                </div>
+            </div>
+            <div id="nav_p2">
+                <div class="navbtn" onclick="OnNavBtn1Clicked('nav_p2')">
+                    <div class="navbtn_p1">
+                        Function
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        Condition
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        Action
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        EUDPlib
+                    </div>
+                </div>
+            </div>
+            <div id="nav_p3">
+                <div class="navbtn" onclick="OnNavBtn1Clicked('nav_p3')">
+                    <div class="navbtn_p1">
+                       Struct
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        CUnit
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        UnitGroup
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        CSprite
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        EUDVariable
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        EUDLightVariable
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        EUDLightBool
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        EUDDeque 
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        StringBuffer 
+                    </div>
+                </div>
+                <div class="navbtn child">
+                    <div class="navbtn_p2">
+                        EUDByteStream 
+                    </div>
+                </div>
+            </div>
+            <p id="credit" onclick="OpenPage('Credit')">
+                Credit
+            </p>
+        </div>
+    </div>
+</body>
+</html>

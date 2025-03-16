@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="page.css" rel="stylesheet"/>
+    <script src="pageui.js"></script>
+    <script src="loader.js"></script>
+    <script>
+        let pagename = "Offset_CSprite";
+        let structmember = true;
+        function OnResize()
+        {
+            emsize = parseFloat(getComputedStyle(document.body).fontSize);
+            itemwidth = document.getElementById("inputbox").clientWidth;
+            item_size = itemwidth + "px";
+            address_size = (emsize * 4) + "px";
+            datasize_size = (emsize * 3) + "px";
+            varname_size = (emsize * 12) + "px";
+            offsetname_size = (itemwidth - emsize * 32) + "px";
+            support_size = (emsize * 8) + "px";
+            /*
+            for(node of document.getElementsByClassName("itembox"))
+                node.style.width = item_size;
+
+            for(node of document.getElementsByClassName("address"))
+                node.style.width = address_size;
+
+            for(node of document.getElementsByClassName("datasize"))
+                node.style.width = datasize_size;
+
+            for(node of document.getElementsByClassName("varname"))
+                node.style.width = varname_size;
+
+            for(node of document.getElementsByClassName("name"))
+                node.style.width = offsetname_size;
+
+            for(node of document.getElementsByClassName("support"))
+                node.style.width = support_size;*/
+        }
+    </script>
+</head>
+<body onload="OnLoad()" onresize="OnResize()">
+    <style id="langstyle">
+        p.korean
+        {
+            display:none;
+        }
+    </style>
+    <p id="title" class="title">
+        CSprite Offset
+    </p>
+    <div id="inputbox">
+        <input id="search" type="text"  placeholder="Search" oninput="TextInput()"/>
+
+    </div>
+    <div id="items">
+    </div>
+</body>
+</html>
