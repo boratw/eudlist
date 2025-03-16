@@ -1,0 +1,113 @@
+{
+    "summary": {
+        "name": "Flingy.dat Offset (Flingy)",
+        "large_offset": true
+    },
+    "data": [
+        {
+            "id": "323",
+            "address": "7116888",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "326973",
+            "byte": "0",
+            "name": "Movement Control",
+            "size": "1",
+            "length": "209",
+            "scr": "Simple Data",
+            "description": "0 = Flingy.dat Control<br>1 = Partially Mobile, Weapon<br>2 = Iscript.bin Control",
+            "offset": "0x6C9858",
+            "varname": "movementControl"
+        },
+        {
+            "id": "324",
+            "address": "7117104",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "327027",
+            "byte": "0",
+            "name": "Halt Distance",
+            "size": "4",
+            "length": "209",
+            "scr": "Simple Data",
+            "description": "Measured in pixels*256",
+            "offset": "0x6C9930",
+            "varname": "haltDistance"
+        },
+        {
+            "id": "325",
+            "address": "7117944",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "327237",
+            "byte": "0",
+            "name": "Acceleration",
+            "size": "2",
+            "length": "209",
+            "scr": "Simple Data",
+            "description": "Measured in pixels-per-frame.",
+            "offset": "0x6C9C78",
+            "varname": "acceleration"
+        },
+        {
+            "id": "326",
+            "address": "7118368",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "327343",
+            "byte": "0",
+            "name": "Turn Radius",
+            "size": "1",
+            "length": "209",
+            "scr": "Simple Data",
+            "description": "",
+            "offset": "0x6C9E20",
+            "varname": "turnSpeed"
+        },
+        {
+            "id": "327",
+            "address": "7118584",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "327397",
+            "byte": "0",
+            "name": "Top Speed",
+            "size": "4",
+            "length": "209",
+            "scr": "Simple Data",
+            "description": "Measured in pixels-per-frame, but written as &quot;Speed*(320/3)&quot;",
+            "offset": "0x6C9EF8",
+            "varname": "topSpeed"
+        },
+        {
+            "id": "661",
+            "address": "7119424",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "327607",
+            "byte": "0",
+            "name": "Unused",
+            "size": "1",
+            "length": "209",
+            "scr": "Simple Data",
+            "description": "Unused in DatEdit",
+            "offset": "0x6CA240",
+            "varname": " "
+        },
+        {
+            "id": "328",
+            "address": "7119640",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "327661",
+            "byte": "0",
+            "name": "Sprite Index",
+            "size": "2",
+            "length": "209",
+            "scr": "Simple Data",
+            "description": "Sprites.dat index",
+            "offset": "0x6CA318",
+            "varname": "sprite"
+        }
+    ]
+}

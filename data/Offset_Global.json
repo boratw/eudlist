@@ -5026,7 +5026,7 @@
             "name": "Sprites.dat - Image Index",
             "size": "2",
             "length": "517",
-            "scr": "Backed By Code",
+            "scr": "Simple Data",
             "description": "Images.dat index",
             "offset": "0x666160"
         },
@@ -5040,7 +5040,7 @@
             "name": "Sprites.dat - Unknown",
             "size": "1",
             "length": "517",
-            "scr": "Simple Data",
+            "scr": "Backed By Code",
             "description": "Unknown flag.",
             "offset": "0x666570"
         },

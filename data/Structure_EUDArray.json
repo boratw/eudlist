@@ -1,0 +1,328 @@
+﻿{
+    "summary": {
+        "name": "EUDArray",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self",
+                "initval",
+                "_from"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;initval<br>&emsp;_from<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "Assign",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "eqitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "geitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "get",
+            "params": [
+                "self",
+                "key"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "gtitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iadditem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ianditem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ifloordivitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iinvertitem",
+            "params": [
+                "self",
+                "key"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ilshiftitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "imoditem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "imulitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "inotitem",
+            "params": [
+                "self",
+                "key"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ioritem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ipowitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "irshiftitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "isubitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "isubtractitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ixoritem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "leitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ltitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "neitem",
+            "params": [
+                "self",
+                "key",
+                "val"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set",
+            "params": [
+                "self",
+                "key",
+                "item"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;item<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_bound_check",
+            "params": [
+                "self",
+                "index"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;index : <class 'object'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_lazy_init_epd",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__getitem__",
+            "params": [
+                "self",
+                "key"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__iter__",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__setitem__",
+            "params": [
+                "self",
+                "key",
+                "item"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;item<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "dont_flatten",
+            "datatype": "bool",
+            "description": ""
+        },
+        {
+            "name": "length",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "_epd",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__annotations__",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__parameters__",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__slots__",
+            "datatype": "tuple",
+            "description": ""
+        }
+    ]
+}

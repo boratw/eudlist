@@ -1,0 +1,374 @@
+﻿{
+    "summary": {
+        "name": "Upgrade Index",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "offset": "0",
+            "name": "Terran Infantry Armor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "1",
+            "name": "Terran Vehicle Plating",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "2",
+            "name": "Terran Ship Plating",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "3",
+            "name": "Zerg Carapace",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "4",
+            "name": "Zerg Flyer Carapace",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "5",
+            "name": "Protoss Armor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "6",
+            "name": "Protoss Plating",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "7",
+            "name": "Terran Infantry Weapons",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "8",
+            "name": "Terran Vehicle Weapons",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "9",
+            "name": "Terran Ship Weapons",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "10",
+            "name": "Zerg Melee Attacks",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "11",
+            "name": "Zerg Missile Attacks",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "12",
+            "name": "Zerg Flyer Attacks",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "13",
+            "name": "Protoss Ground Weapons",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "14",
+            "name": "Protoss Air Weapons",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "15",
+            "name": "Protoss Plasma Shields",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "16",
+            "name": "U-238 Shells",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "17",
+            "name": "Ion Thrusters",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "18",
+            "name": "Burst Lasers (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "19",
+            "name": "Titan Reactor (SV +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "20",
+            "name": "Ocular Implants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "21",
+            "name": "Moebius Reactor (Ghost +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "22",
+            "name": "Apollo Reactor (Wraith +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "23",
+            "name": "Colossus Reactor (BC +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "24",
+            "name": "Ventral Sacs",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "25",
+            "name": "Antennae",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "26",
+            "name": "Pneumatized Carapace",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "27",
+            "name": "Metabolic Boost",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "28",
+            "name": "Adrenal Glands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "29",
+            "name": "Muscular Augments",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "30",
+            "name": "Grooved Spines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "31",
+            "name": "Gamete Meiosis (Queen +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "32",
+            "name": "Metasynaptic Node (Defiler +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "33",
+            "name": "Singularity Charge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "34",
+            "name": "Leg Enhancements",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "35",
+            "name": "Scarab Damage",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "36",
+            "name": "Reaver Capacity",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "37",
+            "name": "Gravitic Drive",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "38",
+            "name": "Sensor Array",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "39",
+            "name": "Gravitic Boosters",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "40",
+            "name": "Khaydarin Amulet (HT +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "41",
+            "name": "Apial Sensors",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "42",
+            "name": "Gravitic Thrusters",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "43",
+            "name": "Carrier Capacity",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "44",
+            "name": "Khaydarin Core (Arbiter +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "45",
+            "name": "Unused45",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "46",
+            "name": "Unused46",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "47",
+            "name": "Argus Jewel (Corsair +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "48",
+            "name": "Unused48",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "49",
+            "name": "Argus Talisman (DA +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "50",
+            "name": "Unused50",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "51",
+            "name": "Caduceus Reactor (Medic +50)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "52",
+            "name": "Chitinous Plating",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "53",
+            "name": "Anabolic Synthesis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "54",
+            "name": "Charon Booster",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "55",
+            "name": "Unused55",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "56",
+            "name": "Unused56",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "57",
+            "name": "Unused57",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "58",
+            "name": "Unused58",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "59",
+            "name": "Unused59",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "60",
+            "name": "Unused60",
+            "alt_name": [],
+            "description": ""
+        }
+    ]
+}

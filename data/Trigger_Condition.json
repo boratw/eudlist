@@ -1,0 +1,275 @@
+﻿{
+    "summary": {
+        "name": "Condition Triggers",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "Accumulate",
+            "offset": 4,
+            "params": [
+                "player",
+                "comparison",
+                "number",
+                "resource_type"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;player : _Player | Dword | ExprProxy[Player]<br>&emsp;comparison : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;number : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;resource_type : TrgResource | Byte | ExprProxy[Resource]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Player accumulates quantity resources.<br>&emsp;<br>&emsp;    Accumulate requires that the player gather enough of a specific resource."
+        },
+        {
+            "name": "Always",
+            "offset": 22,
+            "params": [],
+            "return": "Condition",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Always.<br>&emsp;<br>&emsp;    Accumulate requires that the player gather enough of a specific resource."
+        },
+        {
+            "name": "Bring",
+            "offset": 3,
+            "params": [
+                "player",
+                "comparison",
+                "number",
+                "unit",
+                "location"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;player : _Player | Dword | ExprProxy[Player]<br>&emsp;comparison : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;number : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br>&emsp;location : str | Byte | bytes | ExprProxy[Location]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Player brings quantity units to location.<br>&emsp;<br>&emsp;    This states that a player is required to bring 'X' number of units to a<br>&emsp;    specific location. The units can be any player-controlled unit available<br>&emsp;    in the game."
+        },
+        {
+            "name": "Command",
+            "offset": 2,
+            "params": [
+                "player",
+                "comparison",
+                "number",
+                "unit"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;player : _Player | Dword | ExprProxy[Player]<br>&emsp;comparison : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;number : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;[Player] commands [Comparison] [Number] [Unit].<br>&emsp;<br>&emsp;    Example::<br>&emsp;        Command(Player1, AtLeast, 30, \"Terran Marine\")"
+        },
+        {
+            "name": "CommandLeast",
+            "offset": 16,
+            "params": [
+                "unit"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player commands the least units.<br>&emsp;<br>&emsp;    Command the Least allows you to define an action based on the player that<br>&emsp;    commands the least units. You might use this to give advantages to slower<br>&emsp;    players or to single out weakened players. Note that this condition checks<br>&emsp;    all players, including neutral, computer controlled, and rescuable players."
+        },
+        {
+            "name": "CommandLeastAt",
+            "offset": 17,
+            "params": [
+                "unit",
+                "location"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br>&emsp;location : str | Byte | bytes | ExprProxy[Location]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player commands the least units at location.<br>&emsp;<br>&emsp;    Command the Least At is similar to 'Command the Least', however, but only<br>&emsp;    compares units at a particular location.<br>&emsp;    The location can be restricted to certain elevations."
+        },
+        {
+            "name": "CommandMost",
+            "offset": 6,
+            "params": [
+                "unit"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player commands the most units.<br>&emsp;<br>&emsp;    Command the Most requires that you command the most of the defined units.<br>&emsp;    These units can be any player-controlled unit available in the game.<br>&emsp;    This condition compares all players in the game, including neutral and<br>&emsp;    rescuable units."
+        },
+        {
+            "name": "CommandMostAt",
+            "offset": 7,
+            "params": [
+                "unit",
+                "location"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br>&emsp;location : str | Byte | bytes | ExprProxy[Location]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player commands the most units at location.<br>&emsp;<br>&emsp;    Similar to the Command the Most, this condition compares<br>&emsp;    the number of units at a specific location.<br>&emsp;    The location can be restricted to certain elevations."
+        },
+        {
+            "name": "CountdownTimer",
+            "offset": 1,
+            "params": [
+                "comparison",
+                "time"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;comparison : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;time : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Checks countdown timer.<br>&emsp;<br>&emsp;    Example::<br>&emsp;<br>&emsp;        CountdownTimer(AtLeast, 10)<br>&emsp;<br>&emsp;    Memory Layout::<br>&emsp;<br>&emsp;        0000 0000 0000 0000 TTTT TTTT 0000 CP01 0000<br>&emsp;<br>&emsp;        T : time, CP : Comparison."
+        },
+        {
+            "name": "Deaths",
+            "offset": 15,
+            "params": [
+                "player",
+                "comparison",
+                "number",
+                "unit"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;player : _Player | Dword | ExprProxy[Player]<br>&emsp;comparison : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;number : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Player has suffered quantity deaths of unit.<br>&emsp;<br>&emsp;    Gives you the ability to create actions that are launched when a player has<br>&emsp;    suffered a specific number of deaths of any of the units in the game."
+        },
+        {
+            "name": "DeathsX",
+            "offset": " ",
+            "params": [
+                "player",
+                "comparison",
+                "number",
+                "unit",
+                "mask"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;player : _Player | Dword | ExprProxy[Player]<br>&emsp;comparison : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;number : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br>&emsp;mask : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ElapsedTime",
+            "offset": 12,
+            "params": [
+                "comparison",
+                "time"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;comparison : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;time : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Elapsed scenario time is duration game seconds.<br>&emsp;<br>&emsp;    This condition allows you to create triggers that occur after a specified<br>&emsp;    number of game seconds have passed since the start of the scenario."
+        },
+        {
+            "name": "HighestScore",
+            "offset": 9,
+            "params": [
+                "ScoreType"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;ScoreType : TrgScore | Byte | ExprProxy[_Score]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player has highest score points.<br>&emsp;<br>&emsp;    This condition is considered true if the trigger's owner has the highest<br>&emsp;    Score. Note that if this is used as the only condition in a trigger,<br>&emsp;    it will activate immediately at the start of the scenario,<br>&emsp;    since all players will be tied for the highest score."
+        },
+        {
+            "name": "LeastKills",
+            "offset": 18,
+            "params": [
+                "unit"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player has least kills of unit.<br>&emsp;<br>&emsp;    This condition is considered true if the trigger's owner has the least<br>&emsp;    kills of the specified Unit."
+        },
+        {
+            "name": "LeastResources",
+            "offset": 20,
+            "params": [
+                "resource_type"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;resource_type : TrgResource | Byte | ExprProxy[Resource]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player has least resources.<br>&emsp;<br>&emsp;    Similar to Least Kills, this condition is considered true if the trigger's<br>&emsp;    owner has the least of the specified resource.<br>&emsp;    Note that Least Resources checks all players, including neutral, computer<br>&emsp;    controlled and rescuable players."
+        },
+        {
+            "name": "LowestScore",
+            "offset": 19,
+            "params": [
+                "ScoreType"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;ScoreType : TrgScore | Byte | ExprProxy[_Score]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player has lowest score points.<br>&emsp;<br>&emsp;    This condition evaluates the current Score and is considered true<br>&emsp;    if the current player has the lowest or is tied for the lowest score.<br>&emsp;    Lowest Score checks all players, including neutral and rescuable players."
+        },
+        {
+            "name": "Memory",
+            "offset": " ",
+            "params": [
+                "dest",
+                "cmptype",
+                "value"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;dest : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;cmptype : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;value : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MemoryEPD",
+            "offset": " ",
+            "params": [
+                "dest",
+                "cmptype",
+                "value"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;dest : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;cmptype : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;value : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MemoryX",
+            "offset": " ",
+            "params": [
+                "dest",
+                "cmptype",
+                "value",
+                "mask"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;dest : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;cmptype : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;value : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;mask : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MemoryXEPD",
+            "offset": " ",
+            "params": [
+                "dest",
+                "cmptype",
+                "value",
+                "mask"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;dest : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;cmptype : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;value : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br>&emsp;mask : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MostKills",
+            "offset": 8,
+            "params": [
+                "unit"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;unit : DefaultUnit | TrgUnit | Word | ExprProxy[Unit]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player has most kills of unit.<br>&emsp;<br>&emsp;    This condition is considered true if the trigger's owner has<br>&emsp;    the most kills of the specified Unit."
+        },
+        {
+            "name": "MostResources",
+            "offset": 10,
+            "params": [
+                "resource_type"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;resource_type : TrgResource | Byte | ExprProxy[Resource]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Current player has most resources.<br>&emsp;<br>&emsp;    Similar to Most Kills, this condition is considered true if the trigger's<br>&emsp;    owner has the most of the specified resource."
+        },
+        {
+            "name": "Never",
+            "offset": 23,
+            "params": [],
+            "return": "Condition",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Never.<br>&emsp;<br>&emsp;    The Never condition can be used to temporarily disable actions for testing.<br>&emsp;    A trigger with the Never condition will not activate at any point."
+        },
+        {
+            "name": "Opponents",
+            "offset": 14,
+            "params": [
+                "player",
+                "comparison",
+                "number"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;player : _Player | Dword | ExprProxy[Player]<br>&emsp;comparison : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;number : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Player has quantity opponents remaining in the game.<br>&emsp;<br>&emsp;    This condition evaluates how many of the players are opponents of the<br>&emsp;    trigger owner. By default, all of the other players are considered<br>&emsp;    opponents. A player does not count as an opponent if either of the<br>&emsp;    following conditions are met:<br>&emsp;<br>&emsp;    * The player has been defeated. This condition only counts players<br>&emsp;    that are still in the game.<br>&emsp;<br>&emsp;    * The player is set for allied victory with the trigger owner,<br>&emsp;    AND the player is set for allied victory with all other players set for<br>&emsp;    allied victory with the trigger owner.<br>&emsp;    (The enemy of an ally is still an enemy.)<br>&emsp;<br>&emsp;    As a result, if opponents equals zero, all of remaining players are set for<br>&emsp;    allied victory with each other. Use this condition with the Victory action<br>&emsp;    to create a scenario that allows for allied victory."
+        },
+        {
+            "name": "Score",
+            "offset": 21,
+            "params": [
+                "player",
+                "ScoreType",
+                "comparison",
+                "number"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;player : _Player | Dword | ExprProxy[Player]<br>&emsp;ScoreType : TrgScore | Byte | ExprProxy[_Score]<br>&emsp;comparison : TrgComparison | Byte | ExprProxy[Comparison]<br>&emsp;number : int | EUDVariable | ConstExpr | ExprProxy[int | EUDVariable | ConstExpr]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Player score type score is quantity.<br>&emsp;<br>&emsp;    This condition allows you to analyze a player's current Score and perform<br>&emsp;    actions based on the value.<br>&emsp;    You can reference any of the individual scoring types from score."
+        },
+        {
+            "name": "Switch",
+            "offset": 11,
+            "params": [
+                "switch",
+                "state"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;switch : str | Byte | bytes | ExprProxy[_Switch]<br>&emsp;state : TrgSwitchState | Byte | ExprProxy[SwitchState]<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Switch is set.<br>&emsp;<br>&emsp;    This allows you to test against a switch value. Switches are on/off values<br>&emsp;    that can be set with an action.<br>&emsp;    Switches can be used to keep track of which triggers have been activated,<br>&emsp;    to disable or enable certain triggers or to link multiple triggers<br>&emsp;    together. You may also rename switches from this dialog box."
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "summary": {
+        "name": "Sprites.dat Offset (Sprite)",
+        "large_offset": true
+    },
+    "data": [
+        {
+            "id": "329",
+            "address": "6707904",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "224727",
+            "byte": "0",
+            "name": "Selection Circle",
+            "size": "1",
+            "length": "387",
+            "scr": "Read Only",
+            "description": "Images.dat reference starting at index 561.<br>Starts on sprites.dat entry 130.",
+            "offset": "0x665AC0",
+            "varname": " "
+        },
+        {
+            "id": "330",
+            "address": "6708296",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "224825",
+            "byte": "0",
+            "name": "Visible",
+            "size": "1",
+            "length": "517",
+            "scr": "Simple Data",
+            "description": "",
+            "offset": "0x665C48",
+            "varname": "isVisible"
+        },
+        {
+            "id": "331",
+            "address": "6708816",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "224955",
+            "byte": "0",
+            "name": "HP Bar Length",
+            "size": "1",
+            "length": "387",
+            "scr": "Read Only",
+            "description": "Starts on Sprites.dat ID 130.",
+            "offset": "0x665E50",
+            "varname": " "
+        },
+        {
+            "id": "332",
+            "address": "6709208",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "225053",
+            "byte": "0",
+            "name": "Selection Vertical Offset",
+            "size": "1",
+            "length": "387",
+            "scr": "Read Only",
+            "description": "Starts on Sprites.dat ID 130.",
+            "offset": "0x665FD8",
+            "varname": " "
+        },
+        {
+            "id": "333",
+            "address": "6709600",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "225151",
+            "byte": "0",
+            "name": "Image Index",
+            "size": "2",
+            "length": "517",
+            "scr": "Simple Data",
+            "description": "Images.dat index",
+            "offset": "0x666160",
+            "varname": "image"
+        },
+        {
+            "id": "334",
+            "address": "6710640",
+            "version": "1.16.1",
+            "platform": "0",
+            "pid": "225411",
+            "byte": "0",
+            "name": "Unknown",
+            "size": "1",
+            "length": "517",
+            "scr": "Backed By Code",
+            "description": "Unknown flag.",
+            "offset": "0x666570",
+            "varname": " "
+        }
+    ]
+}

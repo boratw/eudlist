@@ -1,0 +1,107 @@
+﻿{
+    "summary": {
+        "name": "EUDVArray",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self",
+                "initvar",
+                "_from",
+                "_size",
+                "_basetype"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;initvar : Sequence[ConstExpr | int | tuple[ConstExpr | int, ConstExpr | int, ConstExpr | int]] | None<br>&emsp;_from<br>&emsp;_size : int<br>&emsp;_basetype : type | None<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "get",
+            "params": [
+                "self",
+                "i",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;i<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set",
+            "params": [
+                "self",
+                "i",
+                "value",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;i<br>&emsp;value<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_bound_check",
+            "params": [
+                "self",
+                "index"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;index : object<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__getitem__",
+            "params": [
+                "self",
+                "i"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;i<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__iter__",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__setitem__",
+            "params": [
+                "self",
+                "i",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;i<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "dont_flatten",
+            "datatype": "bool",
+            "description": ""
+        },
+        {
+            "name": "__dict__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__parameters__",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__weakref__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        }
+    ]
+}

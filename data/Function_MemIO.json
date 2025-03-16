@@ -1,0 +1,590 @@
+﻿{
+    "summary": {
+        "name": "Memory IO Functions",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "f_badd_epd",
+            "params": [
+                "epd",
+                "subp",
+                "b"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;b : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_bread_epd",
+            "params": [
+                "epd",
+                "subp",
+                "ret"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;ret : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_bsubtract_epd",
+            "params": [
+                "epd",
+                "subp",
+                "b"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;b : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_bwrite_epd",
+            "params": [
+                "epd",
+                "subp",
+                "b"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;b : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_maskwrite_epd",
+            "params": [
+                "epd",
+                "value",
+                "mask"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;value : <class 'inspect._empty'><br>&emsp;mask : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_wadd_epd",
+            "params": [
+                "epd",
+                "subp",
+                "w"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;w : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_wread_epd",
+            "params": [
+                "epd",
+                "subp",
+                "ret"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;ret : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_wsubtract_epd",
+            "params": [
+                "epd",
+                "subp",
+                "w"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;w : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_wwrite_epd",
+            "params": [
+                "epd",
+                "subp",
+                "w"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;w : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_bread_cp",
+            "params": [
+                "cpo",
+                "subp",
+                "ret"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;ret : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_bwrite_cp",
+            "params": [
+                "cpo",
+                "subp",
+                "b"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;b : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwadd_cp",
+            "params": [
+                "cpo",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwepdread_cp",
+            "params": [
+                "cpo",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwread_cp",
+            "params": [
+                "cpo",
+                "ret"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;ret : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwsubtract_cp",
+            "params": [
+                "cpo",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwwrite_cp",
+            "params": [
+                "cpo",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_epdread_cp",
+            "params": [
+                "cpo",
+                "ret"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;ret : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_maskwrite_cp",
+            "params": [
+                "cpo",
+                "value",
+                "mask"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;value : <class 'inspect._empty'><br>&emsp;mask : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_wread_cp",
+            "params": [
+                "cpo",
+                "subp",
+                "ret"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;ret : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_wwrite_cp",
+            "params": [
+                "cpo",
+                "subp",
+                "w"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;w : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwadd_epd",
+            "params": [
+                "targetplayer",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwbreak",
+            "params": [
+                "number"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;number : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Get hiword/loword/4byte of dword"
+        },
+        {
+            "name": "f_dwbreak2",
+            "params": [
+                "number"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;number : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Get hiword/loword/4byte of dword"
+        },
+        {
+            "name": "f_dwepdread_epd",
+            "params": [
+                "targetplayer"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwepdread_epd_safe",
+            "params": [
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwread_epd",
+            "params": [
+                "targetplayer",
+                "ret"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br>&emsp;ret : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwread_epd_safe",
+            "params": [
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwsubtract_epd",
+            "params": [
+                "targetplayer",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwwrite_epd",
+            "params": [
+                "targetplayer",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_epdread_epd",
+            "params": [
+                "targetplayer",
+                "ret"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br>&emsp;ret : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_epdread_epd_safe",
+            "params": [
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_flagread_epd",
+            "params": [
+                "targetplayer",
+                "flags",
+                "_readerdict"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br>&emsp;flags : <class 'inspect._empty'><br>&emsp;_readerdict : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_memcmp",
+            "params": [
+                "buf1",
+                "buf2",
+                "count"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;buf1 : <class 'inspect._empty'><br>&emsp;buf2 : <class 'inspect._empty'><br>&emsp;count : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_memcpy",
+            "params": [
+                "dst",
+                "src",
+                "copylen",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;dst : <class 'inspect._empty'><br>&emsp;src : <class 'inspect._empty'><br>&emsp;copylen : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_repmovsd_epd",
+            "params": [
+                "dstepdp",
+                "srcepdp",
+                "copydwn"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;dstepdp : <class 'inspect._empty'><br>&emsp;srcepdp : <class 'inspect._empty'><br>&emsp;copydwn : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_cunitepdread_cp",
+            "params": [
+                "cpo",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_cunitepdread_epd",
+            "params": [
+                "targetplayer"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_cunitread_cp",
+            "params": [
+                "cpo",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_cunitread_epd",
+            "params": [
+                "targetplayer"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_epdcunitread_cp",
+            "params": [
+                "cpo",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_epdcunitread_epd",
+            "params": [
+                "targetplayer"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_epdspriteread_cp",
+            "params": [
+                "cpo",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_epdspriteread_epd",
+            "params": [
+                "targetplayer"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_maskread_cp",
+            "params": [
+                "cpo",
+                "mask",
+                "_fdict",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;mask : <class 'inspect._empty'><br>&emsp;_fdict : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_maskread_epd",
+            "params": [
+                "targetplayer",
+                "mask",
+                "_fdict",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br>&emsp;mask : <class 'inspect._empty'><br>&emsp;_fdict : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_posread_cp",
+            "params": [
+                "cpoffset",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpoffset : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_posread_epd",
+            "params": [
+                "epd",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_readgen_cp",
+            "params": [
+                "mask",
+                "args",
+                "docstring",
+                "_check_empty"
+            ],
+            "return": "Callable",
+            "description": "PARAMETERS<br>&emsp;mask : <class 'int'><br>&emsp;args : tuple[int, collections.abc.Callable[[int], int]]<br>&emsp;docstring : str | None<br>&emsp;_check_empty : <class 'bool'><br><br>RETURN<br>&emsp;Callable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_readgen_epd",
+            "params": [
+                "mask",
+                "args",
+                "docstring",
+                "_check_empty"
+            ],
+            "return": "EUDTypedFuncN",
+            "description": "PARAMETERS<br>&emsp;mask : <class 'int'><br>&emsp;args : tuple[int, collections.abc.Callable[[int], int]]<br>&emsp;docstring : str | None<br>&emsp;_check_empty : <class 'bool'><br><br>RETURN<br>&emsp;EUDTypedFuncN<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_spriteepdread_cp",
+            "params": [
+                "cpo",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_spriteepdread_epd",
+            "params": [
+                "targetplayer"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_spriteread_cp",
+            "params": [
+                "cpo",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cpo : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_spriteread_epd",
+            "params": [
+                "targetplayer"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;targetplayer : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_addcurpl",
+            "params": [
+                "cp"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cp : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Add current player value.<br>&emsp;<br>&emsp;    eudplib internally caches the current player value,<br>&emsp;    so this function add to that value."
+        },
+        {
+            "name": "f_getcurpl",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Get current player value.<br>&emsp;<br>&emsp;    eudplib internally caches the current player value, so this function uses<br>&emsp;    that value if the value is valid. Otherwise, update the current player<br>&emsp;    cache and return it."
+        },
+        {
+            "name": "f_setcurpl",
+            "params": [
+                "cp",
+                "actions",
+                "set_modifier"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cp : <class 'inspect._empty'><br>&emsp;actions : <class 'inspect._empty'><br>&emsp;set_modifier : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_setcurpl2cpcache",
+            "params": [
+                "v",
+                "actions"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;v : <class 'inspect._empty'><br>&emsp;actions : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_bread",
+            "params": [
+                "ptr",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;ptr : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_bwrite",
+            "params": [
+                "ptr",
+                "b"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;ptr : <class 'inspect._empty'><br>&emsp;b : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwread",
+            "params": [
+                "ptr",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;ptr : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dwwrite",
+            "params": [
+                "ptr",
+                "dw"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;ptr : <class 'inspect._empty'><br>&emsp;dw : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_wread",
+            "params": [
+                "ptr",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;ptr : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_wwrite",
+            "params": [
+                "ptr",
+                "w"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;ptr : <class 'inspect._empty'><br>&emsp;w : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        }
+    ]
+}

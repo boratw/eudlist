@@ -1,0 +1,501 @@
+﻿{
+    "summary": {
+        "name": "StringBuffer",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self",
+                "content",
+                "_from"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;content<br>&emsp;_from<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Constructor for StringBuffer<br>&emsp;<br>&emsp;        :param content: Initial StringBuffer content / capacity. Capacity of<br>&emsp;            StringBuffer is determined by size of this. If content is integer,<br>&emsp;            then initial capacity and content of StringBuffer will be set to<br>&emsp;            content(int) and empty string.<br>&emsp;<br>&emsp;        :type content: str, bytes, int"
+        },
+        {
+            "name": "append",
+            "params": [
+                "self",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "appendf",
+            "params": [
+                "self",
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;format_string<br>&emsp;args<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "constructor",
+            "params": [
+                "self",
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "constructor_static",
+            "params": [
+                "self",
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "copyto",
+            "params": [
+                "self",
+                "inst"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;inst<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "delete",
+            "params": [
+                "self",
+                "start",
+                "length"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;start<br>&emsp;length<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "destructor",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "Display",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "DisplayAt",
+            "params": [
+                "self",
+                "line",
+                "_f"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;line<br>&emsp;_f<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "fadeIn",
+            "params": [
+                "self",
+                "args",
+                "color",
+                "wait",
+                "reset",
+                "line",
+                "tag"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br>&emsp;color<br>&emsp;wait<br>&emsp;reset<br>&emsp;line<br>&emsp;tag<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "fadeInf",
+            "params": [
+                "self",
+                "format_string",
+                "args",
+                "color",
+                "wait",
+                "reset",
+                "line",
+                "tag"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;format_string<br>&emsp;args<br>&emsp;color<br>&emsp;wait<br>&emsp;reset<br>&emsp;line<br>&emsp;tag<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "fadeOut",
+            "params": [
+                "self",
+                "args",
+                "color",
+                "wait",
+                "reset",
+                "line",
+                "tag"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br>&emsp;color<br>&emsp;wait<br>&emsp;reset<br>&emsp;line<br>&emsp;tag<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "fadeOutf",
+            "params": [
+                "self",
+                "format_string",
+                "args",
+                "color",
+                "wait",
+                "reset",
+                "line",
+                "tag"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;format_string<br>&emsp;args<br>&emsp;color<br>&emsp;wait<br>&emsp;reset<br>&emsp;line<br>&emsp;tag<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "fmt",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "getfield",
+            "params": [
+                "self",
+                "name"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name : <class 'str'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iaddattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iandattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ifloordivattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iinvertattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ilshiftattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "imodattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "imulattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "insert",
+            "params": [
+                "self",
+                "index",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;index<br>&emsp;args<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "insertf",
+            "params": [
+                "self",
+                "index",
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;index<br>&emsp;format_string<br>&emsp;args<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iorattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ipowattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "irshiftattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "isubattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "isubtractattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ixorattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "length",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "Play",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "print",
+            "params": [
+                "self",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "printAt",
+            "params": [
+                "self",
+                "line",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;line<br>&emsp;args<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "printf",
+            "params": [
+                "self",
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;format_string<br>&emsp;args<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "printfAt",
+            "params": [
+                "self",
+                "line",
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;line<br>&emsp;format_string<br>&emsp;args<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "setall",
+            "params": [
+                "self",
+                "values"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;values<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "setfield",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "tagprint",
+            "params": [
+                "self",
+                "format_string",
+                "args",
+                "line",
+                "tag"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;format_string<br>&emsp;args<br>&emsp;line<br>&emsp;tag<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_cpbranch",
+            "params": [
+                "&lt;built-in method&gt;"
+            ],
+            "return": " ",
+            "description": "DESCRIPTION"
+        },
+        {
+            "name": "_display_at",
+            "params": [
+                "self",
+                "prevpos",
+                "line"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;prevpos<br>&emsp;line<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_method_template",
+            "params": [
+                "&lt;built-in method&gt;"
+            ],
+            "return": " ",
+            "description": "DESCRIPTION"
+        },
+        {
+            "name": "alloc",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "free",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "_cpblock",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "_fielddict",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "_fields_",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "_init_template",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "__annotations__",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "__dict__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__parameters__",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__weakref__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        }
+    ]
+}

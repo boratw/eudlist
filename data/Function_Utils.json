@@ -1,0 +1,386 @@
+﻿{
+    "summary": {
+        "name": "Util Functions",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "b2i1",
+            "params": [
+                "b",
+                "index"
+            ],
+            "return": "int",
+            "description": "PARAMETERS<br>&emsp;b : collections.abc.Sequence[int]<br>&emsp;index : <class 'int'><br><br>RETURN<br>&emsp;int<br><br>DESCRIPTION"
+        },
+        {
+            "name": "b2i2",
+            "params": [
+                "b",
+                "index"
+            ],
+            "return": "int",
+            "description": "PARAMETERS<br>&emsp;b : collections.abc.Sequence[int]<br>&emsp;index : <class 'int'><br><br>RETURN<br>&emsp;int<br><br>DESCRIPTION"
+        },
+        {
+            "name": "b2i4",
+            "params": [
+                "b",
+                "index"
+            ],
+            "return": "int",
+            "description": "PARAMETERS<br>&emsp;b : collections.abc.Sequence[int]<br>&emsp;index : <class 'int'><br><br>RETURN<br>&emsp;int<br><br>DESCRIPTION"
+        },
+        {
+            "name": "bits",
+            "params": [
+                "n"
+            ],
+            "return": "Iterator",
+            "description": "PARAMETERS<br>&emsp;n : <class 'int'><br><br>RETURN<br>&emsp;Iterator<br><br>DESCRIPTION"
+        },
+        {
+            "name": "i2b1",
+            "params": [
+                "i"
+            ],
+            "return": "bytes",
+            "description": "PARAMETERS<br>&emsp;i : <class 'int'><br><br>RETURN<br>&emsp;bytes<br><br>DESCRIPTION"
+        },
+        {
+            "name": "i2b2",
+            "params": [
+                "i"
+            ],
+            "return": "bytes",
+            "description": "PARAMETERS<br>&emsp;i : <class 'int'><br><br>RETURN<br>&emsp;bytes<br><br>DESCRIPTION"
+        },
+        {
+            "name": "i2b4",
+            "params": [
+                "i"
+            ],
+            "return": "bytes",
+            "description": "PARAMETERS<br>&emsp;i : <class 'int'><br><br>RETURN<br>&emsp;bytes<br><br>DESCRIPTION"
+        },
+        {
+            "name": "EUDCreateBlock",
+            "params": [
+                "name",
+                "userdata"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;name : <class 'str'><br>&emsp;userdata : typing.Any<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "EUDGetBlockList",
+            "params": [],
+            "return": "list",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;list<br><br>DESCRIPTION"
+        },
+        {
+            "name": "EUDGetLastBlock",
+            "params": [],
+            "return": "tuple",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION"
+        },
+        {
+            "name": "EUDGetLastBlockOfName",
+            "params": [
+                "name"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;name : <class 'str'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION"
+        },
+        {
+            "name": "EUDPeekBlock",
+            "params": [
+                "name"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;name : <class 'str'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION"
+        },
+        {
+            "name": "EUDPopBlock",
+            "params": [
+                "name"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;name : <class 'str'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION"
+        },
+        {
+            "name": "TriggerScopeError",
+            "params": [
+                "msg",
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;msg : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ep_assert",
+            "params": [
+                "statement",
+                "message"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;statement : <class 'object'><br>&emsp;message : <class 'object'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ep_eprint",
+            "params": [
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'object'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ep_warn",
+            "params": [
+                "message"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;message : <class 'str'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "EPD",
+            "params": [
+                "p",
+                "kwargs"
+            ],
+            "return": "Any",
+            "description": "PARAMETERS<br>&emsp;p : typing.Any<br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;Any<br><br>DESCRIPTION"
+        },
+        {
+            "name": "Assignable2List",
+            "params": [
+                "a"
+            ],
+            "return": "list",
+            "description": "PARAMETERS<br>&emsp;a : typing.Any<br><br>RETURN<br>&emsp;list<br><br>DESCRIPTION"
+        },
+        {
+            "name": "FlattenIter",
+            "params": [
+                "lst"
+            ],
+            "return": "Iterator",
+            "description": "PARAMETERS<br>&emsp;lst : typing.Any<br><br>RETURN<br>&emsp;Iterator<br><br>DESCRIPTION"
+        },
+        {
+            "name": "FlattenList",
+            "params": [
+                "lst",
+                "ret"
+            ],
+            "return": "list",
+            "description": "PARAMETERS<br>&emsp;lst : typing.Any<br>&emsp;ret : <class 'inspect._empty'><br><br>RETURN<br>&emsp;list<br><br>DESCRIPTION"
+        },
+        {
+            "name": "List2Assignable",
+            "params": [
+                "lst"
+            ],
+            "return": "Union",
+            "description": "PARAMETERS<br>&emsp;lst : collections.abc.Sequence[~T]<br><br>RETURN<br>&emsp;Union<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SCMD2Text",
+            "params": [
+                "s"
+            ],
+            "return": "str",
+            "description": "PARAMETERS<br>&emsp;s : <class 'str'><br><br>RETURN<br>&emsp;str<br><br>DESCRIPTION"
+        },
+        {
+            "name": "cachedfunc",
+            "params": [
+                "user_function"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;user_function : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Simple lightweight unbounded cache.  Sometimes called \"memoize\"."
+        },
+        {
+            "name": "classproperty",
+            "params": [
+                "method"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;method : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Decorator that converts a method with a single cls argument into a property<br>&emsp;    that can be accessed directly from the class."
+        },
+        {
+            "name": "find_data_file",
+            "params": [
+                "filename",
+                "file"
+            ],
+            "return": "See Description",
+            "description": "PARAMETERS<br>&emsp;filename : <class 'inspect._empty'><br>&emsp;file : <class 'inspect._empty'><br><br>RETURN<br>&emsp;str | bytes<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ExprProxy",
+            "params": [
+                "initval"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;initval : +T_co<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Class which can contain both ConstExpr and EUDVariable"
+        },
+        {
+            "name": "isUnproxyInstance",
+            "params": [
+                "x",
+                "cls"
+            ],
+            "return": "bool",
+            "description": "PARAMETERS<br>&emsp;x : <class 'object'><br>&emsp;cls : type | types.UnionType | tuple['_ClassInfo', ...]<br><br>RETURN<br>&emsp;bool<br><br>DESCRIPTION"
+        },
+        {
+            "name": "unProxy",
+            "params": [
+                "x"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;x : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "b2u",
+            "params": [
+                "b"
+            ],
+            "return": "str",
+            "description": "PARAMETERS<br>&emsp;b : str | bytes<br><br>RETURN<br>&emsp;str<br><br>DESCRIPTION"
+        },
+        {
+            "name": "b2utf8",
+            "params": [
+                "b"
+            ],
+            "return": "str",
+            "description": "PARAMETERS<br>&emsp;b : str | bytes<br><br>RETURN<br>&emsp;str<br><br>DESCRIPTION"
+        },
+        {
+            "name": "u2b",
+            "params": [
+                "s"
+            ],
+            "return": "bytes",
+            "description": "PARAMETERS<br>&emsp;s : str | bytes<br><br>RETURN<br>&emsp;bytes<br><br>DESCRIPTION"
+        },
+        {
+            "name": "u2utf8",
+            "params": [
+                "s"
+            ],
+            "return": "bytes",
+            "description": "PARAMETERS<br>&emsp;s : str | bytes<br><br>RETURN<br>&emsp;bytes<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueGameCommand",
+            "params": [
+                "data",
+                "size"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;data : <class 'inspect._empty'><br>&emsp;size : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Queue game command to packet queue.<br>&emsp;<br>&emsp;    Starcraft periodically broadcasts game packets to other player. Game<br>&emsp;    packets are stored to queue, and this function add data to that queue, so<br>&emsp;    that SC can broadcast it.<br>&emsp;<br>&emsp;    :param data: Data to put in queue<br>&emsp;    :param size: Size of data<br>&emsp;<br>&emsp;    .. note::<br>&emsp;        If packet queue is full, this function fails. This behavior is silent<br>&emsp;        without any warning or error, since this behavior shouldn't happen in<br>&emsp;        common situations. So **Don't use this function too much in a frame.**"
+        },
+        {
+            "name": "QueueGameCommand_AddSelect",
+            "params": [
+                "n",
+                "ptr_arr"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;n : <class 'inspect._empty'><br>&emsp;ptr_arr : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;== 0x0A - Select Delta Add ==<br>&emsp;    {{{<br>&emsp;        BYTE bCount;<br>&emsp;        WORD unitID[bCount];<br>&emsp;    }}}"
+        },
+        {
+            "name": "QueueGameCommand_MergeArchon",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueGameCommand_MergeDarkArchon",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueGameCommand_MinimapPing",
+            "params": [
+                "xy"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;xy : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Queue minimap ping action.<br>&emsp;<br>&emsp;    :param xy: (y * 65536) + x, where (x, y) is coordinate for minimap ping."
+        },
+        {
+            "name": "QueueGameCommand_PauseGame",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueGameCommand_QueuedRightClick",
+            "params": [
+                "xy"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;xy : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Queue right click action.<br>&emsp;<br>&emsp;    :param xy: (y * 65536) + x, where (x, y) is coordinate for right click."
+        },
+        {
+            "name": "QueueGameCommand_RemoveSelect",
+            "params": [
+                "n",
+                "ptr_arr"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;n : <class 'inspect._empty'><br>&emsp;ptr_arr : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;== 0x0B - Select Delta Del ==<br>&emsp;    {{{<br>&emsp;        BYTE bCount;<br>&emsp;        WORD unitID[bCount];<br>&emsp;    }}}"
+        },
+        {
+            "name": "QueueGameCommand_RestartGame",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueGameCommand_ResumeGame",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueGameCommand_RightClick",
+            "params": [
+                "xy"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;xy : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Queue right click action.<br>&emsp;<br>&emsp;    :param xy: (y * 65536) + x, where (x, y) is coordinate for right click."
+        },
+        {
+            "name": "QueueGameCommand_Select",
+            "params": [
+                "n",
+                "ptr_arr"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;n : <class 'inspect._empty'><br>&emsp;ptr_arr : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;== 0x09 - Select Units ==<br>&emsp;    {{{<br>&emsp;        BYTE bCount;<br>&emsp;        WORD unitID[bCount];<br>&emsp;    }}}"
+        },
+        {
+            "name": "QueueGameCommand_TrainUnit",
+            "params": [
+                "unit"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueGameCommand_UseCheat",
+            "params": [
+                "flags"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;flags : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        }
+    ]
+}

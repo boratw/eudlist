@@ -79,14 +79,14 @@ div.navbtn[active="true"]:hover
 div.navbtn_p1
 {
     margin: 0 0 0 1em;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
 }
 div.navbtn_p2
 {
     margin: 0 0 0 2em;
-    padding-top: 0.25em;
-    padding-bottom: 0.25em;
+    padding-top: 0.125em;
+    padding-bottom: 0.125em;
 }
 p#credit
 {

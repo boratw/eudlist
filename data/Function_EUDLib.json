@@ -1,0 +1,288 @@
+﻿{
+    "summary": {
+        "name": "EUDLib Functions",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "f_setloc",
+            "params": [
+                "loc",
+                "coords",
+                "action"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;loc : <class 'inspect._empty'><br>&emsp;coords : <class 'inspect._empty'><br>&emsp;action : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_addloc",
+            "params": [
+                "loc",
+                "coords",
+                "action"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;loc : <class 'inspect._empty'><br>&emsp;coords : <class 'inspect._empty'><br>&emsp;action : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dilateloc",
+            "params": [
+                "loc",
+                "coords",
+                "action"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;loc : <class 'inspect._empty'><br>&emsp;coords : <class 'inspect._empty'><br>&emsp;action : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_getlocTL",
+            "params": [
+                "loc",
+                "kwargs"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;loc : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION<br>&emsp;로케이션의 위(top), 왼쪽 (left) 좌표를 얻어냅니다.<br>&emsp;    @param {[type]} loc 로케이션 번호. $L(로케이션 이름) 으로 얻을 수 있습니다."
+        },
+        {
+            "name": "f_setloc_epd",
+            "params": [
+                "loc",
+                "epd"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;loc : <class 'inspect._empty'><br>&emsp;epd : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_atan2",
+            "params": [
+                "y",
+                "x"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;y : <class 'inspect._empty'><br>&emsp;x : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_atan2_256",
+            "params": [
+                "y",
+                "x"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;y : <class 'inspect._empty'><br>&emsp;x : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_lengthdir",
+            "params": [
+                "length",
+                "angle"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;length : <class 'inspect._empty'><br>&emsp;angle : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_lengthdir_256",
+            "params": [
+                "length",
+                "angle"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;length : <class 'inspect._empty'><br>&emsp;angle : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_pow",
+            "params": [
+                "a",
+                "b"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;a : <class 'inspect._empty'><br>&emsp;b : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;f_pow(a, b) calculates a ** b"
+        },
+        {
+            "name": "f_sqrt",
+            "params": [
+                "n"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;n : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "EUDBinaryMax",
+            "params": [
+                "cond",
+                "minv",
+                "maxv"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;cond : <class 'inspect._empty'><br>&emsp;minv : <class 'inspect._empty'><br>&emsp;maxv : <class 'inspect._empty'><br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION<br>&emsp;Find maximum x satisfying cond(x) using binary search<br>&emsp;<br>&emsp;    :param cond: Test condition<br>&emsp;    :param minv: Minimum value in domain<br>&emsp;    :param maxv: Maximum value in domain<br>&emsp;<br>&emsp;    Cond should be binary classifier, meaning that for some N<br>&emsp;        for all x > N, cond(x) is false.<br>&emsp;        for all x <= N, cond(x) is true<br>&emsp;    Then EUDBinaryMin will find such N.<br>&emsp;<br>&emsp;    .. note:: If none of the value satisfies condition, then this<br>&emsp;        function will return maxv."
+        },
+        {
+            "name": "EUDBinaryMin",
+            "params": [
+                "cond",
+                "minv",
+                "maxv"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;cond : <class 'inspect._empty'><br>&emsp;minv : <class 'inspect._empty'><br>&emsp;maxv : <class 'inspect._empty'><br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION<br>&emsp;Find minimum x satisfying cond(x) using binary search<br>&emsp;<br>&emsp;    :param cond: Test condition<br>&emsp;    :param minv: Minimum value in domain<br>&emsp;    :param maxv: Maximum value in domain<br>&emsp;<br>&emsp;    Cond should be binary classifier, meaning that for some N<br>&emsp;        for all x < N, cond(x) is false.<br>&emsp;        for all x >= N, cond(x) is true<br>&emsp;    Then EUDBinaryMin will find such N<br>&emsp;<br>&emsp;    .. note:: If none of the value satisfies condition, then this<br>&emsp;        function will return maxv."
+        },
+        {
+            "name": "EUDLoopPlayer",
+            "params": [
+                "ptype",
+                "force",
+                "race"
+            ],
+            "return": "Iterator",
+            "description": "PARAMETERS<br>&emsp;ptype : typing.Optional[typing.Literal['Zerg', 'Terran', 'Protoss', 'Independent', 'Neutral', 'User selectable', 'Inactive', 'Human', 'Starcraft Campaign Editor', '']]<br>&emsp;force : int | eudplib.scdata.player.TrgPlayer | None<br>&emsp;race : typing.Optional[typing.Literal['Unused', 'Rescuable', 'Computer', 'Human', 'Neutral', '']]<br><br>RETURN<br>&emsp;Iterator<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_playerexist",
+            "params": [
+                "player"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;player : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Check if player has not left the game.<br>&emsp;<br>&emsp;    :returns: 1 if player exists, 0 if not."
+        },
+        {
+            "name": "f_dwrand",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_getseed",
+            "params": [],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_rand",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_randomize",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_srand",
+            "params": [
+                "seed"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;seed : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "IsUserCP",
+            "params": [],
+            "return": "Condition",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Condition: check if CurrentPlayer equals to user player id (local)"
+        },
+        {
+            "name": "f_getuserplayerid",
+            "params": [],
+            "return": "TrgPlayer",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;TrgPlayer<br><br>DESCRIPTION"
+        },
+        {
+            "name": "DisplayTextAll",
+            "params": [
+                "text"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;text : <class 'inspect._empty'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION<br>&emsp;Action: DisplayText for everyone (including observers)"
+        },
+        {
+            "name": "PlayWAVAll",
+            "params": [
+                "soundpath"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;soundpath : <class 'inspect._empty'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION<br>&emsp;Action: PlayWAV for everyone (including observers)"
+        },
+        {
+            "name": "CenterViewAll",
+            "params": [
+                "location"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;location : <class 'inspect._empty'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION<br>&emsp;Action: CenterView for everyone (including observers)"
+        },
+        {
+            "name": "MinimapPingAll",
+            "params": [
+                "location"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;location : <class 'inspect._empty'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION<br>&emsp;Action: MinimapPing for everyone (including observers)"
+        },
+        {
+            "name": "SetMissionObjectivesAll",
+            "params": [
+                "text"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;text : <class 'inspect._empty'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION<br>&emsp;Action: SetMissionObjectives for everyone (including observers)"
+        },
+        {
+            "name": "TalkingPortraitAll",
+            "params": [
+                "unit",
+                "time"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;unit : <class 'inspect._empty'><br>&emsp;time : <class 'inspect._empty'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION<br>&emsp;Action: TalkingPortrait for everyone (including observers)"
+        },
+        {
+            "name": "InitialWireframe",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "Is64BitWireframe",
+            "params": [],
+            "return": "Condition",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION<br>&emsp;Check whether StarCraft is 32 bit or 64 bit, by inspecting wireframe.<br>&emsp;<br>&emsp;    Local (desync) condition.<br>&emsp;    Is64BitWireframe() loads custom wireframes,<br>&emsp;    causing wireframe graphic glitches by StarCraft."
+        },
+        {
+            "name": "SetGrpWire",
+            "params": [
+                "unit",
+                "wireframe"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit : <class 'inspect._empty'><br>&emsp;wireframe : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetTranWire",
+            "params": [
+                "unit",
+                "wireframe"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit : <class 'inspect._empty'><br>&emsp;wireframe : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetWirefram",
+            "params": [
+                "unit",
+                "wireframe"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit : <class 'inspect._empty'><br>&emsp;wireframe : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetWireframes",
+            "params": [
+                "unit",
+                "wireframe"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit : <class 'inspect._empty'><br>&emsp;wireframe : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        }
+    ]
+}

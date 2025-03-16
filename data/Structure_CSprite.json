@@ -1,0 +1,168 @@
+﻿{
+    "summary": {
+        "name": "CSprite",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self",
+                "epd",
+                "ptr"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;epd : int | eudplib.core.variable.eudv.EUDVariable | eudplib.utils.exprproxy.ExprProxy<br>&emsp;ptr : int | eudplib.core.variable.eudv.EUDVariable | eudplib.utils.exprproxy.ExprProxy | None<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;EPD Constructor of CSprite. Use CSprite.from_ptr(ptr) for ptr value"
+        },
+        {
+            "name": "elevationLevel",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "flags",
+            "datatype": "ByteEnum",
+            "description": ""
+        },
+        {
+            "name": "from_ptr",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "from_read",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "grpHeight",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "grpWidth",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "imageHead",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "imageTail",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "index",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "mainGraphic",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "next",
+            "datatype": "CSpriteMember",
+            "description": ""
+        },
+        {
+            "name": "player",
+            "datatype": "PlayerMember",
+            "description": ""
+        },
+        {
+            "name": "pos",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "posX",
+            "datatype": "PositionXMember",
+            "description": ""
+        },
+        {
+            "name": "posY",
+            "datatype": "PositionYMember",
+            "description": ""
+        },
+        {
+            "name": "prev",
+            "datatype": "CSpriteMember",
+            "description": ""
+        },
+        {
+            "name": "ptr",
+            "datatype": "property",
+            "description": ""
+        },
+        {
+            "name": "range",
+            "datatype": "classproperty",
+            "description": ""
+        },
+        {
+            "name": "selectionIndex",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "selectionTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "sprite",
+            "datatype": "SpriteMember",
+            "description": ""
+        },
+        {
+            "name": "visibilityFlags",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "_abc_impl",
+            "datatype": "_abc_data",
+            "description": ""
+        },
+        {
+            "name": "_ptr",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__abstractmethods__",
+            "datatype": "frozenset",
+            "description": ""
+        },
+        {
+            "name": "__annotations__",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__parameters__",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__slots__",
+            "datatype": "str",
+            "description": ""
+        }
+    ]
+}

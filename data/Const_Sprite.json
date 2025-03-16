@@ -1,0 +1,3110 @@
+﻿{
+    "summary": {
+        "name": "Sprite Index",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "offset": "0",
+            "name": "2/38 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "1",
+            "name": "2/39 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "2",
+            "name": "2/41 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "3",
+            "name": "2/40 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "4",
+            "name": "2/42 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "5",
+            "name": "2/43 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "6",
+            "name": "2/44 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "7",
+            "name": "2/1 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "8",
+            "name": "2/4 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "9",
+            "name": "2/5 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "10",
+            "name": "2/30 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "11",
+            "name": "2/28 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "12",
+            "name": "2/29 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "13",
+            "name": "4/1 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "14",
+            "name": "4/2 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "15",
+            "name": "4/3 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "16",
+            "name": "4/56 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "17",
+            "name": "4/57 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "18",
+            "name": "4/58 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "19",
+            "name": "4/59 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "20",
+            "name": "9/5 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "21",
+            "name": "9/6 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "22",
+            "name": "9/7 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "23",
+            "name": "4/51 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "24",
+            "name": "4/52 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "25",
+            "name": "4/54 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "26",
+            "name": "4/53 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "27",
+            "name": "9/1 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "28",
+            "name": "9/2 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "29",
+            "name": "9/3 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "30",
+            "name": "9/4 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "31",
+            "name": "4/12 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "32",
+            "name": "4/13 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "33",
+            "name": "4/1 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "34",
+            "name": "4/3 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "35",
+            "name": "4/2 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "36",
+            "name": "4/5 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "37",
+            "name": "4/4 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "38",
+            "name": "4/9 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "39",
+            "name": "4/10 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "40",
+            "name": "5/5 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "41",
+            "name": "5/7 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "42",
+            "name": "5/6 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "43",
+            "name": "5/9 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "44",
+            "name": "5/8 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "45",
+            "name": "4/6 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "46",
+            "name": "4/7 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "47",
+            "name": "4/17 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "48",
+            "name": "13/4 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "49",
+            "name": "11/5 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "50",
+            "name": "11/6 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "51",
+            "name": "11/7 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "52",
+            "name": "11/8 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "53",
+            "name": "11/10 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "54",
+            "name": "11/11 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "55",
+            "name": "11/12 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "56",
+            "name": "7/4 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "57",
+            "name": "7/5 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "58",
+            "name": "7/6 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "59",
+            "name": "7/1 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "60",
+            "name": "7/2 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "61",
+            "name": "7/3 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "62",
+            "name": "7/9 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "63",
+            "name": "7/10 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "64",
+            "name": "7/8 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "65",
+            "name": "7/7 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "66",
+            "name": "7/26 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "67",
+            "name": "7/24 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "68",
+            "name": "7/28 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "69",
+            "name": "7/27 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "70",
+            "name": "7/25 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "71",
+            "name": "7/29 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "72",
+            "name": "7/30 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "73",
+            "name": "7/31 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "74",
+            "name": "12/1 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "75",
+            "name": "9/27 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "76",
+            "name": "5/54 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "77",
+            "name": "5/55 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "78",
+            "name": "5/56 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "79",
+            "name": "5/57 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "80",
+            "name": "6/16 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "81",
+            "name": "6/17 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "82",
+            "name": "6/20 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "83",
+            "name": "6/21 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "84",
+            "name": "5/10 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "85",
+            "name": "5/50 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "86",
+            "name": "5/52 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "87",
+            "name": "5/53 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "88",
+            "name": "5/51 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "89",
+            "name": "6/3 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "90",
+            "name": "11/3 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "91",
+            "name": "11/8 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "92",
+            "name": "11/6 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "93",
+            "name": "11/7 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "94",
+            "name": "11/9 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "95",
+            "name": "11/10 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "96",
+            "name": "11/11 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "97",
+            "name": "11/12 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "98",
+            "name": "11/13 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "99",
+            "name": "11/14 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "100",
+            "name": "1/13 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "101",
+            "name": "1/9 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "102",
+            "name": "1/11 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "103",
+            "name": "1/14 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "104",
+            "name": "1/10 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "105",
+            "name": "1/12 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "106",
+            "name": "1/15 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "107",
+            "name": "1/7 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "108",
+            "name": "1/5 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "109",
+            "name": "1/16 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "110",
+            "name": "1/8 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "111",
+            "name": "1/6 Badlands1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "112",
+            "name": "1/6 Badlands2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "113",
+            "name": "1/6 Badlands3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "114",
+            "name": "1/6 Badlands4",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "115",
+            "name": "1/6 Badlands5",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "116",
+            "name": "1/6 Badlands6",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "117",
+            "name": "1/6 Badlands7",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "118",
+            "name": "1/6 Badlands8",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "119",
+            "name": "4/15 Installation1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "120",
+            "name": "4/15 Installation2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "121",
+            "name": "3/9 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "122",
+            "name": "3/10 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "123",
+            "name": "3/11 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "124",
+            "name": "3/12 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "125",
+            "name": "1/6 Badlands9",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "126",
+            "name": "1/6 Badlands10",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "127",
+            "name": "3/1 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "128",
+            "name": "3/2 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "129",
+            "name": "1/6 Badlands11",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "130",
+            "name": "Scourge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "131",
+            "name": "Scourge Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "132",
+            "name": "Scourge Explosion",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "133",
+            "name": "Broodling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "134",
+            "name": "Broodling Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "135",
+            "name": "Infested Terran",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "136",
+            "name": "Infested Terran Explosion",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "137",
+            "name": "Guardian Cocoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "138",
+            "name": "Defiler",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "139",
+            "name": "Defiler Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "140",
+            "name": "Drone",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "141",
+            "name": "Drone Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "142",
+            "name": "Egg",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "143",
+            "name": "Egg Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "144",
+            "name": "Guardian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "145",
+            "name": "Guardian Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "146",
+            "name": "Hydralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "147",
+            "name": "Hydralisk Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "148",
+            "name": "Infested Kerrigan",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "149",
+            "name": "Larva",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "150",
+            "name": "Larva Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "151",
+            "name": "Mutalisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "152",
+            "name": "Mutalisk Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "153",
+            "name": "Overlord",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "154",
+            "name": "Overlord Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "155",
+            "name": "Queen",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "156",
+            "name": "Queen Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "157",
+            "name": "Ultralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "158",
+            "name": "Ultralisk Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "159",
+            "name": "Zergling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "160",
+            "name": "Zergling Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "161",
+            "name": "Cerebrate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "162",
+            "name": "Infested Command Center",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "163",
+            "name": "Spawning Pool",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "164",
+            "name": "Mature Chrysalis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "165",
+            "name": "Evolution Chamber",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "166",
+            "name": "Creep Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "167",
+            "name": "Hatchery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "168",
+            "name": "Hive",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "169",
+            "name": "Lair",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "170",
+            "name": "Sunken Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "171",
+            "name": "Greater Spire",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "172",
+            "name": "Defiler Mound",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "173",
+            "name": "Queen's Nest",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "174",
+            "name": "Nydus Canal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "175",
+            "name": "Overmind With Shell",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "176",
+            "name": "Overmind Without Shell",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "177",
+            "name": "Ultralisk Cavern",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "178",
+            "name": "Extractor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "179",
+            "name": "Hydralisk Den",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "180",
+            "name": "Spire",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "181",
+            "name": "Spore Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "182",
+            "name": "Zerg Building Spawn (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "183",
+            "name": "Zerg Building Spawn (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "184",
+            "name": "Zerg Building Spawn (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "185",
+            "name": "Zerg Building Explosion",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "186",
+            "name": "Zerg Building Rubble (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "187",
+            "name": "Zerg Building Rubble (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "188",
+            "name": "Arbiter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "189",
+            "name": "Archon Energy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "190",
+            "name": "Carrier",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "191",
+            "name": "Dragoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "192",
+            "name": "Dragoon Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "193",
+            "name": "Interceptor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "194",
+            "name": "Probe",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "195",
+            "name": "Scout",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "196",
+            "name": "Shuttle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "197",
+            "name": "High Templar",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "198",
+            "name": "Dark Templar (Hero)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "199",
+            "name": "Reaver",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "200",
+            "name": "Scarab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "201",
+            "name": "Zealot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "202",
+            "name": "Observer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "203",
+            "name": "Templar Archives",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "204",
+            "name": "Assimilator",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "205",
+            "name": "Observatory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "206",
+            "name": "Citadel of Adun",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "207",
+            "name": "Forge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "208",
+            "name": "Gateway",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "209",
+            "name": "Cybernetics Core",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "210",
+            "name": "Khaydarin Crystal Formation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "211",
+            "name": "Nexus",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "212",
+            "name": "Photon Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "213",
+            "name": "Arbiter Tribunal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "214",
+            "name": "Pylon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "215",
+            "name": "Robotics Facility",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "216",
+            "name": "Shield Battery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "217",
+            "name": "Stargate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "218",
+            "name": "Stasis Cell/Prison",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "219",
+            "name": "Robotics Support Bay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "220",
+            "name": "Protoss Temple",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "221",
+            "name": "Fleet Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "222",
+            "name": "Explosion (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "223",
+            "name": "Protoss Building Rubble (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "224",
+            "name": "Protoss Building Rubble (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "225",
+            "name": "Battlecruiser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "226",
+            "name": "Civilian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "227",
+            "name": "Dropship",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "228",
+            "name": "Firebat",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "229",
+            "name": "Ghost",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "230",
+            "name": "Ghost Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "231",
+            "name": "Nuke Target Dot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "232",
+            "name": "Goliath Base",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "233",
+            "name": "Goliath Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "234",
+            "name": "Sarah Kerrigan",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "235",
+            "name": "Marine",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "236",
+            "name": "Marine Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "237",
+            "name": "Scanner Sweep",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "238",
+            "name": "Wraith",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "239",
+            "name": "SCV",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "240",
+            "name": "Siege Tank (Tank) Base",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "241",
+            "name": "Siege Tank (Tank) Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "242",
+            "name": "Siege Tank (Siege) Base",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "243",
+            "name": "Siege Tank (Siege) Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "244",
+            "name": "Vulture",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "245",
+            "name": "Spider Mine",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "246",
+            "name": "Science Vessel (Base)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "247",
+            "name": "Science Vessel (Turret)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "248",
+            "name": "Terran Academy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "249",
+            "name": "Barracks",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "250",
+            "name": "Armory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "251",
+            "name": "Comsat Station",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "252",
+            "name": "Command Center",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "253",
+            "name": "Supply Depot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "254",
+            "name": "Control Tower",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "255",
+            "name": "Factory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "256",
+            "name": "Covert Ops",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "257",
+            "name": "Ion Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "258",
+            "name": "Machine Shop",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "259",
+            "name": "Missile Turret (Base)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "260",
+            "name": "Crashed Batlecruiser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "261",
+            "name": "Physics Lab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "262",
+            "name": "Bunker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "263",
+            "name": "Refinery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "264",
+            "name": "Science Facility",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "265",
+            "name": "Nuclear Silo",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "266",
+            "name": "Nuclear Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "267",
+            "name": "Nuke Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "268",
+            "name": "Starport",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "269",
+            "name": "Engineering Bay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "270",
+            "name": "Terran Construction (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "271",
+            "name": "Terran Construction (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "272",
+            "name": "Building Explosion (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "273",
+            "name": "Terran Building Rubble (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "274",
+            "name": "Terran Building Rubble (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "275",
+            "name": "Vespene Geyser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "276",
+            "name": "Ragnasaur (Ash)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "277",
+            "name": "Rhynadon (Badlands)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "278",
+            "name": "Bengalaas (Jungle)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "279",
+            "name": "Mineral Field Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "280",
+            "name": "Mineral Field Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "281",
+            "name": "Mineral Field Type3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "282",
+            "name": "Independent Starport (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "283",
+            "name": "Zerg Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "284",
+            "name": "Terran Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "285",
+            "name": "Protoss Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "286",
+            "name": "Dark Swarm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "287",
+            "name": "Flag",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "288",
+            "name": "Young Chrysalis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "289",
+            "name": "Psi Emitter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "290",
+            "name": "Data Disc",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "291",
+            "name": "Khaydarin Crystal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "292",
+            "name": "Mineral Chunk Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "293",
+            "name": "Mineral Chunk Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "294",
+            "name": "Protoss Gas Orb Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "295",
+            "name": "Protoss Gas Orb Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "296",
+            "name": "Zerg Gas Sac Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "297",
+            "name": "Zerg Gas Sac Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "298",
+            "name": "Terran Gas Tank Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "299",
+            "name": "Terran Gas Tank Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "300",
+            "name": "White Circle (Invisible)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "301",
+            "name": "Start Location",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "302",
+            "name": "Map Revealer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "303",
+            "name": "Floor Gun Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "304",
+            "name": "Wall Missile Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "305",
+            "name": "Wall Missile Trap2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "306",
+            "name": "Wall Flame Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "307",
+            "name": "Wall Flame Trap2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "308",
+            "name": "Floor Missile Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "309",
+            "name": "Longbolt/Gemini Missiles Trail",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "310",
+            "name": "Grenade Shot Smoke",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "311",
+            "name": "Vespene Geyser Smoke1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "312",
+            "name": "Vespene Geyser Smoke2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "313",
+            "name": "Vespene Geyser Smoke3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "314",
+            "name": "Vespene Geyser Smoke4",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "315",
+            "name": "Vespene Geyser Smoke5",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "316",
+            "name": "Unknown316",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "317",
+            "name": "Double Explosion",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "318",
+            "name": "Cursor Marker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "319",
+            "name": "Egg Spawn",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "320",
+            "name": "High Templar Glow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "321",
+            "name": "Psi Field (Right Upper)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "322",
+            "name": "Burrowing Dust",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "323",
+            "name": "Building Landing Dust Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "324",
+            "name": "Building Landing Dust Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "325",
+            "name": "Building Landing Dust Type3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "326",
+            "name": "Building Landing Dust Type4",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "327",
+            "name": "Building Landing Dust Type5",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "328",
+            "name": "Building Lifting Dust Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "329",
+            "name": "Building Lifting Dust Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "330",
+            "name": "Building Lifting Dust Type3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "331",
+            "name": "Building Lifting Dust Type4",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "332",
+            "name": "Needle Spines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "333",
+            "name": "Dual Photon Blasters Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "334",
+            "name": "Particle Beam Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "335",
+            "name": "Anti-Matter Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "336",
+            "name": "Pulse Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "337",
+            "name": "Phase Disruptor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "338",
+            "name": "STA/STS Photon Cannon Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "339",
+            "name": "Psionic Storm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "340",
+            "name": "Fusion Cutter Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "341",
+            "name": "Gauss Rifle Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "342",
+            "name": "Gemini Missiles",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "343",
+            "name": "Fragmentation Grenade",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "344",
+            "name": "Unknown344",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "345",
+            "name": "Lockdown/LongBolt/Hellfire Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "346",
+            "name": "C-10 Canister Rifle Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "347",
+            "name": "ATS/ATA Laser Battery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "348",
+            "name": "Burst Lasers",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "349",
+            "name": "Arclite Shock Cannon Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "350",
+            "name": "Yamato Gun",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "351",
+            "name": "Yamato Gun Trail",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "352",
+            "name": "EMP Shockwave Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "353",
+            "name": "Needle Spine Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "354",
+            "name": "Unknown354",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "355",
+            "name": "Sunken Colony Tentacle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "356",
+            "name": "Venom (Unused Zerg Weapon)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "357",
+            "name": "Acid Spore",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "358",
+            "name": "Glave Wurm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "359",
+            "name": "Seeker Spores",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "360",
+            "name": "Queen Spell Holder",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "361",
+            "name": "Stasis Field Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "362",
+            "name": "Plague Cloud",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "363",
+            "name": "Consume",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "364",
+            "name": "Ensnare",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "365",
+            "name": "Glave Wurm/Seeker Spores Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "366",
+            "name": "Psionic Shockwave Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "367",
+            "name": "Glave Wurm Trail",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "368",
+            "name": "Seeker Spores Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "369",
+            "name": "Phase Disruptor (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "370",
+            "name": "White Circle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "371",
+            "name": "Acid Spray (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "372",
+            "name": "Unknown372",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "373",
+            "name": "Scarab/Anti-Matter Missile Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "374",
+            "name": "Hallucination Death1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "375",
+            "name": "Hallucination Death2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "376",
+            "name": "Hallucination Death3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "377",
+            "name": "Bunker Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "378",
+            "name": "FlameThrower",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "379",
+            "name": "Recall Field",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "380",
+            "name": "Scanner Sweep Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "381",
+            "name": "Left Upper Level Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "382",
+            "name": "Right Upper Level Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "383",
+            "name": "Substructure Left Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "384",
+            "name": "Substructure Right Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "385",
+            "name": "Substructure Opening Hole",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "386",
+            "name": "7/13 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "387",
+            "name": "7/14 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "388",
+            "name": "7/16 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "389",
+            "name": "7/15 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "390",
+            "name": "7/19 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "391",
+            "name": "7/20 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "392",
+            "name": "7/21 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "393",
+            "name": "Unknown Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "394",
+            "name": "7/17 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "395",
+            "name": "6/1 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "396",
+            "name": "6/2 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "397",
+            "name": "6/3 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "398",
+            "name": "6/4 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "399",
+            "name": "6/5 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "400",
+            "name": "8/3 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "401",
+            "name": "8/3 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "402",
+            "name": "9/29 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "403",
+            "name": "9/28 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "404",
+            "name": "12/38 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "405",
+            "name": "12/37 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "406",
+            "name": "12/33 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "407",
+            "name": "9/21 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "408",
+            "name": "9/15 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "409",
+            "name": "9/16 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "410",
+            "name": "Unknown410",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "411",
+            "name": "Unknown411",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "412",
+            "name": "12/9 Ice1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "413",
+            "name": "12/10 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "414",
+            "name": "9/24 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "415",
+            "name": "9/23 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "416",
+            "name": "Unknown416",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "417",
+            "name": "12/7 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "418",
+            "name": "12/8 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "419",
+            "name": "12/9 Ice2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "420",
+            "name": "12/10 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "421",
+            "name": "12/40 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "422",
+            "name": "12/41 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "423",
+            "name": "12/42 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "424",
+            "name": "12/5 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "425",
+            "name": "12/6 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "426",
+            "name": "12/36 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "427",
+            "name": "12/32 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "428",
+            "name": "12/33 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "429",
+            "name": "12/34 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "430",
+            "name": "12/24 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "431",
+            "name": "12/25 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "432",
+            "name": "9/22 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "433",
+            "name": "12/31 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "434",
+            "name": "12/20 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "435",
+            "name": "12/24 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "436",
+            "name": "12/25 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "437",
+            "name": "12/30 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "438",
+            "name": "12/30 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "439",
+            "name": "Unknown439",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "440",
+            "name": "4/1 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "441",
+            "name": "6/1 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "442",
+            "name": "5/6 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "443",
+            "name": "5/7 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "444",
+            "name": "5/8 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "445",
+            "name": "5/9 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "446",
+            "name": "10/10 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "447",
+            "name": "10/12 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "448",
+            "name": "10/8 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "449",
+            "name": "10/9 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "450",
+            "name": "6/10 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "451",
+            "name": "6/13 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "452",
+            "name": "Unknown Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "453",
+            "name": "10/12 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "454",
+            "name": "10/9 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "455",
+            "name": "10/10 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "456",
+            "name": "10/11 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "457",
+            "name": "10/14 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "458",
+            "name": "10/41 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "459",
+            "name": "10/39 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "460",
+            "name": "10/8 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "461",
+            "name": "10/6 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "462",
+            "name": "10/7 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "463",
+            "name": "4/6 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "464",
+            "name": "4/11 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "465",
+            "name": "4/10 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "466",
+            "name": "4/9 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "467",
+            "name": "4/7 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "468",
+            "name": "4/12 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "469",
+            "name": "4/8 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "470",
+            "name": "4/13 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "471",
+            "name": "6/13 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "472",
+            "name": "4/17 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "473",
+            "name": "6/20 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "474",
+            "name": "4/15 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "475",
+            "name": "4/15 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "476",
+            "name": "10/23 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "477",
+            "name": "8/23 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "478",
+            "name": "10/5 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "479",
+            "name": "12/1 Desert Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "480",
+            "name": "11/3 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "481",
+            "name": "Lurker Egg",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "482",
+            "name": "Devourer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "483",
+            "name": "Devourer Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "484",
+            "name": "Lurker Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "485",
+            "name": "Lurker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "486",
+            "name": "Dark Archon Energy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "487",
+            "name": "Corsair",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "488",
+            "name": "Dark Templar (Unit)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "489",
+            "name": "Medic",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "490",
+            "name": "Medic Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "491",
+            "name": "Valkyrie",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "492",
+            "name": "Scantid (Desert)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "493",
+            "name": "Kakaru (Twilight)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "494",
+            "name": "Ursadon (Ice)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "495",
+            "name": "Overmind Cocoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "496",
+            "name": "Power Generator",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "497",
+            "name": "Xel'Naga Temple",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "498",
+            "name": "Psi Disrupter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "499",
+            "name": "Warp Gate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "500",
+            "name": "Feedback Hit (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "501",
+            "name": "Feedback Hit (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "502",
+            "name": "Feedback Hit (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "503",
+            "name": "Disruption Web",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "504",
+            "name": "White Circle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "505",
+            "name": "Halo Rockets Trail",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "506",
+            "name": "Neutron Flare",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "507",
+            "name": "Corsair Attack Overlay (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "508",
+            "name": "Optical Flare Grenade",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "509",
+            "name": "Halo Rockets",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "510",
+            "name": "Subterranean Spines Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "511",
+            "name": "Subterranean Spines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "512",
+            "name": "Corrosive Acid Shot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "513",
+            "name": "Corrosive Acid Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "514",
+            "name": "Maelstrom Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "515",
+            "name": "Uraj",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "516",
+            "name": "Khalis",
+            "alt_name": [],
+            "description": ""
+        }
+    ]
+}

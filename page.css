@@ -53,7 +53,7 @@ div.itembox
 {
     box-sizing: border-box;
     border-radius: 0.2em;
-    margin:0.4em 0em 0.4em 0em;
+    margin:0.2em 0em 0.2em 0em;
     padding:0.2em 0.6em 0.2em 0.6em;
     background-color: #0c1924;
     width : 100%;
@@ -65,11 +65,12 @@ div.itembox[unioncollapse=true]
 }
 div.itembox.uniongroup
 {
-    background-color: #0f3523;
+    background-color: #0c2313;
 }
 div.itembox.unionof
 {
-    background-color: #11241b;
+    margin-left: 2em;
+    width : calc(100% - 2em);
 }
 div.itembox[active="true"]
 {
@@ -78,7 +79,7 @@ div.itembox[active="true"]
 }
 div.itembox.uniongroup[active="true"]
 {
-    background-color: #1a5a3c;
+    background-color: #0f361b;
 }
 div.descbox
 {
@@ -105,11 +106,12 @@ p.address
 {
     color: #ccc;
     cursor:pointer;
-    flex: 0.01 3.5em;
+    flex: 0.01 2.5em;
+    margin-right: 1em;
 }
 p.address.large
 {
-    flex: 0.01 5.5em;
+    flex: 0.01 4.5em;
 }
 p.address:hover
 {
@@ -123,7 +125,8 @@ p.address:active
 }
 p.varname
 {
-    flex: 0.01 12em;
+    flex: 0.01 11em;
+    margin-right: 1em;
     color: #fd4;
 }
 p.varname:hover
@@ -145,14 +148,72 @@ p.datasize.large
 {
     flex: 0.01 5em;
 }
+p.datatype
+{
+    flex: 0.01 11em;
+    margin-right: 1em;
+}
 p.name
 {
-    flex: 10;
+    flex: 10 13em;
+    margin-right: 1em;
+}
+p.name.function
+{
+    color:rgb(163, 215, 255);
+}
+p.name.variable
+{
+    color:rgb(255, 238, 84);
+}
+p.name.function:hover
+{
+    color:rgb(210, 236, 255);
+    text-decoration: underline;
+}
+p.name.variable:hover
+{
+    color:rgb(255, 245, 159);
+    text-decoration: underline;
+}
+p.name.function:active
+{
+    color: #4524b9;
+    text-decoration: underline;
+}
+p.name.variable:active
+{
+    color: #4524b9;
+    text-decoration: underline;
+}
+p.name:first-child
+{
+    margin-left: 2em;
+}
+p.value
+{
+    flex: 8 15em;
 
+}
+p.param
+{
+    flex: 1000;
+    font-size: 0.9em;
+    color:silver;
+}
+p.return
+{
+    margin-right: 2em;
 }
 p.support
 {
     flex: 0.01 8em;
+}
+span.iscript_desc
+{
+    margin-left: 5em;
+    width:10em;
+    display: inline-block;
 }
 ::placeholder {
     color: #888;

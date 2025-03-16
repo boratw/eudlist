@@ -1,0 +1,1475 @@
+﻿{
+    "summary": {
+        "name": "Order Index",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "offset": "0",
+            "name": "Die",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "1",
+            "name": "Stop",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "2",
+            "name": "Guard (Normal)",
+            "alt_name": [
+                "Guard"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "3",
+            "name": "Guard (Player)",
+            "alt_name": [
+                "Player Guard"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "4",
+            "name": "Guard (Subunit)",
+            "alt_name": [
+                "Turret Guard"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "5",
+            "name": "Guard (Bunker)",
+            "alt_name": [
+                "Bunker Guard"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "6",
+            "name": "Ignore (Normal)",
+            "alt_name": [
+                "Move"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "7",
+            "name": "Stop (Reaver)",
+            "alt_name": [
+                "Reaver Stop"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "8",
+            "name": "Attack",
+            "alt_name": [
+                "Attack1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "9",
+            "name": "Attack (Obscured)",
+            "alt_name": [
+                "Attack2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "10",
+            "name": "Attack Unit (Normal)",
+            "alt_name": [
+                "Attack Unit"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "11",
+            "name": "Attack In Range",
+            "alt_name": [
+                "Attack Fixed Range"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "12",
+            "name": "Attack Ground (Unused)",
+            "alt_name": [
+                "Attack Tile"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "13",
+            "name": "Hover (Unused)",
+            "alt_name": [
+                "Hover"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "14",
+            "name": "Attack Move",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "15",
+            "name": "Building Is Being Infested",
+            "alt_name": [
+                "Infest Mine 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "16",
+            "name": "Nothing 1 (Unused)",
+            "alt_name": [
+                "Nothing 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "17",
+            "name": "Power-Up (Unused)",
+            "alt_name": [
+                "Powerup 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "18",
+            "name": "Guard (Building)",
+            "alt_name": [
+                "Tower Guard"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "19",
+            "name": "Attack (Building)",
+            "alt_name": [
+                "Tower Attack"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "20",
+            "name": "Script (Spider Mine)",
+            "alt_name": [
+                "Vulture Mine"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "21",
+            "name": "Stay In Range",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "22",
+            "name": "Attack (Subunit)",
+            "alt_name": [
+                "Turret Attack"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "23",
+            "name": "Nothing 2 (Normal)",
+            "alt_name": [
+                "Nothing 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "24",
+            "name": "Nothing 3 (Unused)",
+            "alt_name": [
+                "Nothing 3"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "25",
+            "name": "Drone Start Mutate",
+            "alt_name": [
+                "Drone Start Build"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "26",
+            "name": "Drone Mutate",
+            "alt_name": [
+                "Drone Build"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "27",
+            "name": "Cast Spell (Infest 1)",
+            "alt_name": [
+                "Infest Mine 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "28",
+            "name": "Cast Spell (Infest 2)",
+            "alt_name": [
+                "Infest Mine 3"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "29",
+            "name": "Infest (Queen)",
+            "alt_name": [
+                "Infest Mine 4"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "30",
+            "name": "Build (SCV)",
+            "alt_name": [
+                "Build Terran"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "31",
+            "name": "Build (Probe)",
+            "alt_name": [
+                "Build Protoss 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "32",
+            "name": "Create Building (Probe)",
+            "alt_name": [
+                "Build Protoss 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "33",
+            "name": "Is Building (SCV)",
+            "alt_name": [
+                "Constructing Building"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "34",
+            "name": "Repair Unit (SCV)",
+            "alt_name": [
+                "Repair 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "35",
+            "name": "Repair Unit (Obscured)",
+            "alt_name": [
+                "Repair 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "36",
+            "name": "Place Add-On",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "37",
+            "name": "Build Add-On",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "38",
+            "name": "Train (Normal)",
+            "alt_name": [
+                "Train"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "39",
+            "name": "Rally to Visible Unit",
+            "alt_name": [
+                "Rally Point 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "40",
+            "name": "Rally to Ground Tile",
+            "alt_name": [
+                "Rally Point 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "41",
+            "name": "Zerg Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "42",
+            "name": "Unit Morph",
+            "alt_name": [
+                "Morph 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "43",
+            "name": "Building Morph",
+            "alt_name": [
+                "Morph 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "44",
+            "name": "Building Is Constructed (Terran)",
+            "alt_name": [
+                "Build Self 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "45",
+            "name": "Zerg Build Self",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "46",
+            "name": "Build (Nydus Canal Exit)",
+            "alt_name": [
+                "Build 5"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "47",
+            "name": "Enter (Nydus Canal)",
+            "alt_name": [
+                "Enter Nydus Canal"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "48",
+            "name": "Building Is Constructed (Protoss)",
+            "alt_name": [
+                "Build Self 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "49",
+            "name": "Follow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "50",
+            "name": "Idle (Carrier)",
+            "alt_name": [
+                "Carrier"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "51",
+            "name": "Move (Carrier&Reaver)",
+            "alt_name": [
+                "Carrier Ignore 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "52",
+            "name": "Stop (Carrier)",
+            "alt_name": [
+                "Carrier Stop"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "53",
+            "name": "Attack (Carrier)",
+            "alt_name": [
+                "Carrier Attack 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "54",
+            "name": "Attack Obscured (Carrier)",
+            "alt_name": [
+                "Carrier Attack 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "55",
+            "name": "Ignore 2 (Carrier)",
+            "alt_name": [
+                "Carrier Ignore 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "56",
+            "name": "Attack Unit (Carrier)",
+            "alt_name": [
+                "Carrier Fight"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "57",
+            "name": "Hold Position (Carrier)",
+            "alt_name": [
+                "Carrier Hold",
+                "Hold Position 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "58",
+            "name": "Idle (Reaver)",
+            "alt_name": [
+                "Reaver"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "59",
+            "name": "Attack (Reaver)",
+            "alt_name": [
+                "Reaver Attack 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "60",
+            "name": "Attack Obscured (Reaver)",
+            "alt_name": [
+                "Reaver Attack 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "61",
+            "name": "Attack Unit (Reaver)",
+            "alt_name": [
+                "Reaver Fight"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "62",
+            "name": "Hold Position (Reaver)",
+            "alt_name": [
+                "Reaver Hold"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "63",
+            "name": "Training (Subunit)",
+            "alt_name": [
+                "Train Fighter"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "64",
+            "name": "Move&Attack (Interceptor)",
+            "alt_name": [
+                "Strafe Unit 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "65",
+            "name": "Move&Attack (Scarab)",
+            "alt_name": [
+                "Strafe Unit 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "66",
+            "name": "Recharge Shields (Unit)",
+            "alt_name": [
+                "Recharge Shields 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "67",
+            "name": "Recharge Shields (Global)",
+            "alt_name": [
+                "Recharge Shields 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "68",
+            "name": "Shield Battery Is Recharging",
+            "alt_name": [
+                "Shield Battery"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "69",
+            "name": "Return To Parent (Interceptor)",
+            "alt_name": [
+                "Return"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "70",
+            "name": "Land (Drone)",
+            "alt_name": [
+                "Drone Land"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "71",
+            "name": "Land (Building)",
+            "alt_name": [
+                "Building Land"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "72",
+            "name": "Lift Off (Building)",
+            "alt_name": [
+                "Building Lift Off"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "73",
+            "name": "Lift Off (Drone)",
+            "alt_name": [
+                "Drone Lift Off"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "74",
+            "name": "Is Lifting Off",
+            "alt_name": [
+                "Lift Off"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "75",
+            "name": "Is Researching Technology",
+            "alt_name": [
+                "Research Tech"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "76",
+            "name": "Is Performing Upgrade",
+            "alt_name": [
+                "Upgrade"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "77",
+            "name": "Idle (Larva)",
+            "alt_name": [
+                "Larva"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "78",
+            "name": "Is Spawning Larva",
+            "alt_name": [
+                "Spawning Larva"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "79",
+            "name": "Move to Harvest",
+            "alt_name": [
+                "Harvest 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "80",
+            "name": "Move to Harvest Obscured",
+            "alt_name": [
+                "Harvest 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "81",
+            "name": "Move to Harvest Gas",
+            "alt_name": [
+                "Harvest Gas 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "82",
+            "name": "Can Enter Gas Mine",
+            "alt_name": [
+                "Harvest Gas 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "83",
+            "name": "Enter/Exit Gas Mine",
+            "alt_name": [
+                "Harvest Gas 3"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "84",
+            "name": "Return Gas",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "85",
+            "name": "Move to Harvest Minerals",
+            "alt_name": [
+                "Harvest Minerals 1",
+                "Move to Minerals"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "86",
+            "name": "Can Harvest Minerals",
+            "alt_name": [
+                "Harvest Minerals 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "87",
+            "name": "Harvesting Minerals",
+            "alt_name": [
+                "Harvest Minerals 3",
+                "Mining Minerals"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "88",
+            "name": "Harvesting Minerals Interrupted",
+            "alt_name": [
+                "Harvest 3"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "89",
+            "name": "Harvest 4 (Unknown)",
+            "alt_name": [
+                "Harvest 4"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "90",
+            "name": "Return Minerals",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "91",
+            "name": "Harvesting Interrupted - Recharge Shields",
+            "alt_name": [
+                "Harvest 5"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "92",
+            "name": "Move/Enter Transport",
+            "alt_name": [
+                "Enter Transport"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "93",
+            "name": "Idle (Transport)",
+            "alt_name": [
+                "Pick Up 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "94",
+            "name": "Load Unit (Mobile Transport)",
+            "alt_name": [
+                "Pick Up 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "95",
+            "name": "Load Unit (Bunker)",
+            "alt_name": [
+                "Pick Up 3"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "96",
+            "name": "Load Unit (Unknown)",
+            "alt_name": [
+                "Pick Up 4"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "97",
+            "name": "Idle (Power-Up)",
+            "alt_name": [
+                "Powerup 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "98",
+            "name": "Siege Mode",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "99",
+            "name": "Tank Mode",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "100",
+            "name": "Watch Target",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "101",
+            "name": "Script (Starting Creep Growth)",
+            "alt_name": [
+                "Initing Creep Growth"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "102",
+            "name": "Script (Spread Creep&Spawn Larva)",
+            "alt_name": [
+                "Spread Creep"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "103",
+            "name": "Script (Stopping Creep Growth)",
+            "alt_name": [
+                "Stopping Creep Growth"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "104",
+            "name": "Guardian Aspect (Unused)",
+            "alt_name": [
+                "Guardian Aspect"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "105",
+            "name": "Move and Morph Archon",
+            "alt_name": [
+                "Warping Archon"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "106",
+            "name": "Completing Archon Summon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "107",
+            "name": "Hold Position (Normal)",
+            "alt_name": [
+                "Hold Position 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "108",
+            "name": "Hold Position (Queen)",
+            "alt_name": [
+                "Hold Position 3"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "109",
+            "name": "Cloak",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "110",
+            "name": "Decloak",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "111",
+            "name": "Unload Unit (Transport)",
+            "alt_name": [
+                "Unload"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "112",
+            "name": "Move&Unload Unit (Transport)",
+            "alt_name": [
+                "Move Unload"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "113",
+            "name": "Cast Spell (Yamato Gun)",
+            "alt_name": [
+                "Fire Yamato Gun 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "114",
+            "name": "Cast Spell On Obscured (Yamato Gun)",
+            "alt_name": [
+                "Fire Yamato Gun 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "115",
+            "name": "Cast Spell (Lockdown)",
+            "alt_name": [
+                "Magna Pulse"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "116",
+            "name": "Burrow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "117",
+            "name": "Idle (Burrowed)",
+            "alt_name": [
+                "Burrowed"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "118",
+            "name": "Unburrow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "119",
+            "name": "Cast Spell (Dark Swarm)",
+            "alt_name": [
+                "Dark Swarm"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "120",
+            "name": "Cast Spell (Parasite)",
+            "alt_name": [
+                "Cast Parasite"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "121",
+            "name": "Cast Spell (Spawn Broodling)",
+            "alt_name": [
+                "Summon Broodlings"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "122",
+            "name": "Cast Spell (EMP Shockwave)",
+            "alt_name": [
+                "EMP Shockwave"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "123",
+            "name": "Unknown",
+            "alt_name": [
+                "Nuke Wait"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "124",
+            "name": "Idle (Nuclear Silo)",
+            "alt_name": [
+                "Nuke Train"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "125",
+            "name": "Attack (Nuke)",
+            "alt_name": [
+                "Nuke Launch"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "126",
+            "name": "Move&Paint Nuke Target",
+            "alt_name": [
+                "Nuke Paint"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "127",
+            "name": "Attack Unit (Nuke)",
+            "alt_name": [
+                "Nuke Unit"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "128",
+            "name": "Attack Ground (Nuke)",
+            "alt_name": [
+                "Nuke Ground"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "129",
+            "name": "Nuke Track (Ghost)",
+            "alt_name": [
+                "Nuke Track"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "130",
+            "name": "Script (Cloak Nearby Units)",
+            "alt_name": [
+                "Initializing Arbiter"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "131",
+            "name": "Cloak Nearby Units (Freezes the casting unit)",
+            "alt_name": [
+                "Cloaking nearby units"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "132",
+            "name": "Place Spider Mine",
+            "alt_name": [
+                "Place Mine"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "133",
+            "name": "Script (Right-Click Action)",
+            "alt_name": [
+                "Right Click Action"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "134",
+            "name": "Attack Unit (Infested Terran)",
+            "alt_name": [
+                "Sap Unit"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "135",
+            "name": "Attack Ground (Infested Terran)",
+            "alt_name": [
+                "Sap Location"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "136",
+            "name": "Hold Position (Suicide Units)",
+            "alt_name": [
+                "Hold Position 4"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "137",
+            "name": "Cast Spell (Recall)",
+            "alt_name": [
+                "Teleport"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "138",
+            "name": "Teleport To Location (Freezes the casting unit)",
+            "alt_name": [
+                "Teleport to Location"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "139",
+            "name": "Cast Spell (Scanner Sweep)",
+            "alt_name": [
+                "Place Scanner"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "140",
+            "name": "Idle (Scanner Sweep)",
+            "alt_name": [
+                "Scanner"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "141",
+            "name": "Cast Spell (Defensive Matrix)",
+            "alt_name": [
+                "Defensive Matrix"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "142",
+            "name": "Cast Spell (Psionic Storm)",
+            "alt_name": [
+                "Psionic Storm"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "143",
+            "name": "Cast Spell (Irradiate)",
+            "alt_name": [
+                "Irradiate"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "144",
+            "name": "Cast Spell (Plague)",
+            "alt_name": [
+                "Plague"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "145",
+            "name": "Cast Spell (Consume)",
+            "alt_name": [
+                "Consume"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "146",
+            "name": "Cast Spell (Ensnare)",
+            "alt_name": [
+                "Ensnare"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "147",
+            "name": "Cast Spell (Stasis Field)",
+            "alt_name": [
+                "Stasis Field"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "148",
+            "name": "Cast Spell (Hallucination)",
+            "alt_name": [
+                "Hallucination 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "149",
+            "name": "Script (Hallucination)",
+            "alt_name": [
+                "Hallucination 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "150",
+            "name": "Reset Collision (2 Units)",
+            "alt_name": [
+                "Reset Collision 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "151",
+            "name": "Reset Collision (Harvester&Mine)",
+            "alt_name": [
+                "Reset Collision 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "152",
+            "name": "Patrol (Normal)",
+            "alt_name": [
+                "Patrol"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "153",
+            "name": "CTF COP (Initialize)",
+            "alt_name": [
+                "CTF COP Init"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "154",
+            "name": "Idle (CTF COP)",
+            "alt_name": [
+                "CTF COP 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "155",
+            "name": "Unknown CTF COP 2",
+            "alt_name": [
+                "CTF COP 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "156",
+            "name": "Script (Computer)",
+            "alt_name": [
+                "Computer AI"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "157",
+            "name": "Attack Move (Computer)",
+            "alt_name": [
+                "Atk Move EP"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "158",
+            "name": "Move (Harass)",
+            "alt_name": [
+                "Harass Move"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "159",
+            "name": "Patrol (Computer)",
+            "alt_name": [
+                "AI Patrol"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "160",
+            "name": "Guard (Computer)",
+            "alt_name": [
+                "Guard Post"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "161",
+            "name": "Idle (Rescuable)",
+            "alt_name": [
+                "Rescuable Passive"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "162",
+            "name": "Idle (Neutral)",
+            "alt_name": [
+                "Neutral"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "163",
+            "name": "Return To Base (Computer)",
+            "alt_name": [
+                "Computer Return"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "164",
+            "name": "Script (PSI Provider)",
+            "alt_name": [
+                "Initing Psi Provider"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "165",
+            "name": "Fatal (Scarab)",
+            "alt_name": [
+                "Self Destrucing"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "166",
+            "name": "Idle (Critter)",
+            "alt_name": [
+                "Critter"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "167",
+            "name": "Idle (Trap)",
+            "alt_name": [
+                "Hidden Gun"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "168",
+            "name": "Open Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "169",
+            "name": "Close Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "170",
+            "name": "Stop (Trap)",
+            "alt_name": [
+                "Hide Trap"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "171",
+            "name": "Attack (Trap)",
+            "alt_name": [
+                "Reveal Trap"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "172",
+            "name": "Enable Doodad",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "173",
+            "name": "Disable Doodad",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "174",
+            "name": "Warp In (Unused)",
+            "alt_name": [
+                "Warp In"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "175",
+            "name": "Idle (Medic)",
+            "alt_name": [
+                "Medic"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "176",
+            "name": "Cast Spell (Heal)",
+            "alt_name": [
+                "Medic Heal 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "177",
+            "name": "Move (Medic)",
+            "alt_name": [
+                "Heal Move"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "178",
+            "name": "Hold Position&Heal (Medic)",
+            "alt_name": [
+                "Medic Hold Position"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "179",
+            "name": "Return To Idle After Heal",
+            "alt_name": [
+                "Medic Heal 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "180",
+            "name": "Cast Spell (Restoration)",
+            "alt_name": [
+                "Restoration"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "181",
+            "name": "Cast Spell (Disruption Web)",
+            "alt_name": [
+                "Cast Disruption Web"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "182",
+            "name": "Cast Spell (Mind Control)",
+            "alt_name": [
+                "Cast Mind Control"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "183",
+            "name": "Dark Archon Meld",
+            "alt_name": [
+                "Warping Dark Archon"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "184",
+            "name": "Cast Spell (Feedback)",
+            "alt_name": [
+                "Cast Feedback"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "185",
+            "name": "Cast Spell (Optical Flare)",
+            "alt_name": [
+                "Cast Optical Flare"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "186",
+            "name": "Cast Spell (Maelstrom)",
+            "alt_name": [
+                "Cast Maelstrom"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "187",
+            "name": "Move (Junk Yard Dog)",
+            "alt_name": [
+                "Junk Yard Dog"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "188",
+            "name": "Fatal",
+            "alt_name": [],
+            "description": ""
+        }
+    ]
+}

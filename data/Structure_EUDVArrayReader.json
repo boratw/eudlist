@@ -1,0 +1,65 @@
+﻿{
+    "summary": {
+        "name": "EUDVArrayReader",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "read",
+            "params": [
+                "self",
+                "acts"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;acts<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "seek",
+            "params": [
+                "self",
+                "varr_ptr",
+                "varr_epd",
+                "eudv",
+                "acts"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;varr_ptr<br>&emsp;varr_epd<br>&emsp;eudv<br>&emsp;acts<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_maketrg",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__dict__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__weakref__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        }
+    ]
+}

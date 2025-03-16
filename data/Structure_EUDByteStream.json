@@ -1,0 +1,88 @@
+﻿{
+    "summary": {
+        "name": "EUDByteStream",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "copyto",
+            "params": [
+                "self",
+                "bytestream"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;bytestream<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "flushdword",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "readbyte",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Read byte from current address. ByteReader will advance by 1 bytes.<br>&emsp;<br>&emsp;        :returns: Read byte"
+        },
+        {
+            "name": "seekepd",
+            "params": [
+                "self",
+                "epdoffset"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;epdoffset<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Seek EUDByteWriter to specific epd player address"
+        },
+        {
+            "name": "seekoffset",
+            "params": [
+                "self",
+                "offset"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;offset<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Seek EUDByteWriter to specific address"
+        },
+        {
+            "name": "writebyte",
+            "params": [
+                "self",
+                "byte"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;byte<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Write byte to current position.<br>&emsp;<br>&emsp;        Write a byte to current position of EUDByteWriter.<br>&emsp;        ByteWriter will advance by 1 byte."
+        },
+        {
+            "name": "__dict__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__weakref__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        }
+    ]
+}

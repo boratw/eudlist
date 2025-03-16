@@ -1,0 +1,57 @@
+﻿{
+    "summary": {
+        "name": "PVariable",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self",
+                "initvars",
+                "_from"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;initvars<br>&emsp;_from<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__getitem__",
+            "params": [
+                "self",
+                "i"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;i<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__setitem__",
+            "params": [
+                "self",
+                "i",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;i<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__annotations__",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__parameters__",
+            "datatype": "tuple",
+            "description": ""
+        }
+    ]
+}

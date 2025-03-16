@@ -1,0 +1,402 @@
+﻿{
+    "summary": {
+        "name": "String Functions",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "f_cpstr_print",
+            "params": [
+                "args",
+                "EOS",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'inspect._empty'><br>&emsp;EOS : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Print multiple string / number to CurrentPlayer.<br>&emsp;<br>&emsp;    :param args: Things to print"
+        },
+        {
+            "name": "f_eprintln",
+            "params": [
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_gettextptr",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_raise_CCMU",
+            "params": [
+                "player"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;player : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "GetMapStringAddr",
+            "params": [
+                "str_id"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;str_id : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_cp949_to_utf8_cpy",
+            "params": [
+                "dst",
+                "src"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;dst : <class 'inspect._empty'><br>&emsp;src : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_dbstr_print",
+            "params": [
+                "dst",
+                "args",
+                "EOS",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;dst : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br>&emsp;EOS : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Print multiple string / number to dst.<br>&emsp;<br>&emsp;    :param dst: Destination address (Not EPD player)<br>&emsp;    :param args: Things to print"
+        },
+        {
+            "name": "f_eprintAll",
+            "params": [
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_eprintf",
+            "params": [
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_sprintf",
+            "params": [
+                "dst",
+                "format_string",
+                "args",
+                "EOS",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;dst : <class 'inspect._empty'><br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br>&emsp;EOS : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_sprintf_cp",
+            "params": [
+                "format_string",
+                "args",
+                "EOS",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br>&emsp;EOS : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_parse",
+            "params": [
+                "dst",
+                "radix"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;dst : <class 'inspect._empty'><br>&emsp;radix : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "IsPName",
+            "params": [
+                "player",
+                "name"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;player : <class 'inspect._empty'><br>&emsp;name : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetPName",
+            "params": [
+                "player",
+                "name"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;player : <class 'inspect._empty'><br>&emsp;name : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetPNamef",
+            "params": [
+                "player",
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;player : <class 'inspect._empty'><br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "DisplayTextAll",
+            "params": [
+                "text"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;text : <class 'inspect._empty'><br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION<br>&emsp;Action: DisplayText for everyone (including observers)"
+        },
+        {
+            "name": "DisplayTextAllAt",
+            "params": [
+                "line",
+                "text"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;line : <class 'inspect._empty'><br>&emsp;text : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_printAll",
+            "params": [
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_printAllAt",
+            "params": [
+                "line",
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;line : <class 'inspect._empty'><br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "DisplayTextAt",
+            "params": [
+                "line",
+                "text"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;line : <class 'inspect._empty'><br>&emsp;text : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "GetGlobalStringBuffer",
+            "params": [],
+            "return": "None",
+            "description": "PARAMETERS<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_printAt",
+            "params": [
+                "line",
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;line : <class 'inspect._empty'><br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_println",
+            "params": [
+                "format_string",
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_simpleprint",
+            "params": [
+                "args",
+                "spaced"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'inspect._empty'><br>&emsp;spaced : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_eprintln2",
+            "params": [
+                "args"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "epd2s",
+            "params": [
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "hptr",
+            "params": [
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ptr2s",
+            "params": [
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_strcmp",
+            "params": [
+                "s1",
+                "s2"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;s1 : <class 'inspect._empty'><br>&emsp;s2 : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_strcpy",
+            "params": [
+                "dst",
+                "src"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;dst : <class 'inspect._empty'><br>&emsp;src : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Strcpy equivalent in eudplib. Copy C-style string.<br>&emsp;<br>&emsp;    :param dst: Destination address (Not EPD player)<br>&emsp;    :param src: Source address (Not EPD player)<br>&emsp;<br>&emsp;    :return: dst"
+        },
+        {
+            "name": "f_strlen",
+            "params": [
+                "src",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;src : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_strlen_epd",
+            "params": [
+                "epd",
+                "subp",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;epd : <class 'inspect._empty'><br>&emsp;subp : <class 'inspect._empty'><br>&emsp;kwargs : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_strnstr",
+            "params": [
+                "string",
+                "substring",
+                "count"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;string : <class 'inspect._empty'><br>&emsp;substring : <class 'inspect._empty'><br>&emsp;count : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "GetTBLAddr",
+            "params": [
+                "tbl_id"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;tbl_id : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_settbl",
+            "params": [
+                "tbl_id",
+                "offset",
+                "args",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;tbl_id : <class 'inspect._empty'><br>&emsp;offset : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_settbl2",
+            "params": [
+                "tbl_id",
+                "offset",
+                "args",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;tbl_id : <class 'inspect._empty'><br>&emsp;offset : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_settblf",
+            "params": [
+                "tbl_id",
+                "offset",
+                "format_string",
+                "args",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;tbl_id : <class 'inspect._empty'><br>&emsp;offset : <class 'inspect._empty'><br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "f_settblf2",
+            "params": [
+                "tbl_id",
+                "offset",
+                "format_string",
+                "args",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;tbl_id : <class 'inspect._empty'><br>&emsp;offset : <class 'inspect._empty'><br>&emsp;format_string : <class 'inspect._empty'><br>&emsp;args : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "TextFX_FadeIn",
+            "params": [
+                "args",
+                "color",
+                "wait",
+                "reset",
+                "tag",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'inspect._empty'><br>&emsp;color : <class 'inspect._empty'><br>&emsp;wait : <class 'inspect._empty'><br>&emsp;reset : <class 'inspect._empty'><br>&emsp;tag : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Print multiple string / number and apply color from Left To Right<br>&emsp;<br>&emsp;    Keyword arguments:<br>&emsp;    color -- tuple of color codes (default 0x03, 0x04, 0x05, 0x14)<br>&emsp;    wait  -- time interval between effect (default 1)<br>&emsp;    reset -- automatically reset when didn't run for a moment (default True)<br>&emsp;    tag   -- internal tag and identifier (default: vargs)"
+        },
+        {
+            "name": "TextFX_FadeOut",
+            "params": [
+                "args",
+                "color",
+                "wait",
+                "reset",
+                "tag",
+                "encoding"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;args : <class 'inspect._empty'><br>&emsp;color : <class 'inspect._empty'><br>&emsp;wait : <class 'inspect._empty'><br>&emsp;reset : <class 'inspect._empty'><br>&emsp;tag : <class 'inspect._empty'><br>&emsp;encoding : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Print multiple string / number and apply color from Left To Right<br>&emsp;<br>&emsp;    Keyword arguments:<br>&emsp;    color -- tuple of color codes (default 0x03, 0x04, 0x05, 0x14)<br>&emsp;    wait  -- time interval between effect (default 1)<br>&emsp;    reset -- automatically reset when didn't run for a moment (default True)<br>&emsp;    tag   -- internal tag and identifier (default: vargs)"
+        },
+        {
+            "name": "TextFX_Remove",
+            "params": [
+                "tag"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;tag : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "TextFX_SetTimer",
+            "params": [
+                "tag",
+                "modtype",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;tag : <class 'inspect._empty'><br>&emsp;modtype : <class 'inspect._empty'><br>&emsp;value : <class 'inspect._empty'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        }
+    ]
+}

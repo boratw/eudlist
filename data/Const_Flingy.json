@@ -1,0 +1,1262 @@
+﻿{
+    "summary": {
+        "name": "Flingy Index",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "offset": "0",
+            "name": "Scourge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "1",
+            "name": "Broodling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "2",
+            "name": "Infested Terran",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "3",
+            "name": "Guardian Cocoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "4",
+            "name": "Defiler",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "5",
+            "name": "Drone",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "6",
+            "name": "Egg",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "7",
+            "name": "Guardian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "8",
+            "name": "Hydralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "9",
+            "name": "Infested Kerrigan",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "10",
+            "name": "Larva",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "11",
+            "name": "Mutalisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "12",
+            "name": "Overlord",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "13",
+            "name": "Queen",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "14",
+            "name": "Ultralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "15",
+            "name": "Zergling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "16",
+            "name": "Cerebrate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "17",
+            "name": "Infested Command Center",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "18",
+            "name": "Spawning Pool",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "19",
+            "name": "Mature Chrysalis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "20",
+            "name": "Evolution Chamber",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "21",
+            "name": "Creep Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "22",
+            "name": "Hatchery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "23",
+            "name": "Hive",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "24",
+            "name": "Lair",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "25",
+            "name": "Sunken Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "26",
+            "name": "Greater Spire",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "27",
+            "name": "Defiler Mound",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "28",
+            "name": "Queen's Nest",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "29",
+            "name": "Nydus Canal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "30",
+            "name": "Overmind With Shell",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "31",
+            "name": "Overmind Without Shell",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "32",
+            "name": "Ultralisk Cavern",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "33",
+            "name": "Extractor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "34",
+            "name": "Hydralisk Den",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "35",
+            "name": "Spire",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "36",
+            "name": "Spore Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "37",
+            "name": "Arbiter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "38",
+            "name": "Archon Energy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "39",
+            "name": "Carrier",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "40",
+            "name": "Dragoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "41",
+            "name": "Interceptor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "42",
+            "name": "Probe",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "43",
+            "name": "Scout",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "44",
+            "name": "Shuttle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "45",
+            "name": "High Templar",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "46",
+            "name": "Dark Templar (Hero)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "47",
+            "name": "Reaver",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "48",
+            "name": "Scarab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "49",
+            "name": "Zealot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "50",
+            "name": "Observer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "51",
+            "name": "Templar Archives",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "52",
+            "name": "Assimilator",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "53",
+            "name": "Observatory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "54",
+            "name": "Citadel of Adun",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "55",
+            "name": "Forge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "56",
+            "name": "Gateway",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "57",
+            "name": "Cybernetics Core",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "58",
+            "name": "Khaydarin Crystal Formation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "59",
+            "name": "Nexus",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "60",
+            "name": "Photon Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "61",
+            "name": "Arbiter Tribunal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "62",
+            "name": "Pylon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "63",
+            "name": "Robotics Facility",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "64",
+            "name": "Shield Battery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "65",
+            "name": "Stargate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "66",
+            "name": "Stasis Cell/Prison",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "67",
+            "name": "Robotics Support Bay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "68",
+            "name": "Protoss Temple",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "69",
+            "name": "Fleet Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "70",
+            "name": "Battlecruiser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "71",
+            "name": "Civilian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "72",
+            "name": "Dropship",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "73",
+            "name": "Firebat",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "74",
+            "name": "Ghost",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "75",
+            "name": "Goliath Base",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "76",
+            "name": "Goliath Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "77",
+            "name": "Sarah Kerrigan",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "78",
+            "name": "Marine",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "79",
+            "name": "Scanner Sweep",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "80",
+            "name": "Wraith",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "81",
+            "name": "SCV",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "82",
+            "name": "Siege Tank (Tank) Base",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "83",
+            "name": "Siege Tank (Tank) Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "84",
+            "name": "Siege Tank (Siege) Base",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "85",
+            "name": "Siege Tank (Siege) Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "86",
+            "name": "Science Vessel (Base)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "87",
+            "name": "Science Vessel (Turret)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "88",
+            "name": "Vulture",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "89",
+            "name": "Spider Mine",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "90",
+            "name": "Academy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "91",
+            "name": "Barracks",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "92",
+            "name": "Armory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "93",
+            "name": "Comsat Station",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "94",
+            "name": "Command Center",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "95",
+            "name": "Supply Depot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "96",
+            "name": "Control Tower",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "97",
+            "name": "Factory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "98",
+            "name": "Covert Ops",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "99",
+            "name": "Ion Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "100",
+            "name": "Machine Shop",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "101",
+            "name": "Missile Turret (Base)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "102",
+            "name": "Crashed Battlecruiser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "103",
+            "name": "Physics Lab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "104",
+            "name": "Bunker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "105",
+            "name": "Refinery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "106",
+            "name": "Immobile Barracks",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "107",
+            "name": "Science Facility",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "108",
+            "name": "Nuke Silo",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "109",
+            "name": "Nuclear Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "110",
+            "name": "Starport",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "111",
+            "name": "Engineering Bay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "112",
+            "name": "Terran Construction (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "113",
+            "name": "Terran Construction (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "114",
+            "name": "Ragnasaur (Ashworld)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "115",
+            "name": "Rhynadon (Badlands)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "116",
+            "name": "Bengalaas (Jungle)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "117",
+            "name": "Vespene Geyser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "118",
+            "name": "Mineral Field Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "119",
+            "name": "Mineral Field Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "120",
+            "name": "Mineral Field Type3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "121",
+            "name": "Independent Starport (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "122",
+            "name": "Zerg Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "123",
+            "name": "Terran Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "124",
+            "name": "Protoss Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "125",
+            "name": "Dark Swarm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "126",
+            "name": "Flag",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "127",
+            "name": "Young Chrysalis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "128",
+            "name": "Psi Emitter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "129",
+            "name": "Data Disc",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "130",
+            "name": "Khaydarin Crystal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "131",
+            "name": "Mineral Chunk Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "132",
+            "name": "Mineral Chunk Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "133",
+            "name": "Protoss Gas Orb Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "134",
+            "name": "Protoss Gas Orb Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "135",
+            "name": "Zerg Gas Sac Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "136",
+            "name": "Zerg Gas Sac Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "137",
+            "name": "Terran Gas Tank Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "138",
+            "name": "Terran Gas Tank Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "139",
+            "name": "Map Revealer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "140",
+            "name": "Start Location",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "141",
+            "name": "Fusion Cutter Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "142",
+            "name": "Gauss Rifle Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "143",
+            "name": "C-10 Canister Rifle Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "144",
+            "name": "Gemini Missiles",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "145",
+            "name": "Fragmentation Grenade",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "146",
+            "name": "Lockdown/LongBolt/Hellfire Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "147",
+            "name": "Unused Lockdown",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "148",
+            "name": "ATS/ATA Laser Battery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "149",
+            "name": "Burst Lasers",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "150",
+            "name": "Arclite Shock Cannon Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "151",
+            "name": "EMP Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "152",
+            "name": "Dual Photon Blasters Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "153",
+            "name": "Particle Beam Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "154",
+            "name": "Anti-Matter Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "155",
+            "name": "Pulse Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "156",
+            "name": "Psionic Shockwave Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "157",
+            "name": "Psionic Storm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "158",
+            "name": "Yamato Gun",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "159",
+            "name": "Phase Disruptor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "160",
+            "name": "STA/STS Cannon Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "161",
+            "name": "Sunken Colony Tentacle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "162",
+            "name": "Venom (Unused Zerg Weapon)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "163",
+            "name": "Acid Spore",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "164",
+            "name": "Unknown164",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "165",
+            "name": "Glave Wurm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "166",
+            "name": "Seeker Spores",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "167",
+            "name": "Queen Spell Carrier",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "168",
+            "name": "Plague Cloud",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "169",
+            "name": "Consume",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "170",
+            "name": "Ensnare",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "171",
+            "name": "Needle Spine Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "172",
+            "name": "White Circle (Invisible)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "173",
+            "name": "Left Upper Level Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "174",
+            "name": "Right Upper Level Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "175",
+            "name": "Substructure Left Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "176",
+            "name": "Substructure Right Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "177",
+            "name": "Substructure Opening Hole",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "178",
+            "name": "Floor Gun Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "179",
+            "name": "Floor Missile Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "180",
+            "name": "Wall Missile Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "181",
+            "name": "Wall Missile Trap2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "182",
+            "name": "Wall Flame Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "183",
+            "name": "Wall Flame Trap2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "184",
+            "name": "Lurker Egg",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "185",
+            "name": "Devourer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "186",
+            "name": "Lurker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "187",
+            "name": "Dark Archon Energy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "188",
+            "name": "Dark Templar (Unit)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "189",
+            "name": "Medic",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "190",
+            "name": "Valkyrie",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "191",
+            "name": "Corsair",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "192",
+            "name": "Disruption Web",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "193",
+            "name": "Overmind Cocoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "194",
+            "name": "Psi Disrupter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "195",
+            "name": "Warp Gate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "196",
+            "name": "Power Generator",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "197",
+            "name": "Xel'Naga Temple",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "198",
+            "name": "Scantid (Desert)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "199",
+            "name": "Kakaru (Twilight)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "200",
+            "name": "Ursadon (Ice)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "201",
+            "name": "Optical Flare Grenade",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "202",
+            "name": "Halo Rockets",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "203",
+            "name": "Subterranean Spines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "204",
+            "name": "Corrosive Acid Shot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "205",
+            "name": "Corrosive Acid Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "206",
+            "name": "Neutron Flare",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "207",
+            "name": "Uraj",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "208",
+            "name": "Khalis",
+            "alt_name": [],
+            "description": ""
+        }
+    ]
+}

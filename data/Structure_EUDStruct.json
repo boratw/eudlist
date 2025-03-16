@@ -1,0 +1,395 @@
+﻿{
+    "summary": {
+        "name": "EUDStruct",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self",
+                "args",
+                "_from",
+                "_static_initval",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br>&emsp;_from<br>&emsp;_static_initval<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "Assign",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "constructor",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Constructor for individual structures.<br>&emsp;<br>&emsp;        Default constructor accepts no arguments, but derived classes may<br>&emsp;        accept additional arguments.<br>&emsp;<br>&emsp;        This function is called when<br>&emsp;            - Argument is allocated from pool   (self.isPooled = True)<br>&emsp;            - Argument is generated             (self.isPooled = False)<br>&emsp;<br>&emsp;        You may choose to either allocate member from pool or just allocate<br>&emsp;        members statically via self.isPooled."
+        },
+        {
+            "name": "constructor_static",
+            "params": [
+                "self",
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Specialized constructor for static variables.<br>&emsp;<br>&emsp;        Static variable may not require allocation for member variables.<br>&emsp;        Function may specialize their behavior by overriding this function"
+        },
+        {
+            "name": "copy",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Create struct clone"
+        },
+        {
+            "name": "copyto",
+            "params": [
+                "self",
+                "inst"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;inst<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Copy struct to other instance"
+        },
+        {
+            "name": "destructor",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Destructor for individual structures.<br>&emsp;<br>&emsp;        Destructor accepts no arguments. Destructor is called when<br>&emsp;            - Manually called. (Ex: stack variable)<br>&emsp;            - free() is called for object"
+        },
+        {
+            "name": "eqattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "geattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "getfield",
+            "params": [
+                "self",
+                "name"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "gtattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iaddattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iandattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ifloordivattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iinvertattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ilshiftattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "imodattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "imulattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "iorattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ipowattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "irshiftattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "isubattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "isubtractattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ixorattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "leattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "ltattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "neattr",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "setall",
+            "params": [
+                "self",
+                "values"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;values<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "setfield",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__getattr__",
+            "params": [
+                "self",
+                "name"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__getitem__",
+            "params": [
+                "self",
+                "name"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__iter__",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__lshift__",
+            "params": [
+                "self",
+                "rhs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;rhs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__setattr__",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__setitem__",
+            "params": [
+                "self",
+                "name",
+                "newvalue"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;newvalue<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "alloc",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "cast",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "free",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "_fielddict",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "_initialized",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__annotations__",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__parameters__",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__slots__",
+            "datatype": "tuple",
+            "description": ""
+        }
+    ]
+}

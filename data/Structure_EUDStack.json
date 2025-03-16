@@ -1,0 +1,77 @@
+﻿{
+    "summary": {
+        "name": "EUDStack",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "constructor",
+            "params": [
+                "self",
+                "size"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;size<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "empty",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "pop",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "push",
+            "params": [
+                "self",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_fielddict",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "_fields_",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__dict__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__parameters__",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__weakref__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        }
+    ]
+}

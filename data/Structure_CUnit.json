@@ -1,0 +1,1570 @@
+﻿{
+    "summary": {
+        "name": "CUnit",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self",
+                "epd",
+                "ptr"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;epd : int | eudplib.core.variable.eudv.EUDVariable | eudplib.utils.exprproxy.ExprProxy<br>&emsp;ptr : int | eudplib.core.variable.eudv.EUDVariable | eudplib.utils.exprproxy.ExprProxy | None<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;EPD Constructor of CUnit. Use CUnit.from_ptr(ptr) for ptr value"
+        },
+        {
+            "name": "are_buildq_empty",
+            "params": [
+                "self"
+            ],
+            "return": "list",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;list<br><br>DESCRIPTION"
+        },
+        {
+            "name": "cgive",
+            "params": [
+                "self",
+                "new_owner",
+                "ignore_subunit"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;new_owner<br>&emsp;ignore_subunit<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "check_buildq",
+            "params": [
+                "self",
+                "unit_type"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;unit_type<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "check_status_flag",
+            "params": [
+                "self",
+                "value",
+                "mask"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value<br>&emsp;mask<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "clear_gathering",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "clear_hallucination",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "clear_invincible",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "clear_noclip",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "clear_speed_upgrade",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "clear_status_flag",
+            "params": [
+                "self",
+                "mask"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;mask<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "die",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "is_air",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "is_burrowed",
+            "params": [
+                "self"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "is_completed",
+            "params": [
+                "self"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "is_dying",
+            "params": [
+                "self"
+            ],
+            "return": "tuple",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;tuple<br><br>DESCRIPTION"
+        },
+        {
+            "name": "is_hallucination",
+            "params": [
+                "self"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "is_in_building",
+            "params": [
+                "self"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "is_in_transport",
+            "params": [
+                "self"
+            ],
+            "return": "Condition",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "power",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "remove",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "remove_collision",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "reset_buildq",
+            "params": [
+                "self",
+                "q1"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;q1 : <class 'int'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "setloc",
+            "params": [
+                "self",
+                "location"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;location<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_air",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_collision",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_color",
+            "params": [
+                "self",
+                "color_player"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;color_player<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_gathering",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_ground",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_hallucination",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_invincible",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_noclip",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_speed_upgrade",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "set_status_flag",
+            "params": [
+                "self",
+                "value",
+                "mask"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value<br>&emsp;mask<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "unpower",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_cgive",
+            "params": [
+                "unit",
+                "ptr",
+                "new_owner"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit<br>&emsp;ptr<br>&emsp;new_owner<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_cgive_subunit",
+            "params": [
+                "unit",
+                "ptr",
+                "new_owner",
+                "ignore_subunit"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit<br>&emsp;ptr<br>&emsp;new_owner<br>&emsp;ignore_subunit<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_check_buildq",
+            "params": [
+                "unit",
+                "unit_type"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit<br>&emsp;unit_type<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_check_buildq_const",
+            "params": [
+                "unit",
+                "unit_type",
+                "unit65536"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit<br>&emsp;unit_type<br>&emsp;unit65536<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_set_color",
+            "params": [
+                "unit",
+                "color_player65536"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;unit<br>&emsp;color_player65536<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "acceleration",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeCount",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeTime0",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeTime1",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeTime2",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeTime3",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeTime4",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeTime5",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeTime6",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeTime7",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "acidSporeTime8",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "aCooldown",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "addon",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "addonBuildType",
+            "datatype": "UnitMember",
+            "description": ""
+        },
+        {
+            "name": "AI",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "AIActionFlag",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "airStrength",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "airWeaponCooldown",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "attackNotifyTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "autoTargetUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "beaconUnknown0xC0",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "beaconUnknown0xC4",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "blindFlags",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "buildingOverlayState",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "buildQueue1",
+            "datatype": "UnitMember",
+            "description": ""
+        },
+        {
+            "name": "buildQueue12",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "buildQueue2",
+            "datatype": "UnitMember",
+            "description": ""
+        },
+        {
+            "name": "buildQueue3",
+            "datatype": "UnitMember",
+            "description": ""
+        },
+        {
+            "name": "buildQueue34",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "buildQueue4",
+            "datatype": "UnitMember",
+            "description": ""
+        },
+        {
+            "name": "buildQueue5",
+            "datatype": "UnitMember",
+            "description": ""
+        },
+        {
+            "name": "buildQueueSlot",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "connectedUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "contourBoundsB",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "contourBoundsL",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "contourBoundsLT",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "contourBoundsR",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "contourBoundsRB",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "contourBoundsT",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "cooldown",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "creepTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "currentBuildUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "currentButtonSet",
+            "datatype": "ButtonSetMember",
+            "description": ""
+        },
+        {
+            "name": "currentDirection1",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "currentDirection2",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "currentSpeed1",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "currentSpeed2",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "currentVelocityX",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "currentVelocityY",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "cycleCounter",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "defensiveMatrixHp",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "defensiveMatrixTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "driftPos",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "driftX",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "driftY",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "energy",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "ensnareTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "finderIndexBottom",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "finderIndexLeft",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "finderIndexRight",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "finderIndexTop",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "flagSpawnFrame",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "flingyID",
+            "datatype": "FlingyMember",
+            "description": ""
+        },
+        {
+            "name": "flingyMovementType",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "from_next",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "from_ptr",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "from_read",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "gatherQueueCount",
+            "datatype": "BoolMember",
+            "description": ""
+        },
+        {
+            "name": "gCooldown",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "ghostNukeDot",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "groundStrength",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "groundWeaponCooldown",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "haltX",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "haltY",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "harvestTarget",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "hatcheryHarvestB",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "hatcheryHarvestL",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "hatcheryHarvestLT",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "hatcheryHarvestR",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "hatcheryHarvestRB",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "hatcheryHarvestT",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "hp",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "hpGain",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "inHangarChild",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "inHangarCount",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "irradiatedBy",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "irradiatePlayerID",
+            "datatype": "PlayerMember",
+            "description": ""
+        },
+        {
+            "name": "irradiateTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "isBeingHealed",
+            "datatype": "BoolMember",
+            "description": ""
+        },
+        {
+            "name": "isCarryingSomething",
+            "datatype": "BoolMember",
+            "description": ""
+        },
+        {
+            "name": "isCloaked",
+            "datatype": "BoolMember",
+            "description": ""
+        },
+        {
+            "name": "isOutsideHangar",
+            "datatype": "BoolMember",
+            "description": ""
+        },
+        {
+            "name": "isUnderStorm",
+            "datatype": "BoolMember",
+            "description": ""
+        },
+        {
+            "name": "killCount",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "landingTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "larvaTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "lastAttackingPlayer",
+            "datatype": "PlayerMember",
+            "description": ""
+        },
+        {
+            "name": "lastEventColor",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "lastEventTimer",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "loadedUnit1",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "loadedUnit2",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "loadedUnit3",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "loadedUnit4",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "loadedUnit5",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "loadedUnit6",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "loadedUnit7",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "loadedUnit8",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "lockdownTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "maelstromTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "movementFlags",
+            "datatype": "ByteEnum",
+            "description": ""
+        },
+        {
+            "name": "movementState",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "moveTarget",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "moveTargetPos",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "moveTargetUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "moveTargetX",
+            "datatype": "PositionXMember",
+            "description": ""
+        },
+        {
+            "name": "moveTargetY",
+            "datatype": "PositionYMember",
+            "description": ""
+        },
+        {
+            "name": "next",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "nextBurrowedUnit",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "nextFighter",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "nextGatherer",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "nextHarvestUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "nextMovementWaypoint",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "nextPlayerUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "nextPsiProvider",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "nextTargetWaypoint",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "nydusExit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "offsetIndex3by3",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "order",
+            "datatype": "UnitOrderMember",
+            "description": ""
+        },
+        {
+            "name": "orderID",
+            "datatype": "UnitOrderMember",
+            "description": ""
+        },
+        {
+            "name": "orderQueueCount",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "orderQueueHead",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "orderQueueTail",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "orderQueueTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "orderSignal",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "orderState",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "orderTarget",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "orderTargetPos",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "orderTargetUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "orderTargetX",
+            "datatype": "PositionXMember",
+            "description": ""
+        },
+        {
+            "name": "orderTargetXY",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "orderTargetY",
+            "datatype": "PositionYMember",
+            "description": ""
+        },
+        {
+            "name": "orderTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "orderUnitType",
+            "datatype": "UnitMember",
+            "description": ""
+        },
+        {
+            "name": "outHangarChild",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "outHangarCount",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "owner",
+            "datatype": "PlayerMember",
+            "description": ""
+        },
+        {
+            "name": "parasiteFlags",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "parent",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "path",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "pathingCollisionInterval",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "pathingFlags",
+            "datatype": "ByteEnum",
+            "description": ""
+        },
+        {
+            "name": "plagueTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "playerID",
+            "datatype": "PlayerMember",
+            "description": ""
+        },
+        {
+            "name": "pos",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "posX",
+            "datatype": "PositionXMember",
+            "description": ""
+        },
+        {
+            "name": "posY",
+            "datatype": "PositionYMember",
+            "description": ""
+        },
+        {
+            "name": "powerup",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "powerupCarryingUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "powerupOrigin",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "powerupOriginX",
+            "datatype": "PositionXMember",
+            "description": ""
+        },
+        {
+            "name": "powerupOriginY",
+            "datatype": "PositionYMember",
+            "description": ""
+        },
+        {
+            "name": "prev",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "prevBurrowedUnit",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "prevFighter",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "prevHarvestUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "prevHp",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "prevPlayerUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "prevPsiProvider",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "prevUnitType",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "ptr",
+            "datatype": "property",
+            "description": ""
+        },
+        {
+            "name": "pylonAura",
+            "datatype": "CSpriteMember",
+            "description": ""
+        },
+        {
+            "name": "rallyPos",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "rallyUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "rallyX",
+            "datatype": "PositionXMember",
+            "description": ""
+        },
+        {
+            "name": "rallyY",
+            "datatype": "PositionYMember",
+            "description": ""
+        },
+        {
+            "name": "range",
+            "datatype": "classproperty",
+            "description": ""
+        },
+        {
+            "name": "rankIncrease",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "recentOrderTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "remainingBuildTime",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "removeTimer",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "repairResourceLossTimer",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "repulseAngle",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "repulseUnknown",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "resourceAmount",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "resourceBelongsToAI",
+            "datatype": "BoolMember",
+            "description": ""
+        },
+        {
+            "name": "resourceCarryAmount",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "resourceGroup",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "resourceIscript",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "resourceType",
+            "datatype": "WorkerCarryTypeMember",
+            "description": ""
+        },
+        {
+            "name": "secondaryOrder",
+            "datatype": "UnitOrderMember",
+            "description": ""
+        },
+        {
+            "name": "secondaryOrderID",
+            "datatype": "UnitOrderMember",
+            "description": ""
+        },
+        {
+            "name": "secondaryOrderPos",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "secondaryOrderState",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "secondaryOrderTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "secondaryOrderX",
+            "datatype": "PositionXMember",
+            "description": ""
+        },
+        {
+            "name": "secondaryOrderY",
+            "datatype": "PositionYMember",
+            "description": ""
+        },
+        {
+            "name": "shield",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "shieldGain",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "siloNuke",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "siloReady",
+            "datatype": "BoolMember",
+            "description": ""
+        },
+        {
+            "name": "spellCooldown",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "spiderMineCount",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "sprite",
+            "datatype": "CSpriteMember",
+            "description": ""
+        },
+        {
+            "name": "stasisTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "statusFlags",
+            "datatype": "DwordEnum",
+            "description": ""
+        },
+        {
+            "name": "stimTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "stormTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "subUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "targetOrderSpecial",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "targetResourcePos",
+            "datatype": "PositionMember",
+            "description": ""
+        },
+        {
+            "name": "targetResourceUnit",
+            "datatype": "CUnitMember",
+            "description": ""
+        },
+        {
+            "name": "targetResourceX",
+            "datatype": "PositionXMember",
+            "description": ""
+        },
+        {
+            "name": "targetResourceY",
+            "datatype": "PositionYMember",
+            "description": ""
+        },
+        {
+            "name": "techType",
+            "datatype": "TechMember",
+            "description": ""
+        },
+        {
+            "name": "topSpeed",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "turnRadius",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "turnSpeed",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "uniquenessIdentifier",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "unitID",
+            "datatype": "UnitMember",
+            "description": ""
+        },
+        {
+            "name": "unitType",
+            "datatype": "UnitMember",
+            "description": ""
+        },
+        {
+            "name": "unknown0x106",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "unknown0x132",
+            "datatype": "UnsupportedMember",
+            "description": ""
+        },
+        {
+            "name": "unknown0x26",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "unknown0x52",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "unknown0x66",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "unknown0x86",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "unknown0x8C",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "unusedTimer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "upgradeLevel",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "upgradeResearchTime",
+            "datatype": "WordMember",
+            "description": ""
+        },
+        {
+            "name": "upgradeType",
+            "datatype": "UpgradeMember",
+            "description": ""
+        },
+        {
+            "name": "userActionFlags",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "velocityDirection1",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "velocityDirection2",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "visibilityStatus",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "wireframeRandomizer",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "_abc_impl",
+            "datatype": "_abc_data",
+            "description": ""
+        },
+        {
+            "name": "_ptr",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__abstractmethods__",
+            "datatype": "frozenset",
+            "description": ""
+        },
+        {
+            "name": "__annotations__",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__parameters__",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__slots__",
+            "datatype": "str",
+            "description": ""
+        }
+    ]
+}

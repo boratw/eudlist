@@ -1,0 +1,682 @@
+﻿{
+    "summary": {
+        "name": "EUDVariable",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self",
+                "initval"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;initval<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "AddDest",
+            "params": [
+                "self",
+                "dest"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "AddDestX",
+            "params": [
+                "self",
+                "dest",
+                "mask"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "AddMask",
+            "params": [
+                "self",
+                "value"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "AddMaskX",
+            "params": [
+                "self",
+                "value",
+                "mask"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "Assign",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "checkNonRValue",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "getDestAddr",
+            "params": [
+                "self"
+            ],
+            "return": "ConstExpr",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;ConstExpr<br><br>DESCRIPTION"
+        },
+        {
+            "name": "getMaskAddr",
+            "params": [
+                "self"
+            ],
+            "return": "ConstExpr",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;ConstExpr<br><br>DESCRIPTION"
+        },
+        {
+            "name": "getValueAddr",
+            "params": [
+                "self"
+            ],
+            "return": "ConstExpr",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;ConstExpr<br><br>DESCRIPTION"
+        },
+        {
+            "name": "GetVTable",
+            "params": [
+                "self"
+            ],
+            "return": "ConstExpr",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;ConstExpr<br><br>DESCRIPTION"
+        },
+        {
+            "name": "makeL",
+            "params": [
+                "self"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "makeR",
+            "params": [
+                "self"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MaskAtLeast",
+            "params": [
+                "self",
+                "value"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MaskAtLeastX",
+            "params": [
+                "self",
+                "value",
+                "mask"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MaskAtMost",
+            "params": [
+                "self",
+                "value"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MaskAtMostX",
+            "params": [
+                "self",
+                "value",
+                "mask"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MaskExactly",
+            "params": [
+                "self",
+                "value"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "MaskExactlyX",
+            "params": [
+                "self",
+                "value",
+                "mask"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueAddTo",
+            "params": [
+                "self",
+                "dest"
+            ],
+            "return": "list[bt.Action]",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br><br>RETURN<br>&emsp;list[bt.Action]<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueAssignTo",
+            "params": [
+                "self",
+                "dest"
+            ],
+            "return": "list[bt.Action]",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br><br>RETURN<br>&emsp;list[bt.Action]<br><br>DESCRIPTION"
+        },
+        {
+            "name": "QueueSubtractTo",
+            "params": [
+                "self",
+                "dest"
+            ],
+            "return": "list[bt.Action]",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br><br>RETURN<br>&emsp;list[bt.Action]<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetDest",
+            "params": [
+                "self",
+                "dest"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetDestX",
+            "params": [
+                "self",
+                "dest",
+                "mask"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetMask",
+            "params": [
+                "self",
+                "value"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetMaskX",
+            "params": [
+                "self",
+                "value",
+                "mask"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SetModifier",
+            "params": [
+                "self",
+                "modifier"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;modifier : TrgModifier<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SubtractDest",
+            "params": [
+                "self",
+                "dest"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SubtractDestX",
+            "params": [
+                "self",
+                "dest",
+                "mask"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SubtractMask",
+            "params": [
+                "self",
+                "value"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "SubtractMaskX",
+            "params": [
+                "self",
+                "value",
+                "mask"
+            ],
+            "return": "bt.Action",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__add__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__and__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__eq__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__floordiv__",
+            "params": [
+                "x",
+                "y"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;x<br>&emsp;y<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__ge__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__gt__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__hash__",
+            "params": [
+                "self"
+            ],
+            "return": "int",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;int<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__iadd__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__iand__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__ifloordiv__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__ilshift__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__imod__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__imul__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__invert__",
+            "params": [
+                "self"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__ior__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__irshift__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__isub__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__ixor__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__le__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__lshift__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "Self",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__lt__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__mod__",
+            "params": [
+                "x",
+                "y"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;x<br>&emsp;y<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__mul__",
+            "params": [
+                "x",
+                "y"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;x<br>&emsp;y<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__neg__",
+            "params": [
+                "self"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__ne__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "bt.Condition",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;bt.Condition<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__or__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__radd__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__rand__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__rfloordiv__",
+            "params": [
+                "self",
+                "lhs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;lhs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__rlshift__",
+            "params": [
+                "a",
+                "b"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;a<br>&emsp;b<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__rmod__",
+            "params": [
+                "self",
+                "lhs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;lhs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__rmul__",
+            "params": [
+                "self",
+                "lhs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;lhs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__ror__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__rrshift__",
+            "params": [
+                "self",
+                "lhs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;lhs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__rshift__",
+            "params": [
+                "x",
+                "y"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;x<br>&emsp;y<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__rsub__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__rxor__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__sub__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__xor__",
+            "params": [
+                "self",
+                "other"
+            ],
+            "return": "EUDVariable",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_abc_impl",
+            "datatype": "_abc_data",
+            "description": ""
+        },
+        {
+            "name": "_rvalue",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "_varact",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "_vartrigger",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__abstractmethods__",
+            "datatype": "frozenset",
+            "description": ""
+        },
+        {
+            "name": "__annotations__",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__slots__",
+            "datatype": "tuple",
+            "description": ""
+        }
+    ]
+}

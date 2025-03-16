@@ -1,0 +1,6002 @@
+﻿{
+    "summary": {
+        "name": "Image Index",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "offset": "0",
+            "name": "Scourge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "1",
+            "name": "Scourge Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "2",
+            "name": "Scourge Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "3",
+            "name": "Scourge Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "4",
+            "name": "Scourge Explosion",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "5",
+            "name": "Broodling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "6",
+            "name": "Broodling Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "7",
+            "name": "Broodling Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "8",
+            "name": "Infested Terran",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "9",
+            "name": "Infested Terran Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "10",
+            "name": "Infested Terran Explosion",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "11",
+            "name": "Guardian Cocoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "12",
+            "name": "Guardian Cocoon Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "13",
+            "name": "Defiler",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "14",
+            "name": "Defiler Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "15",
+            "name": "Defiler Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "16",
+            "name": "Defiler Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "17",
+            "name": "Drone",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "18",
+            "name": "Drone Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "19",
+            "name": "Drone Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "20",
+            "name": "Drone Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "21",
+            "name": "Egg",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "22",
+            "name": "Egg Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "23",
+            "name": "Egg Spawn",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "24",
+            "name": "Egg Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "25",
+            "name": "Guardian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "26",
+            "name": "Guardian Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "27",
+            "name": "Guardian Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "28",
+            "name": "Guardian Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "29",
+            "name": "Hydralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "30",
+            "name": "Hydralisk Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "31",
+            "name": "Hydralisk Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "32",
+            "name": "Hydralisk Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "33",
+            "name": "Infested Kerrigan",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "34",
+            "name": "Infested Kerrigan Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "35",
+            "name": "Needle Spines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "36",
+            "name": "Larva",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "37",
+            "name": "Larva Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "38",
+            "name": "Mutalisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "39",
+            "name": "Mutalisk Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "40",
+            "name": "Mutalisk Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "41",
+            "name": "Mutalisk Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "42",
+            "name": "Overlord",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "43",
+            "name": "Overlord Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "44",
+            "name": "Overlord Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "45",
+            "name": "Overlord Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "46",
+            "name": "Queen",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "47",
+            "name": "Queen Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "48",
+            "name": "Queen Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "49",
+            "name": "Queen Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "50",
+            "name": "Ultralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "51",
+            "name": "Ultralisk Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "52",
+            "name": "Ultralisk Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "53",
+            "name": "Ultralisk Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "54",
+            "name": "Zergling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "55",
+            "name": "Zergling Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "56",
+            "name": "Zergling Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "57",
+            "name": "Zergling Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "58",
+            "name": "Zerg Air Death Explosion (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "59",
+            "name": "Zerg Air Death Explosion (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "60",
+            "name": "Zerg Building Explosion",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "61",
+            "name": "Cerebrate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "62",
+            "name": "Cerebrate Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "63",
+            "name": "Infested Command Center",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "64",
+            "name": "Spawning Pool",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "65",
+            "name": "Spawning Pool Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "66",
+            "name": "Evolution Chamber",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "67",
+            "name": "Evolution Chamber Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "68",
+            "name": "Creep Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "69",
+            "name": "Creep Colony Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "70",
+            "name": "Hatchery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "71",
+            "name": "Hatchery Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "72",
+            "name": "Hive",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "73",
+            "name": "Hive Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "74",
+            "name": "Lair",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "75",
+            "name": "Lair Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "76",
+            "name": "Sunken Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "77",
+            "name": "Sunken Colony Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "78",
+            "name": "Mature Chrysalis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "79",
+            "name": "Mature Chrysalis Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "80",
+            "name": "Greater Spire",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "81",
+            "name": "Greater Spire Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "82",
+            "name": "Defiler Mound",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "83",
+            "name": "Defiler Mound Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "84",
+            "name": "Queen's Nest",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "85",
+            "name": "Queen Nest Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "86",
+            "name": "Nydus Canal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "87",
+            "name": "Nydus Canal Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "88",
+            "name": "Overmind With Shell",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "89",
+            "name": "Overmind Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "90",
+            "name": "Overmind Without Shell",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "91",
+            "name": "Ultralisk Cavern",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "92",
+            "name": "Ultralisk Cavern Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "93",
+            "name": "Extractor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "94",
+            "name": "Extractor Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "95",
+            "name": "Hydralisk Den",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "96",
+            "name": "Hydralisk Den Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "97",
+            "name": "Spire",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "98",
+            "name": "Spire Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "99",
+            "name": "Spore Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "100",
+            "name": "Spore Colony Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "101",
+            "name": "Infested Command Center Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "102",
+            "name": "Zerg Construction (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "103",
+            "name": "Zerg Building Morph",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "104",
+            "name": "Zerg Construction (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "105",
+            "name": "Zerg Construction (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "106",
+            "name": "Zerg Building Construction Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "107",
+            "name": "Zerg Building Spawn (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "108",
+            "name": "Zerg Building Spawn (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "109",
+            "name": "Zerg Building Spawn (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "110",
+            "name": "Zerg Building Rubble (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "111",
+            "name": "Zerg Building Rubble (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "112",
+            "name": "Carrier",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "113",
+            "name": "Carrier Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "114",
+            "name": "Carrier Engines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "115",
+            "name": "Carrier Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "116",
+            "name": "Interceptor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "117",
+            "name": "Interceptor Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "118",
+            "name": "Shuttle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "119",
+            "name": "Shuttle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "120",
+            "name": "Shuttle Engines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "121",
+            "name": "Shuttle Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "122",
+            "name": "Dragoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "123",
+            "name": "Dragoon Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "124",
+            "name": "Dragoon Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "125",
+            "name": "Dragoon Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "126",
+            "name": "High Templar",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "127",
+            "name": "High Templar Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "128",
+            "name": "High Templar Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "129",
+            "name": "Dark Templar (Hero)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "130",
+            "name": "Arbiter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "131",
+            "name": "Arbiter Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "132",
+            "name": "Arbiter Engines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "133",
+            "name": "Arbiter Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "134",
+            "name": "Archon Energy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "135",
+            "name": "Archon Being",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "136",
+            "name": "Archon Swirl",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "137",
+            "name": "Probe",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "138",
+            "name": "Probe Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "139",
+            "name": "Probe Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "140",
+            "name": "Scout",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "141",
+            "name": "Scout Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "142",
+            "name": "Scout Engines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "143",
+            "name": "Scout Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "144",
+            "name": "Reaver",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "145",
+            "name": "Reaver Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "146",
+            "name": "Reaver Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "147",
+            "name": "Scarab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "148",
+            "name": "Observer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "149",
+            "name": "Observer Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "150",
+            "name": "Observer Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "151",
+            "name": "Zealot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "152",
+            "name": "Zealot Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "153",
+            "name": "Zealot Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "154",
+            "name": "Zealot Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "155",
+            "name": "Templar Archives",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "156",
+            "name": "Templar Archives Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "157",
+            "name": "Templar Archives Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "158",
+            "name": "Assimilator",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "159",
+            "name": "Assimilator Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "160",
+            "name": "Assimilator Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "161",
+            "name": "Observatory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "162",
+            "name": "Observatory Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "163",
+            "name": "Observatory Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "164",
+            "name": "Citadel of Adun",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "165",
+            "name": "Citadel of Adun Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "166",
+            "name": "Citadel of Adun Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "167",
+            "name": "Forge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "168",
+            "name": "Forge Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "169",
+            "name": "Forge Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "170",
+            "name": "Forge Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "171",
+            "name": "Gateway",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "172",
+            "name": "Gateway Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "173",
+            "name": "Gateway Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "174",
+            "name": "Cybernetics Core",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "175",
+            "name": "Cybernetics Core Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "176",
+            "name": "Cybernetics Core Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "177",
+            "name": "Cybernetics Core Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "178",
+            "name": "Khaydarin Crystal Formation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "179",
+            "name": "Nexus",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "180",
+            "name": "Nexus Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "181",
+            "name": "Nexus Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "182",
+            "name": "Nexus Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "183",
+            "name": "Photon Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "184",
+            "name": "Photon Cannon Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "185",
+            "name": "Photon Cannon Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "186",
+            "name": "Arbiter Tribunal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "187",
+            "name": "Arbiter Tribunal Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "188",
+            "name": "Arbiter Tribunal Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "189",
+            "name": "Pylon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "190",
+            "name": "Pylon Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "191",
+            "name": "Pylon Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "192",
+            "name": "Robotics Facility",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "193",
+            "name": "Robotics Facility Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "194",
+            "name": "Robotics Facility Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "195",
+            "name": "Shield Battery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "196",
+            "name": "Shield Battery Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "197",
+            "name": "Shileld Battery Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "198",
+            "name": "Shield Battery Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "199",
+            "name": "Stargate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "200",
+            "name": "Stargate Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "201",
+            "name": "Stargate Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "202",
+            "name": "Stargate Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "203",
+            "name": "Stasis Cell/Prison",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "204",
+            "name": "Robotics Support Bay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "205",
+            "name": "Robotics Support Bay Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "206",
+            "name": "Robotics Support Bay Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "207",
+            "name": "Protoss Temple",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "208",
+            "name": "Fleet Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "209",
+            "name": "Fleet Beacon Warp Flash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "210",
+            "name": "Warp Texture",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "211",
+            "name": "Warp Anchor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "212",
+            "name": "Fleet Beacon Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "213",
+            "name": "Explosion1 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "214",
+            "name": "Explosion1 (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "215",
+            "name": "Explosion (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "216",
+            "name": "Protoss Building Rubble (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "217",
+            "name": "Protoss Building Rubble (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "218",
+            "name": "Battlecruiser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "219",
+            "name": "Battlecruiser Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "220",
+            "name": "Battlecruiser Engines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "221",
+            "name": "Civilian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "222",
+            "name": "Civilian Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "223",
+            "name": "Dropship",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "224",
+            "name": "Dropship Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "225",
+            "name": "Dropship Engines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "226",
+            "name": "Firebat",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "227",
+            "name": "Firebat Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "228",
+            "name": "Ghost",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "229",
+            "name": "Ghost Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "230",
+            "name": "Ghost Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "231",
+            "name": "Ghost Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "232",
+            "name": "Nuke Beam",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "233",
+            "name": "Nuke Target Dot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "234",
+            "name": "Goliath Base",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "235",
+            "name": "Goliath Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "236",
+            "name": "Goliath Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "237",
+            "name": "Sarah Kerrigan",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "238",
+            "name": "Sarah Kerrigan Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "239",
+            "name": "Marine",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "240",
+            "name": "Marine Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "241",
+            "name": "Marine Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "242",
+            "name": "Marine Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "243",
+            "name": "Wraith",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "244",
+            "name": "Wraith Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "245",
+            "name": "Wraith Engines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "246",
+            "name": "Scanner Sweep",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "247",
+            "name": "SCV",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "248",
+            "name": "SCV Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "249",
+            "name": "SCV Glow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "250",
+            "name": "Siege Tank (Tank) Base",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "251",
+            "name": "Siege Tank (Tank) Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "252",
+            "name": "Siege Tank (Tank) Base Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "253",
+            "name": "Siege Tank (Siege) Base",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "254",
+            "name": "Siege Tank (Siege) Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "255",
+            "name": "Siege Tank (Siege) Base Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "256",
+            "name": "Vulture",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "257",
+            "name": "Vulture Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "258",
+            "name": "Spider Mine",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "259",
+            "name": "Spider Mine Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "260",
+            "name": "Science Vessel (Base)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "261",
+            "name": "Science Vessel (Turret)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "262",
+            "name": "Science Vessel Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "263",
+            "name": "Terran Academy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "264",
+            "name": "Academy Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "265",
+            "name": "Academy Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "266",
+            "name": "Barracks",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "267",
+            "name": "Barracks Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "268",
+            "name": "Armory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "269",
+            "name": "Armory Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "270",
+            "name": "Armory Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "271",
+            "name": "Comsat Station",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "272",
+            "name": "Comsat Station Connector",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "273",
+            "name": "Comsat Station Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "274",
+            "name": "Comsat Station Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "275",
+            "name": "Command Center",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "276",
+            "name": "Command Center Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "277",
+            "name": "Command Center Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "278",
+            "name": "Supply Depot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "279",
+            "name": "Supply Depot Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "280",
+            "name": "Supply Depot Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "281",
+            "name": "Control Tower",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "282",
+            "name": "Control Tower Connector",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "283",
+            "name": "Control Tower Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "284",
+            "name": "Control Tower Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "285",
+            "name": "Factory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "286",
+            "name": "Factory Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "287",
+            "name": "Factory Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "288",
+            "name": "Covert Ops",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "289",
+            "name": "Covert Ops Connector",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "290",
+            "name": "Covert Ops Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "291",
+            "name": "Covert Ops Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "292",
+            "name": "Ion Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "293",
+            "name": "Machine Shop",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "294",
+            "name": "Machine Shop Connector",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "295",
+            "name": "Machine Shop Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "296",
+            "name": "Missile Turret (Base)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "297",
+            "name": "Missile Turret (Turret)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "298",
+            "name": "Missile Turret (Base) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "299",
+            "name": "Crashed Batlecruiser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "300",
+            "name": "Crashed Battlecruiser Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "301",
+            "name": "Physics Lab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "302",
+            "name": "Physics Lab Connector",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "303",
+            "name": "Physics Lab Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "304",
+            "name": "Bunker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "305",
+            "name": "Bunker Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "306",
+            "name": "Bunker Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "307",
+            "name": "Refinery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "308",
+            "name": "Refinery Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "309",
+            "name": "Science Facility",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "310",
+            "name": "Science Facility Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "311",
+            "name": "Science Facility Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "312",
+            "name": "Nuclear Silo",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "313",
+            "name": "Nuclear Silo Connector",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "314",
+            "name": "Nuclear Silo Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "315",
+            "name": "Nuclear Silo Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "316",
+            "name": "Nuclear Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "317",
+            "name": "Nuclear Missile Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "318",
+            "name": "Nuke Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "319",
+            "name": "Starport",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "320",
+            "name": "Starport Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "321",
+            "name": "Starport Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "322",
+            "name": "Engineering Bay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "323",
+            "name": "Engineering Bay Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "324",
+            "name": "Engineering Bay Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "325",
+            "name": "Terran Construction (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "326",
+            "name": "Terran Construction (Large) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "327",
+            "name": "Terran Construction (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "328",
+            "name": "Terran Construction (Medium) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "329",
+            "name": "Addon Construction",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "330",
+            "name": "Terran Construction (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "331",
+            "name": "Terran Construction (Small) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "332",
+            "name": "Explosion2 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "333",
+            "name": "Explosion2 (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "334",
+            "name": "Building Explosion (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "335",
+            "name": "Terran Building Rubble (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "336",
+            "name": "Terran Building Rubble (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "337",
+            "name": "Dark Swarm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "338",
+            "name": "Ragnasaur (Ash)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "339",
+            "name": "Ragnasaur (Ash) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "340",
+            "name": "Rhynadon (Badlands)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "341",
+            "name": "Rhynadon (Badlands) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "342",
+            "name": "Bengalaas (Jungle)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "343",
+            "name": "Bengalaas (Jungle) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "344",
+            "name": "Vespene Geyser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "345",
+            "name": "Vespene Geyser2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "346",
+            "name": "Vespene Geyser Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "347",
+            "name": "Mineral Field Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "348",
+            "name": "Mineral Field Type1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "349",
+            "name": "Mineral Field Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "350",
+            "name": "Mineral Field Type2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "351",
+            "name": "Mineral Field Type3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "352",
+            "name": "Mineral Field Type3 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "353",
+            "name": "Independent Starport (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "354",
+            "name": "Zerg Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "355",
+            "name": "Zerg Beacon Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "356",
+            "name": "Terran Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "357",
+            "name": "Terran Beacon Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "358",
+            "name": "Protoss Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "359",
+            "name": "Protoss Beacon Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "360",
+            "name": "Unknown360",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "361",
+            "name": "Lockdown Field (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "362",
+            "name": "Lockdown Field (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "363",
+            "name": "Lockdown Field (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "364",
+            "name": "Stasis Field Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "365",
+            "name": "Stasis Field (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "366",
+            "name": "Stasis Field (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "367",
+            "name": "Stasis Field (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "368",
+            "name": "Recharge Shields (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "369",
+            "name": "Recharge Shields (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "370",
+            "name": "Recharge Shields (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "371",
+            "name": "Defensive Matrix Front (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "372",
+            "name": "Defensive Matrix Front (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "373",
+            "name": "Defensive Matrix Front (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "374",
+            "name": "Defensive Matrix Back (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "375",
+            "name": "Defensive Matrix Back (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "376",
+            "name": "Defensive Matrix Back (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "377",
+            "name": "Defensive Matrix Hit (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "378",
+            "name": "Defensive Matrix Hit (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "379",
+            "name": "Defensive Matrix Hit (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "380",
+            "name": "Irradiate (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "381",
+            "name": "Irradiate (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "382",
+            "name": "Irradiate (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "383",
+            "name": "Ensnare Cloud",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "384",
+            "name": "Ensnare Overlay (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "385",
+            "name": "Ensnare Overlay (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "386",
+            "name": "Ensnare Overlay (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "387",
+            "name": "Plague Cloud",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "388",
+            "name": "Plague Overlay (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "389",
+            "name": "Plague Overlay (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "390",
+            "name": "Plague Overlay (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "391",
+            "name": "Recall Field",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "392",
+            "name": "Flag",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "393",
+            "name": "Young Chrysalis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "394",
+            "name": "Psi Emitter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "395",
+            "name": "Data Disc",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "396",
+            "name": "Khaydarin Crystal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "397",
+            "name": "Mineral Chunk Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "398",
+            "name": "Mineral Chunk Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "399",
+            "name": "Protoss Gas Orb Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "400",
+            "name": "Protoss Gas Orb Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "401",
+            "name": "Zerg Gas Sac Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "402",
+            "name": "Zerg Gas Sac Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "403",
+            "name": "Terran Gas Tank Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "404",
+            "name": "Terran Gas Tank Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "405",
+            "name": "Mineral Chunk Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "406",
+            "name": "Protoss Gas Orb Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "407",
+            "name": "Zerg Gas Sac Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "408",
+            "name": "Terran Gas Tank Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "409",
+            "name": "Data Disk Shadow (Ground)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "410",
+            "name": "Data Disk Shadow (Carried)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "411",
+            "name": "Flag Shadow (Ground)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "412",
+            "name": "Flag Shadow (Carried)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "413",
+            "name": "Crystal Shadow (Ground)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "414",
+            "name": "Crystal Shadow (Carried)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "415",
+            "name": "Young Chrysalis Shadow (Ground)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "416",
+            "name": "Young Chrysalis Shadow (Carried)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "417",
+            "name": "Psi Emitter Shadow (Ground)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "418",
+            "name": "Psi Emitter Shadow (Carried)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "419",
+            "name": "Acid Spray (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "420",
+            "name": "Unknown420",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "421",
+            "name": "FlameThrower",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "422",
+            "name": "Longbolt/Gemini Missiles Trail",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "423",
+            "name": "Burrowing Dust",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "424",
+            "name": "Shield Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "425",
+            "name": "Unknown425",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "426",
+            "name": "Double Explosion",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "427",
+            "name": "Phase Disruptor Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "428",
+            "name": "Nuclear Missile Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "429",
+            "name": "Spider Mine Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "430",
+            "name": "Vespene Geyser Smoke1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "431",
+            "name": "Vespene Geyser Smoke2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "432",
+            "name": "Vespene Geyser Smoke3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "433",
+            "name": "Vespene Geyser Smoke4",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "434",
+            "name": "Vespene Geyser Smoke5",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "435",
+            "name": "Unknown435",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "436",
+            "name": "Unknown436",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "437",
+            "name": "Unknown437",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "438",
+            "name": "Unknown438",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "439",
+            "name": "Unknown439",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "440",
+            "name": "Fragmentation Grenade Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "441",
+            "name": "Grenade Shot Smoke",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "442",
+            "name": "Anti-Matter Missile Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "443",
+            "name": "Scarab/Anti-Matter Missile Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "444",
+            "name": "Scarab Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "445",
+            "name": "Cursor Marker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "446",
+            "name": "Battlecruiser Attack Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "447",
+            "name": "Burst Lasers Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "448",
+            "name": "Unknown448",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "449",
+            "name": "High Templar Glow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "450",
+            "name": "Flames1 Type1 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "451",
+            "name": "Flames1 Type2 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "452",
+            "name": "Flames1 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "453",
+            "name": "Flames2 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "454",
+            "name": "Flames3 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "455",
+            "name": "Flames4 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "456",
+            "name": "Flames5 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "457",
+            "name": "Flames6 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "458",
+            "name": "Bleeding Variant1 Type1 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "459",
+            "name": "Bleeding Variant1 Type2 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "460",
+            "name": "Bleeding Variant1 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "461",
+            "name": "Bleeding Variant1 Type4 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "462",
+            "name": "Bleeding Variant2 Type1 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "463",
+            "name": "Bleeding Variant2 Type2 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "464",
+            "name": "Bleeding Variant2 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "465",
+            "name": "Bleeding Variant2 Type4 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "466",
+            "name": "Flames2 Type1 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "467",
+            "name": "Flames2 Type2 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "468",
+            "name": "Flames7 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "469",
+            "name": "Flames3 Type1 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "470",
+            "name": "Flames3 Type2 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "471",
+            "name": "Flames8 Type3 (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "472",
+            "name": "Flames1 Type1 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "473",
+            "name": "Flames1 Type2 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "474",
+            "name": "Flames1 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "475",
+            "name": "Flames2 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "476",
+            "name": "Flames3 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "477",
+            "name": "Flames4 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "478",
+            "name": "Flames5 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "479",
+            "name": "Flames6 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "480",
+            "name": "Bleeding Variant1 Type1 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "481",
+            "name": "Bleeding Variant1 Type2 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "482",
+            "name": "Bleeding Variant1 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "483",
+            "name": "Bleeding Variant1 Type4 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "484",
+            "name": "Bleeding Variant2 Type1 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "485",
+            "name": "Bleeding Variant2 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "486",
+            "name": "Bleeding Variant3 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "487",
+            "name": "Bleeding Variant2 Type4 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "488",
+            "name": "Flames2 Type1 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "489",
+            "name": "Flames2 Type2 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "490",
+            "name": "Flames7 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "491",
+            "name": "Flames3 Type1 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "492",
+            "name": "Flames3 Type2 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "493",
+            "name": "Flames8 Type3 (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "494",
+            "name": "Building Landing Dust Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "495",
+            "name": "Building Landing Dust Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "496",
+            "name": "Building Landing Dust Type3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "497",
+            "name": "Building Landing Dust Type4",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "498",
+            "name": "Building Landing Dust Type5",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "499",
+            "name": "Building Lifting Dust Type1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "500",
+            "name": "Building Lifting Dust Type2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "501",
+            "name": "Building Lifting Dust Type3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "502",
+            "name": "Building Lifting Dust Type4",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "503",
+            "name": "White Circle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "504",
+            "name": "Needle Spine Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "505",
+            "name": "Unknown505",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "506",
+            "name": "Sunken Colony Tentacle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "507",
+            "name": "Venom (Unused Zerg Weapon)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "508",
+            "name": "Venom Hit (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "509",
+            "name": "Acid Spore",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "510",
+            "name": "Acid Spore Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "511",
+            "name": "Glave Wurm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "512",
+            "name": "Glave Wurm/Seeker Spores Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "513",
+            "name": "Glave Wurm Trail",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "514",
+            "name": "Seeker Spores Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "515",
+            "name": "Seeker Spores",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "516",
+            "name": "Queen Spell Holder",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "517",
+            "name": "Consume",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "518",
+            "name": "Guardian Attack Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "519",
+            "name": "Dual Photon Blasters Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "520",
+            "name": "Particle Beam Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "521",
+            "name": "Anti-Matter Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "522",
+            "name": "Pulse Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "523",
+            "name": "Phase Disruptor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "524",
+            "name": "STA/STS Photon Cannon Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "525",
+            "name": "Psionic Storm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "526",
+            "name": "Fusion Cutter Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "527",
+            "name": "Gauss Rifle Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "528",
+            "name": "Gemini Missiles",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "529",
+            "name": "Lockdown/LongBolt/Hellfire Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "530",
+            "name": "Gemini Missiles Explosion",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "531",
+            "name": "C-10 Canister Rifle Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "532",
+            "name": "Fragmentation Grenade",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "533",
+            "name": "Arclite Shock Cannon Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "534",
+            "name": "ATS/ATA Laser Battery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "535",
+            "name": "Burst Lasers",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "536",
+            "name": "Siege Tank(Tank) Turret Attack Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "537",
+            "name": "Siege Tank(Siege) Turret Attack Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "538",
+            "name": "Science Vessel Overlay (Part1)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "539",
+            "name": "Science Vessel Overlay (Part2)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "540",
+            "name": "Science Vessel Overlay (Part3)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "541",
+            "name": "Yamato Gun",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "542",
+            "name": "Yamato Gun Trail",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "543",
+            "name": "Yamato Gun Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "544",
+            "name": "Yamato Gun Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "545",
+            "name": "Hallucination Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "546",
+            "name": "Scanner Sweep Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "547",
+            "name": "Unknown547",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "548",
+            "name": "Psionic Shockwave Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "549",
+            "name": "Archon Beam",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "550",
+            "name": "Psionic Storm Part1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "551",
+            "name": "Psionic Storm Part2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "552",
+            "name": "Psionic Storm Part3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "553",
+            "name": "Psionic Storm Part4",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "554",
+            "name": "EMP Shockwave Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "555",
+            "name": "EMP Shockwave Hit (Part1)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "556",
+            "name": "EMP Shockwave Hit (Part2)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "557",
+            "name": "Hallucination Death1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "558",
+            "name": "Hallucination Death2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "559",
+            "name": "Hallucination Death3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "560",
+            "name": "Circle Marker1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "561",
+            "name": "Selection Circle (22pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "562",
+            "name": "Selection Circle (32pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "563",
+            "name": "Selection Circle (48pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "564",
+            "name": "Selection Circle (62pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "565",
+            "name": "Selection Circle (72pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "566",
+            "name": "Selection Circle (94pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "567",
+            "name": "Selection Circle (110pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "568",
+            "name": "Selection Circle (122pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "569",
+            "name": "Selection Circle (146pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "570",
+            "name": "Selection Circle (224pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "571",
+            "name": "Selection Circle Dashed (22pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "572",
+            "name": "Selection Circle Dashed (32pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "573",
+            "name": "Selection Circle Dashed (48pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "574",
+            "name": "Selection Circle Dashed (62pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "575",
+            "name": "Selection Circle Dashed (72pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "576",
+            "name": "Selection Circle Dashed (94pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "577",
+            "name": "Selection Circle Dashed (110pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "578",
+            "name": "Selection Circle Dashed (122pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "579",
+            "name": "Selection Circle Dashed (146pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "580",
+            "name": "Selection Circle Dashed (224pixels)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "581",
+            "name": "Circle Marker2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "582",
+            "name": "Map Revealer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "583",
+            "name": "Circle Marker3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "584",
+            "name": "Psi Field1 (Right Upper)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "585",
+            "name": "Psi Field1 (Right Lower)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "586",
+            "name": "Psi Field2 (Right Upper)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "587",
+            "name": "Psi Field2 (Right Lower)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "588",
+            "name": "Start Location",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "589",
+            "name": "2/38 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "590",
+            "name": "2/38 Ash Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "591",
+            "name": "2/39 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "592",
+            "name": "2/39 Ash Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "593",
+            "name": "2/41 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "594",
+            "name": "2/41 Ash Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "595",
+            "name": "2/40 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "596",
+            "name": "2/40 Ash Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "597",
+            "name": "2/42 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "598",
+            "name": "2/42 Ash Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "599",
+            "name": "2/43 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "600",
+            "name": "2/44 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "601",
+            "name": "2/1 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "602",
+            "name": "2/4 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "603",
+            "name": "2/5 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "604",
+            "name": "2/30 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "605",
+            "name": "2/28 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "606",
+            "name": "2/29 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "607",
+            "name": "4/1 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "608",
+            "name": "4/2 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "609",
+            "name": "4/3 Ash",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "610",
+            "name": "4/56 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "611",
+            "name": "4/56 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "612",
+            "name": "4/57 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "613",
+            "name": "4/57 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "614",
+            "name": "4/58 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "615",
+            "name": "4/58 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "616",
+            "name": "4/59 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "617",
+            "name": "4/59 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "618",
+            "name": "9/5 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "619",
+            "name": "9/5 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "620",
+            "name": "9/6 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "621",
+            "name": "9/6 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "622",
+            "name": "9/7 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "623",
+            "name": "9/7 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "624",
+            "name": "4/51 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "625",
+            "name": "4/51 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "626",
+            "name": "4/52 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "627",
+            "name": "4/52 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "628",
+            "name": "4/54 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "629",
+            "name": "4/54 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "630",
+            "name": "4/53 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "631",
+            "name": "4/53 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "632",
+            "name": "9/1 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "633",
+            "name": "9/1 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "634",
+            "name": "9/2 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "635",
+            "name": "9/2 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "636",
+            "name": "9/3 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "637",
+            "name": "9/3 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "638",
+            "name": "9/4 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "639",
+            "name": "9/4 Jungle Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "640",
+            "name": "4/12 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "641",
+            "name": "4/13 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "642",
+            "name": "4/1 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "643",
+            "name": "4/3 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "644",
+            "name": "4/2 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "645",
+            "name": "4/5 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "646",
+            "name": "4/4 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "647",
+            "name": "4/9 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "648",
+            "name": "4/10 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "649",
+            "name": "5/5 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "650",
+            "name": "5/7 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "651",
+            "name": "5/6 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "652",
+            "name": "5/9 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "653",
+            "name": "5/8 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "654",
+            "name": "4/6 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "655",
+            "name": "4/7 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "656",
+            "name": "4/17 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "657",
+            "name": "13/4 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "658",
+            "name": "11/5 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "659",
+            "name": "11/6 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "660",
+            "name": "11/7 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "661",
+            "name": "11/8 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "662",
+            "name": "11/10 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "663",
+            "name": "11/11 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "664",
+            "name": "11/12 Jungle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "665",
+            "name": "7/4 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "666",
+            "name": "7/4 Platform Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "667",
+            "name": "7/5 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "668",
+            "name": "7/5 Platform Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "669",
+            "name": "7/6 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "670",
+            "name": "7/6 Platform Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "671",
+            "name": "7/1 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "672",
+            "name": "7/1 Platform Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "673",
+            "name": "7/2 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "674",
+            "name": "7/2 Platform Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "675",
+            "name": "7/3 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "676",
+            "name": "7/3 Platform Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "677",
+            "name": "7/9 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "678",
+            "name": "7/10 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "679",
+            "name": "7/8 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "680",
+            "name": "7/7 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "681",
+            "name": "7/26 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "682",
+            "name": "7/24 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "683",
+            "name": "7/28 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "684",
+            "name": "7/27 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "685",
+            "name": "7/25 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "686",
+            "name": "7/29 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "687",
+            "name": "7/30 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "688",
+            "name": "7/31 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "689",
+            "name": "12/1 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "690",
+            "name": "9/27 Platform",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "691",
+            "name": "5/54 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "692",
+            "name": "5/54 Badlands Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "693",
+            "name": "5/55 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "694",
+            "name": "5/55 Badlands Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "695",
+            "name": "5/56 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "696",
+            "name": "5/56 Badlands Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "697",
+            "name": "5/57 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "698",
+            "name": "5/57 Badlands Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "699",
+            "name": "6/16 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "700",
+            "name": "6/17 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "701",
+            "name": "6/20 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "702",
+            "name": "6/21 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "703",
+            "name": "5/10 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "704",
+            "name": "5/50 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "705",
+            "name": "5/50 Badlands Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "706",
+            "name": "5/52 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "707",
+            "name": "5/52 Badlands Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "708",
+            "name": "5/53 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "709",
+            "name": "5/53 Badlands Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "710",
+            "name": "5/51 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "711",
+            "name": "5/51 Badlands Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "712",
+            "name": "6/3 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "713",
+            "name": "11/3 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "714",
+            "name": "11/8 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "715",
+            "name": "11/6 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "716",
+            "name": "11/7 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "717",
+            "name": "11/9 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "718",
+            "name": "11/10 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "719",
+            "name": "11/11 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "720",
+            "name": "11/12 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "721",
+            "name": "11/13 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "722",
+            "name": "11/14 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "723",
+            "name": "1/13 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "724",
+            "name": "1/9 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "725",
+            "name": "1/11 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "726",
+            "name": "1/14 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "727",
+            "name": "1/10 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "728",
+            "name": "1/12 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "729",
+            "name": "1/15 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "730",
+            "name": "1/7 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "731",
+            "name": "1/5 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "732",
+            "name": "1/16 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "733",
+            "name": "1/8 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "734",
+            "name": "1/6 Badlands",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "735",
+            "name": "Floor Gun Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "736",
+            "name": "Floor Missile Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "737",
+            "name": "Floor Missile Trap Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "738",
+            "name": "Wall Missile Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "739",
+            "name": "Wall Missile Trap2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "740",
+            "name": "Wall Flame Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "741",
+            "name": "Wall Flame Trap2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "742",
+            "name": "Left Upper Level Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "743",
+            "name": "Right Upper Level Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "744",
+            "name": "4/15 Installation1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "745",
+            "name": "4/15 Installation2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "746",
+            "name": "3/9 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "747",
+            "name": "3/10 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "748",
+            "name": "3/11 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "749",
+            "name": "3/12 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "750",
+            "name": "Substructure Left Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "751",
+            "name": "Substructure Right Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "752",
+            "name": "3/1 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "753",
+            "name": "3/2 Installation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "754",
+            "name": "Substructure Opening Hole",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "755",
+            "name": "7/21 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "756",
+            "name": "Unknown Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "757",
+            "name": "7/13 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "758",
+            "name": "7/14 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "759",
+            "name": "7/16 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "760",
+            "name": "7/15 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "761",
+            "name": "7/19 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "762",
+            "name": "7/20 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "763",
+            "name": "7/17 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "764",
+            "name": "6/1 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "765",
+            "name": "6/2 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "766",
+            "name": "6/3 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "767",
+            "name": "6/4 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "768",
+            "name": "6/5 Twilight",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "769",
+            "name": "8/3 Twilight1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "770",
+            "name": "8/3 Twilight2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "771",
+            "name": "9/29 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "772",
+            "name": "9/29 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "773",
+            "name": "9/28 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "774",
+            "name": "9/28 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "775",
+            "name": "12/38 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "776",
+            "name": "12/38 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "777",
+            "name": "12/37 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "778",
+            "name": "12/37 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "779",
+            "name": "12/33 Ice1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "780",
+            "name": "12/33 Ice1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "781",
+            "name": "9/21 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "782",
+            "name": "9/21 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "783",
+            "name": "9/15 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "784",
+            "name": "9/15 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "785",
+            "name": "9/16 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "786",
+            "name": "9/16 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "787",
+            "name": "Unknown787",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "788",
+            "name": "Unknown788",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "789",
+            "name": "12/9 Ice1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "790",
+            "name": "12/10 Ice1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "791",
+            "name": "9/24 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "792",
+            "name": "9/24 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "793",
+            "name": "9/23 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "794",
+            "name": "9/23 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "795",
+            "name": "Unknown795",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "796",
+            "name": "Unknown Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "797",
+            "name": "12/7 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "798",
+            "name": "12/7 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "799",
+            "name": "12/8 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "800",
+            "name": "12/8 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "801",
+            "name": "12/9 Ice2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "802",
+            "name": "12/9 Ice2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "803",
+            "name": "12/10 Ice2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "804",
+            "name": "12/10 Ice2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "805",
+            "name": "12/40 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "806",
+            "name": "12/40 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "807",
+            "name": "12/41 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "808",
+            "name": "12/41 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "809",
+            "name": "12/42 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "810",
+            "name": "12/42 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "811",
+            "name": "12/5 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "812",
+            "name": "12/5 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "813",
+            "name": "12/6 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "814",
+            "name": "12/6 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "815",
+            "name": "12/36 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "816",
+            "name": "12/36 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "817",
+            "name": "12/32 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "818",
+            "name": "12/32 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "819",
+            "name": "12/33 Ice2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "820",
+            "name": "12/33 Ice2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "821",
+            "name": "12/34 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "822",
+            "name": "12/34 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "823",
+            "name": "12/24 Ice1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "824",
+            "name": "12/24 Ice1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "825",
+            "name": "12/25 Ice1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "826",
+            "name": "12/25 Ice1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "827",
+            "name": "12/30 Ice1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "828",
+            "name": "12/30 Ice1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "829",
+            "name": "12/31 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "830",
+            "name": "12/31 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "831",
+            "name": "12/20 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "832",
+            "name": "12/30 Ice2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "833",
+            "name": "12/30 Ice2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "834",
+            "name": "9/22 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "835",
+            "name": "9/22 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "836",
+            "name": "12/24 Ice2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "837",
+            "name": "12/24 Ice2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "838",
+            "name": "12/25 Ice2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "839",
+            "name": "12/25 Ice2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "840",
+            "name": "Unknown840",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "841",
+            "name": "4/1 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "842",
+            "name": "6/1 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "843",
+            "name": "5/6 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "844",
+            "name": "5/6 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "845",
+            "name": "5/7 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "846",
+            "name": "5/7 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "847",
+            "name": "5/8 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "848",
+            "name": "5/8 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "849",
+            "name": "5/9 Ice",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "850",
+            "name": "5/9 Ice Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "851",
+            "name": "10/10 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "852",
+            "name": "10/12 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "853",
+            "name": "10/12 Desert1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "854",
+            "name": "10/8 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "855",
+            "name": "10/8 Desert1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "856",
+            "name": "10/9 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "857",
+            "name": "10/9 Desert1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "858",
+            "name": "6/10 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "859",
+            "name": "6/10 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "860",
+            "name": "6/13 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "861",
+            "name": "6/13 Desert1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "862",
+            "name": "Unknown Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "863",
+            "name": "Unknown Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "864",
+            "name": "10/12 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "865",
+            "name": "10/12 Desert2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "866",
+            "name": "10/9 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "867",
+            "name": "10/9 Desert2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "868",
+            "name": "10/10 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "869",
+            "name": "10/10 Desert2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "870",
+            "name": "10/11 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "871",
+            "name": "10/11 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "872",
+            "name": "10/14 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "873",
+            "name": "10/14 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "874",
+            "name": "10/41 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "875",
+            "name": "10/41 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "876",
+            "name": "10/39 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "877",
+            "name": "1/39 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "878",
+            "name": "10/8 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "879",
+            "name": "10/8 Desert2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "880",
+            "name": "10/6 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "881",
+            "name": "10/7 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "882",
+            "name": "10/7 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "883",
+            "name": "4/6 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "884",
+            "name": "4/6 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "885",
+            "name": "4/11 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "886",
+            "name": "4/11 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "887",
+            "name": "4/10 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "888",
+            "name": "4/10 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "889",
+            "name": "4/9 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "890",
+            "name": "4/7 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "891",
+            "name": "4/7 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "892",
+            "name": "4/12 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "893",
+            "name": "4/12 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "894",
+            "name": "4/8 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "895",
+            "name": "4/13 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "896",
+            "name": "4/13 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "897",
+            "name": "4/17 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "898",
+            "name": "4/15 Desert1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "899",
+            "name": "4/15 Desert1 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "900",
+            "name": "10/23 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "901",
+            "name": "10/23 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "902",
+            "name": "10/5 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "903",
+            "name": "10/5 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "904",
+            "name": "6/13 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "905",
+            "name": "6/13 Desert2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "906",
+            "name": "6/20 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "907",
+            "name": "4/15 Desert2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "908",
+            "name": "4/15 Desert2 Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "909",
+            "name": "8/23 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "910",
+            "name": "8/23 Desert Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "911",
+            "name": "12/1 Desert Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "912",
+            "name": "11/3 Desert",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "913",
+            "name": "Unknown913",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "914",
+            "name": "Lurker Egg",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "915",
+            "name": "Devourer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "916",
+            "name": "Devourer Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "917",
+            "name": "Devourer Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "918",
+            "name": "Devourer Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "919",
+            "name": "Lurker Birth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "920",
+            "name": "Lurker Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "921",
+            "name": "Lurker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "922",
+            "name": "Lurker Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "923",
+            "name": "Overmind Cocoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "924",
+            "name": "Overmind Cocoon Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "925",
+            "name": "Dark Archon Energy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "926",
+            "name": "Dark Archon Being",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "927",
+            "name": "Dark Archon Swirl",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "928",
+            "name": "Dark Archon Death",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "929",
+            "name": "Corsair",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "930",
+            "name": "Corsair Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "931",
+            "name": "Corsair Engines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "932",
+            "name": "Corsair Attack Overlay (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "933",
+            "name": "Dark Templar (Unit)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "934",
+            "name": "Warp Gate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "935",
+            "name": "Warp Gate Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "936",
+            "name": "Warp Gate Overlay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "937",
+            "name": "Xel'Naga Temple",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "938",
+            "name": "Xel'Naga Temple Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "939",
+            "name": "Valkyrie",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "940",
+            "name": "Valkyrie Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "941",
+            "name": "Valkyrie Engines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "942",
+            "name": "Valkyrie Engines2 (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "943",
+            "name": "Valkyrie Afterburners (Unused)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "944",
+            "name": "Medic",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "945",
+            "name": "Medic Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "946",
+            "name": "Medic Remnants",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "947",
+            "name": "Psi Disrupter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "948",
+            "name": "Psi Disrupter Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "949",
+            "name": "Power Generator",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "950",
+            "name": "Power Generator Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "951",
+            "name": "Disruption Web",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "952",
+            "name": "Scantid (Desert)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "953",
+            "name": "Scantid (Desert) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "954",
+            "name": "Kakaru (Twilight)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "955",
+            "name": "Kakaru (Twilight) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "956",
+            "name": "Ursadon (Ice)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "957",
+            "name": "Ursadon (Ice) Shadow",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "958",
+            "name": "Uraj",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "959",
+            "name": "Khalis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "960",
+            "name": "Halo Rockets Trail",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "961",
+            "name": "Subterranean Spines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "962",
+            "name": "Coroosive Acid Shot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "963",
+            "name": "Corrosive Acid Hit",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "964",
+            "name": "Neutron Flare",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "965",
+            "name": "Halo Rockets",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "966",
+            "name": "Optical Flare Grenade",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "967",
+            "name": "Restoration Hit (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "968",
+            "name": "Restoration Hit (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "969",
+            "name": "Restoration Hit (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "970",
+            "name": "Heal (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "971",
+            "name": "Heal (medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "972",
+            "name": "Heal (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "973",
+            "name": "Mind Control Hit (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "974",
+            "name": "Mind Control Hit (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "975",
+            "name": "Mind Control Hit (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "976",
+            "name": "Optical Flare Hit (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "977",
+            "name": "Optical Flare Hit (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "978",
+            "name": "Optical Flare Hit (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "979",
+            "name": "Feedback (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "980",
+            "name": "Feedback (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "981",
+            "name": "Feedback Hit (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "982",
+            "name": "Maelstorm Overlay (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "983",
+            "name": "Maelstorm Overlay (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "984",
+            "name": "Maelstorm Overlay (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "985",
+            "name": "Unknown985",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "986",
+            "name": "Acid Spores (1) Overlay (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "987",
+            "name": "Acid Spores (2-3) Overlay (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "988",
+            "name": "Acid Spores (4-5) Overlay (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "989",
+            "name": "Acid Spores (6-9) Overlay (Small)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "990",
+            "name": "Acid Spores (1) Overlay (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "991",
+            "name": "Acid Spores (2-3) Overlay (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "992",
+            "name": "Acid Spores (4-5) Overlay (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "993",
+            "name": "Acid Spores (6-9) Overlay (Medium)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "994",
+            "name": "Acid Spores (1) Overlay (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "995",
+            "name": "Acid Spores (2-3) Overlay (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "996",
+            "name": "Acid Spores (4-5) Overlay (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "997",
+            "name": "Acid Spores (6-9) Overlay (Large)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "998",
+            "name": "Maelstorm Hit",
+            "alt_name": [],
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1575 @@
+﻿{
+    "summary": {
+        "name": "Unit Index",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "offset": "0",
+            "name": "Terran Marine",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "1",
+            "name": "Terran Ghost",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "2",
+            "name": "Terran Vulture",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "3",
+            "name": "Terran Goliath",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "4",
+            "name": "Goliath Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "5",
+            "name": "Terran Siege Tank (Tank Mode)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "6",
+            "name": "Siege Tank Turret (Tank Mode)",
+            "alt_name": [
+                "Tank Turret type   1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "7",
+            "name": "Terran SCV",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "8",
+            "name": "Terran Wraith",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "9",
+            "name": "Terran Science Vessel",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "10",
+            "name": "Gui Montag (Firebat)",
+            "alt_name": [
+                "Gui Montag"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "11",
+            "name": "Terran Dropship",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "12",
+            "name": "Terran Battlecruiser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "13",
+            "name": "Vulture Spider Mine",
+            "alt_name": [
+                "Spider Mine"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "14",
+            "name": "Nuclear Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "15",
+            "name": "Terran Civilian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "16",
+            "name": "Sarah Kerrigan (Ghost)",
+            "alt_name": [
+                "Sarah Kerrigan"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "17",
+            "name": "Alan Schezar (Goliath)",
+            "alt_name": [
+                "Alan Schezar"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "18",
+            "name": "Alan Schezar Turret",
+            "alt_name": [
+                "Alan Turret"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "19",
+            "name": "Jim Raynor (Vulture)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "20",
+            "name": "Jim Raynor (Marine)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "21",
+            "name": "Tom Kazansky (Wraith)",
+            "alt_name": [
+                "Tom Kazansky"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "22",
+            "name": "Magellan (Science Vessel)",
+            "alt_name": [
+                "Magellan"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "23",
+            "name": "Edmund Duke (Siege Tank)",
+            "alt_name": [
+                "Edmund Duke (Tank Mode)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "24",
+            "name": "Edmund Duke Turret (Tank Mode)",
+            "alt_name": [
+                "Duke Turret type   1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "25",
+            "name": "Edmund Duke (Siege Mode)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "26",
+            "name": "Edmund Duke Turret (Siege Mode)",
+            "alt_name": [
+                "Duke Turret type   2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "27",
+            "name": "Arcturus Mengsk (Battlecruiser)",
+            "alt_name": [
+                "Arcturus Mengsk"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "28",
+            "name": "Hyperion (Battlecruiser)",
+            "alt_name": [
+                "Hyperion"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "29",
+            "name": "Norad II (Battlecruiser)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "30",
+            "name": "Terran Siege Tank (Siege Mode)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "31",
+            "name": "Siege Tank Turret (Siege Mode)",
+            "alt_name": [
+                "Tank Turret type   2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "32",
+            "name": "Terran Firebat",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "33",
+            "name": "Scanner Sweep",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "34",
+            "name": "Terran Medic",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "35",
+            "name": "Zerg Larva",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "36",
+            "name": "Zerg Egg",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "37",
+            "name": "Zerg Zergling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "38",
+            "name": "Zerg Hydralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "39",
+            "name": "Zerg Ultralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "40",
+            "name": "Zerg Broodling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "41",
+            "name": "Zerg Drone",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "42",
+            "name": "Zerg Overlord",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "43",
+            "name": "Zerg Mutalisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "44",
+            "name": "Zerg Guardian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "45",
+            "name": "Zerg Queen",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "46",
+            "name": "Zerg Defiler",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "47",
+            "name": "Zerg Scourge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "48",
+            "name": "Torrasque (Ultralisk)",
+            "alt_name": [
+                "Torrasque"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "49",
+            "name": "Matriarch (Queen)",
+            "alt_name": [
+                "Matriarch"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "50",
+            "name": "Infested Terran",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "51",
+            "name": "Infested Kerrigan (Infested Terran)",
+            "alt_name": [
+                "Infested Kerrigan"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "52",
+            "name": "Unclean One (Defiler)",
+            "alt_name": [
+                "Unclean One"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "53",
+            "name": "Hunter Killer (Hydralisk)",
+            "alt_name": [
+                "Hunter Killer"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "54",
+            "name": "Devouring One (Zergling)",
+            "alt_name": [
+                "Devouring One"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "55",
+            "name": "Kukulza (Mutalisk)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "56",
+            "name": "Kukulza (Guardian)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "57",
+            "name": "Yggdrasill (Overlord)",
+            "alt_name": [
+                "Yggdrasill"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "58",
+            "name": "Terran Valkyrie",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "59",
+            "name": "Mutalisk Cocoon",
+            "alt_name": [
+                "Cocoon"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "60",
+            "name": "Protoss Corsair",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "61",
+            "name": "Protoss Dark Templar (Unit)",
+            "alt_name": [
+                "Protoss Dark Templar"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "62",
+            "name": "Zerg Devourer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "63",
+            "name": "Protoss Dark Archon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "64",
+            "name": "Protoss Probe",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "65",
+            "name": "Protoss Zealot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "66",
+            "name": "Protoss Dragoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "67",
+            "name": "Protoss High Templar",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "68",
+            "name": "Protoss Archon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "69",
+            "name": "Protoss Shuttle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "70",
+            "name": "Protoss Scout",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "71",
+            "name": "Protoss Arbiter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "72",
+            "name": "Protoss Carrier",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "73",
+            "name": "Protoss Interceptor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "74",
+            "name": "Protoss Dark Templar (Hero)",
+            "alt_name": [
+                "Dark Templar",
+                "Dark Templar (Hero)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "75",
+            "name": "Zeratul (Dark Templar)",
+            "alt_name": [
+                "Zeratul"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "76",
+            "name": "Tassadar/Zeratul (Archon)",
+            "alt_name": [
+                "Tassadar/Zeratul"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "77",
+            "name": "Fenix (Zealot)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "78",
+            "name": "Fenix (Dragoon)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "79",
+            "name": "Tassadar (Templar)",
+            "alt_name": [
+                "Tassadar"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "80",
+            "name": "Mojo (Scout)",
+            "alt_name": [
+                "Mojo"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "81",
+            "name": "Warbringer (Reaver)",
+            "alt_name": [
+                "Warbringer"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "82",
+            "name": "Gantrithor (Carrier)",
+            "alt_name": [
+                "Gantrithor"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "83",
+            "name": "Protoss Reaver",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "84",
+            "name": "Protoss Observer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "85",
+            "name": "Protoss Scarab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "86",
+            "name": "Danimoth (Arbiter)",
+            "alt_name": [
+                "Danimoth"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "87",
+            "name": "Aldaris (Templar)",
+            "alt_name": [
+                "Aldaris"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "88",
+            "name": "Artanis (Scout)",
+            "alt_name": [
+                "Artanis"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "89",
+            "name": "Rhynadon (Badlands Critter)",
+            "alt_name": [
+                "Rhynadon",
+                "Rhynadon (Badlands)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "90",
+            "name": "Bengalaas (Jungle Critter)",
+            "alt_name": [
+                "Bengalaas",
+                "Bengalaas (Jungle)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "91",
+            "name": "Cargo Ship (Unused)",
+            "alt_name": [
+                "Cargo Ship",
+                "Unused type   1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "92",
+            "name": "Mercenary Gunship (Unused)",
+            "alt_name": [
+                "Unused type   2",
+                "Mercenary Gunship"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "93",
+            "name": "Scantid (Desert Critter)",
+            "alt_name": [
+                "Scantid",
+                "Scantid (Desert)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "94",
+            "name": "Kakaru (Twilight Critter)",
+            "alt_name": [
+                "Kakaru",
+                "Kakaru (Twilight)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "95",
+            "name": "Ragnasaur (Ashworld Critter)",
+            "alt_name": [
+                "Ragnasaur",
+                "Ragnasaur (Ashworld)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "96",
+            "name": "Ursadon (Ice World Critter)",
+            "alt_name": [
+                "Ursadon",
+                "Ursadon (Ice World)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "97",
+            "name": "Zerg Lurker Egg",
+            "alt_name": [
+                "Lurker Egg"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "98",
+            "name": "Raszagal (Corsair)",
+            "alt_name": [
+                "Raszagal"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "99",
+            "name": "Samir Duran (Ghost)",
+            "alt_name": [
+                "Samir Duran"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "100",
+            "name": "Alexei Stukov (Ghost)",
+            "alt_name": [
+                "Alexei Stukov"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "101",
+            "name": "Map Revealer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "102",
+            "name": "Gerard DuGalle (BattleCruiser)",
+            "alt_name": [
+                "Gerard DuGalle",
+                "Gerard DuGalle (Ghost)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "103",
+            "name": "Zerg Lurker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "104",
+            "name": "Infested Duran (Infested Terran)",
+            "alt_name": [
+                "Infested Duran"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "105",
+            "name": "Disruption Field",
+            "alt_name": [
+                "Disruption Web"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "106",
+            "name": "Terran Command Center",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "107",
+            "name": "Terran Comsat Station",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "108",
+            "name": "Terran Nuclear Silo",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "109",
+            "name": "Terran Supply Depot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "110",
+            "name": "Terran Refinery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "111",
+            "name": "Terran Barracks",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "112",
+            "name": "Terran Academy",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "113",
+            "name": "Terran Factory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "114",
+            "name": "Terran Starport",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "115",
+            "name": "Terran Control Tower",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "116",
+            "name": "Terran Science Facility",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "117",
+            "name": "Terran Covert Ops",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "118",
+            "name": "Terran Physics Lab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "119",
+            "name": "Unused Terran Bldg type   1",
+            "alt_name": [
+                "Starbase",
+                "Starbase (Unused)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "120",
+            "name": "Terran Machine Shop",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "121",
+            "name": "Unused Terran Bldg type   2",
+            "alt_name": [
+                "Repair Bay",
+                "Repair Bay (Unused)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "122",
+            "name": "Terran Engineering Bay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "123",
+            "name": "Terran Armory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "124",
+            "name": "Terran Missile Turret",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "125",
+            "name": "Terran Bunker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "126",
+            "name": "Norad II (Crashed Battlecruiser)",
+            "alt_name": [
+                "Norad II (Crashed)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "127",
+            "name": "Ion Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "128",
+            "name": "Uraj Crystal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "129",
+            "name": "Khalis Crystal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "130",
+            "name": "Infested Command Center",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "131",
+            "name": "Zerg Hatchery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "132",
+            "name": "Zerg Lair",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "133",
+            "name": "Zerg Hive",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "134",
+            "name": "Zerg Nydus Canal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "135",
+            "name": "Zerg Hydralisk Den",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "136",
+            "name": "Zerg Defiler Mound",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "137",
+            "name": "Zerg Greater Spire",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "138",
+            "name": "Zerg Queen's Nest",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "139",
+            "name": "Zerg Evolution Chamber",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "140",
+            "name": "Zerg Ultralisk Cavern",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "141",
+            "name": "Zerg Spire",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "142",
+            "name": "Zerg Spawning Pool",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "143",
+            "name": "Zerg Creep Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "144",
+            "name": "Zerg Spore Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "145",
+            "name": "Unused Zerg Building1",
+            "alt_name": [
+                "Unused Zerg Bldg"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "146",
+            "name": "Zerg Sunken Colony",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "147",
+            "name": "Zerg Overmind (With Shell)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "148",
+            "name": "Zerg Overmind",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "149",
+            "name": "Zerg Extractor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "150",
+            "name": "Mature Chrysalis",
+            "alt_name": [
+                "Mature Crysalis"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "151",
+            "name": "Zerg Cerebrate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "152",
+            "name": "Zerg Cerebrate Daggoth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "153",
+            "name": "Unused Zerg Building2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "154",
+            "name": "Protoss Nexus",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "155",
+            "name": "Protoss Robotics Facility",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "156",
+            "name": "Protoss Pylon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "157",
+            "name": "Protoss Assimilator",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "158",
+            "name": "Unused Protoss Building1",
+            "alt_name": [
+                "Protoss Unused type   1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "159",
+            "name": "Protoss Observatory",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "160",
+            "name": "Protoss Gateway",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "161",
+            "name": "Unused Protoss Building2",
+            "alt_name": [
+                "Protoss Unused type   2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "162",
+            "name": "Protoss Photon Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "163",
+            "name": "Protoss Citadel of Adun",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "164",
+            "name": "Protoss Cybernetics Core",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "165",
+            "name": "Protoss Templar Archives",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "166",
+            "name": "Protoss Forge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "167",
+            "name": "Protoss Stargate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "168",
+            "name": "Stasis Cell/Prison",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "169",
+            "name": "Protoss Fleet Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "170",
+            "name": "Protoss Arbiter Tribunal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "171",
+            "name": "Protoss Robotics Support Bay",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "172",
+            "name": "Protoss Shield Battery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "173",
+            "name": "Khaydarin Crystal Formation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "174",
+            "name": "Protoss Temple",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "175",
+            "name": "Xel'Naga Temple",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "176",
+            "name": "Mineral Field (Type 1)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "177",
+            "name": "Mineral Field (Type 2)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "178",
+            "name": "Mineral Field (Type 3)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "179",
+            "name": "Cave (Unused)",
+            "alt_name": [
+                "Cave"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "180",
+            "name": "Cave-in (Unused)",
+            "alt_name": [
+                "Cave-in"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "181",
+            "name": "Cantina (Unused)",
+            "alt_name": [
+                "Cantina"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "182",
+            "name": "Mining Platform (Unused)",
+            "alt_name": [
+                "Mining Platform"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "183",
+            "name": "Independent Command Center (Unused)",
+            "alt_name": [
+                "Independent Command Center"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "184",
+            "name": "Independent Starport (Unused)",
+            "alt_name": [
+                "Independent Starport"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "185",
+            "name": "Independent Jump Gate (Unused)",
+            "alt_name": [
+                "Jump Gate"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "186",
+            "name": "Ruins (Unused)",
+            "alt_name": [
+                "Ruins"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "187",
+            "name": "Khaydarin Crystal Formation (Unused)",
+            "alt_name": [
+                "Kyadarin Crystal Formation"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "188",
+            "name": "Vespene Geyser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "189",
+            "name": "Warp Gate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "190",
+            "name": "Psi Disrupter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "191",
+            "name": "Zerg Marker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "192",
+            "name": "Terran Marker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "193",
+            "name": "Protoss Marker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "194",
+            "name": "Zerg Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "195",
+            "name": "Terran Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "196",
+            "name": "Protoss Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "197",
+            "name": "Zerg Flag Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "198",
+            "name": "Terran Flag Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "199",
+            "name": "Protoss Flag Beacon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "200",
+            "name": "Power Generator",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "201",
+            "name": "Overmind Cocoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "202",
+            "name": "Dark Swarm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "203",
+            "name": "Floor Missile Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "204",
+            "name": "Floor Hatch (Unused)",
+            "alt_name": [
+                "Floor Hatch (UNUSED)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "205",
+            "name": "Left Upper Level Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "206",
+            "name": "Right Upper Level Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "207",
+            "name": "Left Pit Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "208",
+            "name": "Right Pit Door",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "209",
+            "name": "Floor Gun Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "210",
+            "name": "Left Wall Missile Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "211",
+            "name": "Left Wall Flame Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "212",
+            "name": "Right Wall Missile Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "213",
+            "name": "Right Wall Flame Trap",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "214",
+            "name": "Start Location",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "215",
+            "name": "Flag",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "216",
+            "name": "Young Chrysalis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "217",
+            "name": "Psi Emitter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "218",
+            "name": "Data Disc",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "219",
+            "name": "Khaydarin Crystal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "220",
+            "name": "Mineral Chunk (Type 1)",
+            "alt_name": [
+                "Mineral Cluster Type 1"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "221",
+            "name": "Mineral Chunk (Type 2)",
+            "alt_name": [
+                "Mineral Cluster Type 2"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "222",
+            "name": "Protoss Vespene Gas Orb Type 1",
+            "alt_name": [
+                "Vespene Orb (Protoss Type 1)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "223",
+            "name": "Protoss Vespene Gas Orb Type 2",
+            "alt_name": [
+                "Vespene Orb (Protoss Type 2)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "224",
+            "name": "Zerg Vespene Gas Sac Type 1",
+            "alt_name": [
+                "Vespene Sac (Zerg Type 1)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "225",
+            "name": "Zerg Vespene Gas Sac Type 2",
+            "alt_name": [
+                "Vespene Sac (Zerg Type 2)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "226",
+            "name": "Terran Vespene Gas Tank Type 1",
+            "alt_name": [
+                "Vespene Tank (Terran Type 1)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "227",
+            "name": "Terran Vespene Gas Tank Type 2",
+            "alt_name": [
+                "Vespene Tank (Terran Type 2)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "228",
+            "name": "Unused unit 228",
+            "alt_name": [
+                "Unused228",
+                "None"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "229",
+            "name": "(any unit)",
+            "alt_name": [
+                "Any unit"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "230",
+            "name": "(men)",
+            "alt_name": [
+                "Men"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "231",
+            "name": "(buildings)",
+            "alt_name": [
+                "Buildings"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "232",
+            "name": "(factories)",
+            "alt_name": [
+                "Factories"
+            ],
+            "description": ""
+        }
+    ]
+}

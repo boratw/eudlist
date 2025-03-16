@@ -32,7 +32,7 @@ function OnClickItem(e)
     target = e.target;
     if(target)
     {
-        if(target.className == "item address")
+        if(target.className == "item address" || target.className == "item address large")
         {
             text= target.innerHTML.replace(/\s+/g, '');
             if(text.length <= 5)
@@ -47,12 +47,12 @@ function OnClickItem(e)
             }
             navigator.clipboard.writeText(text);
         }
-        else if(target.className == "item varname")
+        else if(target.className == "item varname" || target.className == "item name function" || target.className == "item name variable")
         {
             text= target.innerHTML.replace(/\s+/g, '');
             navigator.clipboard.writeText(text);
         }
-        else if(target.getAttribute("name") == "description")
+        else if(target.className.endsWith("description"))
         {
             return;
         }
@@ -104,10 +104,7 @@ function TextInput(name)
             if (i[0].includes(s))
             {
                 i[1].hidden = false;
-                if(i[1].getAttribute("unioncollapse") == "true")
-                {
-                    ExpandItem(document.getElementsByName(i[1].getAttribute("name").replace("i_", "u_"))[0])
-                }
+                
             }
             else
             {

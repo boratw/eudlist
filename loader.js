@@ -11,7 +11,10 @@ function LoadOffset(name, json)
     load_page = loaded_pages[name]
 
     summary = json["summary"]
-    large_offset = summary["large_offset"]
+    if ("large_offset" in summary)
+        large_offset = summary["large_offset"];
+    else
+        large_offset = false;
     elem = document.createElement("p");
     elem.className = "title";
     elem.innerHTML = summary["name"]
@@ -25,19 +28,27 @@ function LoadOffset(name, json)
     table = document.createElement("div");
     table.className = "items";
 
+    union_key = {}
+
     for (item of json["data"])
     {
+        key = "";
+        is_uniongroup = "";
+        is_unionitem = "";
+
         elem = document.createElement("div");
         if(item.hasOwnProperty("uniongroup"))
         {
             elem.className = "itembox uniongroup";
             elem.setAttribute("name", "u_" + item["uniongroup"]);
+            is_uniongroup = item["uniongroup"]
         }
         else if(item.hasOwnProperty("unionof"))
         {
             elem.className = "itembox unionof";
             elem.setAttribute("name", "i_" + item["unionof"])
             elem.setAttribute("unioncollapse", "true");
+            is_unionitem = item["unionof"];
         }
         else
         {
@@ -56,6 +67,14 @@ function LoadOffset(name, json)
             else
                 p.className = "item address";
             p.innerHTML = item["offset"];
+            elem2.appendChild(p);
+            key += item["offset"]
+        }
+        if ("datatype" in item)
+        {
+            p = document.createElement("p");
+            p.className = "item datatype";
+            p.innerHTML = item["datatype"];
             elem2.appendChild(p);
         }
         if ("size" in item)
@@ -79,9 +98,41 @@ function LoadOffset(name, json)
             elem2.appendChild(p);
         }
         p = document.createElement("p");
-        p.className = "item name";
+        if ("params" in item)
+            p.className = "item name function";
+        else if ("datatype" in item)
+            p.className = "item name variable";
+        else
+            p.className = "item name";
         p.innerHTML = item["name"];
+
         elem2.appendChild(p);
+        if ("value" in item)
+        {
+            p = document.createElement("p");
+            p.className = "item value";
+            p.innerHTML =  item["value"];
+            if (item["value"] == "[NONE]")
+            {
+                p.style.color = "gray"
+            }
+            elem2.appendChild(p);
+        }
+        if ("params" in item)
+        {
+            p = document.createElement("p");
+            p.className = "item param";
+            p.innerHTML =   "(" + item["params"].join(", ") + ")";
+            elem2.appendChild(p);
+        }
+        if ("return" in item)
+        {
+            p = document.createElement("p");
+            p.className = "item return";
+            if (item["return"] != " ")
+                p.innerHTML = " → " +  item["return"]
+            elem2.appendChild(p);
+        }
         if ("scr" in item)
         {
             scr = item["scr"];
@@ -113,8 +164,15 @@ function LoadOffset(name, json)
         elem.appendChild(elem2);
         
         table.appendChild(elem);
-        key = item["name"].toLowerCase()
-        search_dict.push([key, elem])
+
+        key += "\t" + item["name"].toLowerCase()
+        if (is_uniongroup != "")
+            union_key[is_uniongroup] = key
+        
+        if (is_unionitem != "")
+            search_dict.push([union_key[is_unionitem], elem])
+        else
+            search_dict.push([key, elem])
     }
     load_page.appendChild(table)
 }

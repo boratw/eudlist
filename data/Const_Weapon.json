@@ -1,0 +1,830 @@
+﻿{
+    "summary": {
+        "name": "Weapon Index",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "offset": "0",
+            "name": "Gauss Rifle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "1",
+            "name": "Gauss Rifle (Raynor)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "2",
+            "name": "C-10 Concussion Rifle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "3",
+            "name": "C-10 Concussion Rifle (Kerrigan)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "4",
+            "name": "Fragmentation Grenade",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "5",
+            "name": "Fragmentation Grenade (Raynor)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "6",
+            "name": "Spider Mines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "7",
+            "name": "Twin Autocannons",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "8",
+            "name": "Hellfire Missile Pack",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "9",
+            "name": "Twin Autocannons (Schezar)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "10",
+            "name": "Hellfire Missile Pack (Schezar)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "11",
+            "name": "Arclite Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "12",
+            "name": "Arclite Cannon (Duke)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "13",
+            "name": "Fusion Cutter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "14",
+            "name": "Fusion Cutter (Harvest)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "15",
+            "name": "Gemini Missiles",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "16",
+            "name": "Burst Lasers",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "17",
+            "name": "Gemini Missiles (Kazansky)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "18",
+            "name": "Burst Lasers (Kazansky)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "19",
+            "name": "ATS Laser Battery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "20",
+            "name": "ATA Laser Battery",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "21",
+            "name": "ATS Laser Battery (Norad II+Mengsk+DuGalle)",
+            "alt_name": [
+                "ATS Laser Battery (Norad II)",
+                "ATS Laser Battery (Mengsk)",
+                "ATS Laser Battery (DuGalle)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "22",
+            "name": "ATA Laser Battery (Norad II+Mengsk+DuGalle)",
+            "alt_name": [
+                "ATA Laser Battery (Norad II)",
+                "ATA Laser Battery (Mengsk)",
+                "ATA Laser Battery (DuGalle)"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "23",
+            "name": "ATS Laser Battery (Hyperion)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "24",
+            "name": "ATA Laser Battery (Hyperion)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "25",
+            "name": "Flame Thrower",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "26",
+            "name": "Flame Thrower (Montag)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "27",
+            "name": "Arclite Shock Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "28",
+            "name": "Arclite Shock Cannon (Duke)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "29",
+            "name": "Longbolt Missiles",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "30",
+            "name": "Yamato Gun",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "31",
+            "name": "Nuclear Missile",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "32",
+            "name": "Lockdown",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "33",
+            "name": "EMP Shockwave",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "34",
+            "name": "Irradiate",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "35",
+            "name": "Claws",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "36",
+            "name": "Claws (Devouring One)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "37",
+            "name": "Claws (Infested Kerrigan)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "38",
+            "name": "Needle Spines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "39",
+            "name": "Needle Spines (Hunter Killer)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "40",
+            "name": "Kaiser Blades",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "41",
+            "name": "Kaiser Blades (Torrasque)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "42",
+            "name": "Toxic Spores",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "43",
+            "name": "Spines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "44",
+            "name": "Spines (Harvest)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "45",
+            "name": "Acid Spray",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "46",
+            "name": "Acid Spore",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "47",
+            "name": "Acid Spore (Kukulza)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "48",
+            "name": "Glave Wurm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "49",
+            "name": "Glave Wurm (Kukulza)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "50",
+            "name": "Venom",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "51",
+            "name": "Venom (Unclean One)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "52",
+            "name": "Seeker Spores",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "53",
+            "name": "Subterranean Tentacle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "54",
+            "name": "Suicide (Infested Terran)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "55",
+            "name": "Suicide (Scourge)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "56",
+            "name": "Parasite",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "57",
+            "name": "Spawn Broodlings",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "58",
+            "name": "Ensnare",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "59",
+            "name": "Dark Swarm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "60",
+            "name": "Plague",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "61",
+            "name": "Consume",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "62",
+            "name": "Particle Beam",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "63",
+            "name": "Particle Beam (Harvest)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "64",
+            "name": "Psi Blades",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "65",
+            "name": "Psi Blades (Fenix)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "66",
+            "name": "Phase Disruptor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "67",
+            "name": "Phase Disruptor (Fenix)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "68",
+            "name": "Psi Assault",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "69",
+            "name": "Psi Assault (Tassadar)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "70",
+            "name": "Psionic Shockwave",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "71",
+            "name": "Psionic Shockwave (Tassadar/Zeratul)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "72",
+            "name": "Unused72",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "73",
+            "name": "Dual Photon Blasters",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "74",
+            "name": "Anti-matter Missiles",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "75",
+            "name": "Dual Photon Blasters (Mojo)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "76",
+            "name": "Anti-matter Missiles (Mojo)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "77",
+            "name": "Phase Disruptor Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "78",
+            "name": "Phase Disruptor Cannon (Danimoth)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "79",
+            "name": "Pulse Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "80",
+            "name": "STS Photon Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "81",
+            "name": "STA Photon Cannon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "82",
+            "name": "Scarab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "83",
+            "name": "Stasis Field",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "84",
+            "name": "Psi Storm",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "85",
+            "name": "Warp Blades (Zeratul)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "86",
+            "name": "Warp Blades (Hero)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "87",
+            "name": "Missiles",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "88",
+            "name": "Laser Battery1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "89",
+            "name": "Tormentor Missiles",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "90",
+            "name": "Bombs",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "91",
+            "name": "Raider Gun",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "92",
+            "name": "Laser Battery2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "93",
+            "name": "Laser Battery3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "94",
+            "name": "Dual Photon Blasters",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "95",
+            "name": "Flechette Grenade",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "96",
+            "name": "Twin Autocannons (Floor Trap)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "97",
+            "name": "Hellfire Missile Pack (Wall Trap)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "98",
+            "name": "Flame Thrower (Wall Trap)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "99",
+            "name": "Hellfire Missile Pack (Floor Trap)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "100",
+            "name": "Neutron Flare",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "101",
+            "name": "Disruption Web",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "102",
+            "name": "Restoration",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "103",
+            "name": "Halo Rockets",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "104",
+            "name": "Corrosive Acid",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "105",
+            "name": "Mind Control",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "106",
+            "name": "Feedback",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "107",
+            "name": "Optical Flare",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "108",
+            "name": "Maelstrom",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "109",
+            "name": "Subterranean Spines",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "110",
+            "name": "Gauss Rifle0",
+            "alt_name": [
+                "Unused110"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "111",
+            "name": "Warp Blades",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "112",
+            "name": "C-10 Concussion Rifle (Duran)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "113",
+            "name": "C-10 Concussion Rifle (Infested Duran)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "114",
+            "name": "Dual Photon Blasters (Artanis)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "115",
+            "name": "Anti-matter Missiles (Artanis)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "116",
+            "name": "C-10 Concussion Rifle (Stukov)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "117",
+            "name": "Gauss Rifle1",
+            "alt_name": [
+                "Unused117"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "118",
+            "name": "Gauss Rifle2",
+            "alt_name": [
+                "Unused118"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "119",
+            "name": "Gauss Rifle3",
+            "alt_name": [
+                "Unused119"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "120",
+            "name": "Gauss Rifle4",
+            "alt_name": [
+                "Unused120"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "121",
+            "name": "Gauss Rifle5",
+            "alt_name": [
+                "Unused121"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "122",
+            "name": "Gauss Rifle6",
+            "alt_name": [
+                "Unused122"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "123",
+            "name": "Gauss Rifle7",
+            "alt_name": [
+                "Unused123"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "124",
+            "name": "Gauss Rifle8",
+            "alt_name": [
+                "Unused124"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "125",
+            "name": "Gauss Rifle9",
+            "alt_name": [
+                "Unused125"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "126",
+            "name": "Gauss Rifle10",
+            "alt_name": [
+                "Unused126"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "127",
+            "name": "Gauss Rifle11",
+            "alt_name": [
+                "Unused127"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "128",
+            "name": "Gauss Rifle12",
+            "alt_name": [
+                "Unused128"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "129",
+            "name": "Gauss Rifle13",
+            "alt_name": [
+                "Unused129"
+            ],
+            "description": ""
+        },
+        {
+            "offset": "130",
+            "name": "None",
+            "alt_name": [],
+            "description": ""
+        }
+    ]
+}

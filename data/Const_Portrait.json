@@ -1,0 +1,1334 @@
+﻿{
+    "summary": {
+        "name": "Portrait Index",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "offset": "0",
+            "name": "Marine",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "1",
+            "name": "Ghost",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "2",
+            "name": "Firebat",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "3",
+            "name": "Vulture",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "4",
+            "name": "Spider Mine",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "5",
+            "name": "Goliath",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "6",
+            "name": "Siege Tank",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "7",
+            "name": "SCV",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "8",
+            "name": "Wraith",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "9",
+            "name": "Science Vessel",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "10",
+            "name": "Dropship",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "11",
+            "name": "Battlecruiser",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "12",
+            "name": "Sarah Kerrigan",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "13",
+            "name": "Jim Raynor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "14",
+            "name": "Edmund Duke",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "15",
+            "name": "Civilian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "16",
+            "name": "Arcturus Mengsk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "17",
+            "name": "Terran Advisor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "18",
+            "name": "Larva",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "19",
+            "name": "Egg",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "20",
+            "name": "Zergling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "21",
+            "name": "Hydralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "22",
+            "name": "Ultralisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "23",
+            "name": "Broodling",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "24",
+            "name": "Drone",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "25",
+            "name": "Overlord",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "26",
+            "name": "Mutalisk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "27",
+            "name": "Guardian",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "28",
+            "name": "Queen",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "29",
+            "name": "Defiler",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "30",
+            "name": "Scourge",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "31",
+            "name": "Cocoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "32",
+            "name": "Mature Chrysalis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "33",
+            "name": "Infested Terran",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "34",
+            "name": "Zasz",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "35",
+            "name": "Daggoth",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "36",
+            "name": "Infested Kerrigan",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "37",
+            "name": "Hunter Killer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "38",
+            "name": "Overmind",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "39",
+            "name": "Probe",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "40",
+            "name": "Zealot",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "41",
+            "name": "Dragoon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "42",
+            "name": "High Templar",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "43",
+            "name": "Archon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "44",
+            "name": "Shuttle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "45",
+            "name": "Scout",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "46",
+            "name": "Arbiter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "47",
+            "name": "Carrier",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "48",
+            "name": "Interceptor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "49",
+            "name": "Dark Templar",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "50",
+            "name": "Fenix (Zealot)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "51",
+            "name": "Fenix (Dragoon)",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "52",
+            "name": "Zeratul",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "53",
+            "name": "Tassadar",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "54",
+            "name": "Gantrithor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "55",
+            "name": "Observer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "56",
+            "name": "Reaver",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "57",
+            "name": "Scarab",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "58",
+            "name": "Khaydarin Crystal Formation",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "59",
+            "name": "Aldaris",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "60",
+            "name": "Protoss Advisor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "61",
+            "name": "Merc Biker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "62",
+            "name": "Rhynadon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "63",
+            "name": "Bengalaas",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "64",
+            "name": "Ragnasaur",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "65",
+            "name": "Cargo Ship",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "66",
+            "name": "Merc Gunship",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "67",
+            "name": "Raider",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "68",
+            "name": "Grom Biker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "69",
+            "name": "Space Critter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "70",
+            "name": "Sally",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "71",
+            "name": "Greedo",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "72",
+            "name": "Boskk",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "73",
+            "name": "Peter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "74",
+            "name": "Independent Advisor",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "75",
+            "name": "Terran Gas Tank",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "76",
+            "name": "Protoss Gas Orb",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "77",
+            "name": "Zerg Gas Sac",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "78",
+            "name": "Mineral Cluster",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "79",
+            "name": "Data Disc",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "80",
+            "name": "Psi Emitter",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "81",
+            "name": "Khaydarin Crystal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "82",
+            "name": "Flag P1",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "83",
+            "name": "Flag P2",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "84",
+            "name": "Flag P3",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "85",
+            "name": "Flag P4",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "86",
+            "name": "Flag P5",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "87",
+            "name": "Flag P6",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "88",
+            "name": "Flag P7",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "89",
+            "name": "Flag P8",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "90",
+            "name": "Medic",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "91",
+            "name": "Valkyrie",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "92",
+            "name": "Dugalle",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "93",
+            "name": "Stukov",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "94",
+            "name": "Duran",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "95",
+            "name": "Artanis",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "96",
+            "name": "Raszagal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "97",
+            "name": "Devourer",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "98",
+            "name": "Lurker",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "99",
+            "name": "Dark Archon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "100",
+            "name": "Corsair",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "101",
+            "name": "Scantid",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "102",
+            "name": "Kakaru",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "103",
+            "name": "Ursadon",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "104",
+            "name": "Uraj Crystal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "105",
+            "name": "Khalis Crystal",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "106",
+            "name": "Flag P9",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "107",
+            "name": "Flag P10",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "108",
+            "name": "Flag P11",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "109",
+            "name": "Flag P12",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "110",
+            "name": "Marine - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "111",
+            "name": "Ghost - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "112",
+            "name": "Firebat - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "113",
+            "name": "Vulture - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "114",
+            "name": "Spider Mine - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "115",
+            "name": "Goliath - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "116",
+            "name": "Siege Tank - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "117",
+            "name": "SCV - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "118",
+            "name": "Wraith - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "119",
+            "name": "Science Vessel - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "120",
+            "name": "Dropship - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "121",
+            "name": "Battlecruiser - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "122",
+            "name": "Sarah Kerrigan - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "123",
+            "name": "Jim Raynor  - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "124",
+            "name": "Edmund Duke - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "125",
+            "name": "Civilian - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "126",
+            "name": "Arcturus Mengsk - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "127",
+            "name": "Terran Advisor - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "128",
+            "name": "Larva - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "129",
+            "name": "Egg - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "130",
+            "name": "Zergling - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "131",
+            "name": "Hydralisk - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "132",
+            "name": "Ultralisk - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "133",
+            "name": "Broodling - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "134",
+            "name": "Drone - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "135",
+            "name": "Overlord - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "136",
+            "name": "Mutalisk - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "137",
+            "name": "Guardian - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "138",
+            "name": "Queen - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "139",
+            "name": "Defiler - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "140",
+            "name": "Scourge - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "141",
+            "name": "Cocoon - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "142",
+            "name": "Mature Chrysalis - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "143",
+            "name": "Infested Terran - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "144",
+            "name": "Zasz - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "145",
+            "name": "Daggoth - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "146",
+            "name": "Infested Kerrigan - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "147",
+            "name": "Hunter Killer - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "148",
+            "name": "Overmind - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "149",
+            "name": "Probe - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "150",
+            "name": "Zealot - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "151",
+            "name": "Dragoon - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "152",
+            "name": "High Templar - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "153",
+            "name": "Archon - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "154",
+            "name": "Shuttle - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "155",
+            "name": "Scout - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "156",
+            "name": "Arbiter - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "157",
+            "name": "Carrier - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "158",
+            "name": "Interceptor - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "159",
+            "name": "Dark Templar - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "160",
+            "name": "Fenix (Zealot) - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "161",
+            "name": "Fenix (Dragoon) - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "162",
+            "name": "Zeratul - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "163",
+            "name": "Tassadar - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "164",
+            "name": "Gantrithor - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "165",
+            "name": "Observer - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "166",
+            "name": "Reaver - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "167",
+            "name": "Scarab - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "168",
+            "name": "Khaydarin Crystal Formation - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "169",
+            "name": "Aldaris - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "170",
+            "name": "Protoss Advisor - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "171",
+            "name": "Merc Biker - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "172",
+            "name": "Rhynadon - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "173",
+            "name": "Bengalaas - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "174",
+            "name": "Ragnasaur - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "175",
+            "name": "Cargo Ship - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "176",
+            "name": "Merc Gunship - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "177",
+            "name": "Raider - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "178",
+            "name": "Grom Biker - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "179",
+            "name": "Space Critter - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "180",
+            "name": "Sally - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "181",
+            "name": "Greedo - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "182",
+            "name": "Boskk - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "183",
+            "name": "Peter - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "184",
+            "name": "Independent Advisor - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "185",
+            "name": "Terran Gas Tank - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "186",
+            "name": "Protoss Gas Orb - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "187",
+            "name": "Zerg Gas Sac - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "188",
+            "name": "Mineral Cluster - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "189",
+            "name": "Data Disc - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "190",
+            "name": "Psi Emitter - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "191",
+            "name": "Khaydarin Crystal - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "192",
+            "name": "Flag P1 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "193",
+            "name": "Flag P2 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "194",
+            "name": "Flag P3 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "195",
+            "name": "Flag P4 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "196",
+            "name": "Flag P5 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "197",
+            "name": "Flag P6 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "198",
+            "name": "Flag P7 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "199",
+            "name": "Flag P8 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "200",
+            "name": "Medic - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "201",
+            "name": "Valkyrie - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "202",
+            "name": "Dugalle - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "203",
+            "name": "Stukov - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "204",
+            "name": "Duran - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "205",
+            "name": "Artanis - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "206",
+            "name": "Raszagal - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "207",
+            "name": "Devourer - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "208",
+            "name": "Lurker - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "209",
+            "name": "Dark Archon - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "210",
+            "name": "Corsair - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "211",
+            "name": "Scantid - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "212",
+            "name": "Kakaru - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "213",
+            "name": "Ursadon - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "214",
+            "name": "Uraj Crystal - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "215",
+            "name": "Khalis Crystal - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "216",
+            "name": "Flag P9 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "217",
+            "name": "Flag P10 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "218",
+            "name": "Flag P11 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "219",
+            "name": "Flag P12 - Talking",
+            "alt_name": [],
+            "description": ""
+        },
+        {
+            "offset": "65535",
+            "name": "None",
+            "alt_name": [],
+            "description": ""
+        }
+    ]
+}
