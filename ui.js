@@ -1,6 +1,7 @@
-
-let prev_page = null;
 let loaded_pages = {};
+let search_dicts = {};
+let cur_page = null;
+let cur_search_dict = [];
 
 function OnNavBtn1Clicked(p)
 {
@@ -18,23 +19,32 @@ function OnNavBtn1Clicked(p)
 
 function OpenPage(name)
 {
-    if(prev_page)
+    if(cur_page)
     {
-        prev_page.setAttribute("active", "false");
+        cur_page.setAttribute("active", "false");
     }
     
     if(!(name in loaded_pages))
+    {
         LoadPage(name);
-
-    loaded_pages[name].setAttribute("active", "true");
-    prev_page = loaded_pages[name]
+    }
+    else
+    {
+        cur_page = loaded_pages[name];
+        cur_search_dict = search_dicts[name];
+    }
+    cur_page.setAttribute("active", "true");
 }
 function LoadPage(name)
 {
     elem = document.createElement("div");
     elem.className = "page"
     document.getElementById("main").appendChild(elem);
-    loaded_pages[name] = elem;
+    cur_page = elem;
+    cur_search_dict = [];
+
+    loaded_pages[name] = cur_page;
+    search_dicts[name] = cur_search_dict;
     LoadStart(name);
     
 }
@@ -42,6 +52,7 @@ function LoadPage(name)
 function OnLoad()
 {
     loaded_pages["Credit"] = document.getElementById("credit");
+    search_dicts["Credit"] = []
     OnResize();
 }
 function OnResize()

@@ -7,25 +7,24 @@ function LoadStart(name)
 
 function LoadOffset(name, json)
 {
-
-    doc = loaded_pages[name]
+    search_dict = search_dicts[name]
+    load_page = loaded_pages[name]
 
     summary = json["summary"]
     large_offset = summary["large_offset"]
     elem = document.createElement("p");
     elem.className = "title";
     elem.innerHTML = summary["name"]
-    doc.appendChild(elem)
+    cur_page.appendChild(elem)
 
     elem = document.createElement("div");
     elem.className = "inputbox";
     elem.innerHTML = '<input id="' + name + '_search" type="text"  placeholder="Search" oninput="TextInput(\'' + name + '\')"/>'
-    doc.appendChild(elem)
+    cur_page.appendChild(elem)
 
     table = document.createElement("div");
     table.className = "items";
 
-    search = []
     for (item of json["data"])
     {
         elem = document.createElement("div");
@@ -115,10 +114,9 @@ function LoadOffset(name, json)
         
         table.appendChild(elem);
         key = item["name"].toLowerCase()
-        search.push([key, elem])
+        search_dict.push([key, elem])
     }
-    doc.appendChild(table)
-    searchdict[name] = search
+    load_page.appendChild(table)
 }
 function ReadTranslatable(item, name, parent)
 {

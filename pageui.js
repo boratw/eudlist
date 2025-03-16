@@ -3,13 +3,12 @@ let item_size = "";
 let address_size = "";
 let offsetname_size = "";
 
-let searchdict = {}
 
 
 function ExpandItem(elem)
 {
     unionname = elem.getAttribute("name").replace("u_", "i_");
-    for([key, item] of searchdict)
+    for([key, item] of cur_search_dict)
     {
         if(item.hasAttribute("name"))
             if(item.getAttribute("name") == unionname)
@@ -20,7 +19,7 @@ function ExpandItem(elem)
 function CollapseItem(elem)
 {
     unionname = elem.getAttribute("name").replace("u_", "i_");
-    for([key, item] of searchdict)
+    for([key, item] of cur_search_dict)
     {
         if(item.hasAttribute("name"))
             if(item.getAttribute("name") == unionname)
@@ -100,7 +99,7 @@ function TextInput(name)
     if (document.getElementById(name + "_search").value.length > 0)
     {
         let s = document.getElementById(name + "_search").value.toLowerCase();
-        for (i of searchdict[name])
+        for (i of search_dicts[name])
         {
             if (i[0].includes(s))
             {
@@ -118,7 +117,7 @@ function TextInput(name)
     }
     else
     {
-        for (i of searchdict[name])
+        for (i of search_dicts[name])
         {
             i[1].hidden = false;
         }
