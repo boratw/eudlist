@@ -15,6 +15,27 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;content<br>&emsp;_from<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Constructor for StringBuffer<br>&emsp;<br>&emsp;        :param content: Initial StringBuffer content / capacity. Capacity of<br>&emsp;            StringBuffer is determined by size of this. If content is integer,<br>&emsp;            then initial capacity and content of StringBuffer will be set to<br>&emsp;            content(int) and empty string.<br>&emsp;<br>&emsp;        :type content: str, bytes, int"
         },
         {
+            "name": "__init__",
+            "params": [
+                "cls",
+                "name",
+                "bases",
+                "dct"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;name<br>&emsp;bases<br>&emsp;dct<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "alloc",
+            "params": [
+                "cls",
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;args<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
             "name": "append",
             "params": [
                 "self",
@@ -163,6 +184,15 @@
             ],
             "return": "None",
             "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "free",
+            "params": [
+                "cls",
+                "data"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;data<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
             "name": "getfield",
@@ -412,12 +442,12 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;format_string<br>&emsp;args<br>&emsp;line<br>&emsp;tag<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
-            "name": "_cpbranch",
+            "name": "_cpblock",
             "params": [
-                "&lt;built-in method&gt;"
+                "cls"
             ],
-            "return": " ",
-            "description": "DESCRIPTION"
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
             "name": "_display_at",
@@ -430,26 +460,25 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;prevpos<br>&emsp;line<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
-            "name": "_method_template",
+            "name": "_init_template",
             "params": [
-                "&lt;built-in method&gt;"
+                "cls"
             ],
-            "return": " ",
-            "description": "DESCRIPTION"
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
-            "name": "alloc",
-            "datatype": "classmethod",
-            "description": ""
+            "name": "__mul__",
+            "params": [
+                "cls",
+                "times"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;times : <class 'int'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
-            "name": "free",
-            "datatype": "classmethod",
-            "description": ""
-        },
-        {
-            "name": "_cpblock",
-            "datatype": "classmethod",
+            "name": "_cpbranch",
+            "datatype": "str",
             "description": ""
         },
         {
@@ -463,13 +492,8 @@
             "description": ""
         },
         {
-            "name": "_init_template",
-            "datatype": "classmethod",
-            "description": ""
-        },
-        {
-            "name": "__annotations__",
-            "datatype": "dict",
+            "name": "_method_template",
+            "datatype": "str",
             "description": ""
         },
         {
@@ -479,6 +503,16 @@
         },
         {
             "name": "__doc__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
             "datatype": "str",
             "description": ""
         },

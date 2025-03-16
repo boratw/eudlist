@@ -14,6 +14,18 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;initval<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
+            "name": "__new__",
+            "params": [
+                "mcls",
+                "name",
+                "bases",
+                "namespace",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;mcls<br>&emsp;name<br>&emsp;bases<br>&emsp;namespace<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
             "name": "AddDest",
             "params": [
                 "self",
@@ -201,6 +213,15 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;dest<br><br>RETURN<br>&emsp;list[bt.Action]<br><br>DESCRIPTION"
         },
         {
+            "name": "register",
+            "params": [
+                "cls",
+                "subclass"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;subclass<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Register a virtual subclass of an ABC.<br>&emsp;<br>&emsp;            Returns the subclass, to allow usage as a class decorator."
+        },
+        {
             "name": "SetDest",
             "params": [
                 "self",
@@ -284,6 +305,31 @@
             ],
             "return": "bt.Action",
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;value : Dword<br>&emsp;mask : Dword<br><br>RETURN<br>&emsp;bt.Action<br><br>DESCRIPTION"
+        },
+        {
+            "name": "_abc_caches_clear",
+            "params": [
+                "cls"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Clear the caches (for debugging or testing)."
+        },
+        {
+            "name": "_abc_registry_clear",
+            "params": [
+                "cls"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Clear the registry (for debugging or testing)."
+        },
+        {
+            "name": "_dump_registry",
+            "params": [
+                "cls",
+                "file"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;file<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Debug helper to print the ABC registry."
         },
         {
             "name": "__add__",
@@ -400,6 +446,15 @@
             ],
             "return": "None",
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__instancecheck__",
+            "params": [
+                "cls",
+                "instance"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;instance<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Override for isinstance(instance, cls)."
         },
         {
             "name": "__invert__",
@@ -616,6 +671,15 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;other : Dword<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
         },
         {
+            "name": "__subclasscheck__",
+            "params": [
+                "cls",
+                "subclass"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;subclass<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Override for issubclass(subclass, cls)."
+        },
+        {
             "name": "__sub__",
             "params": [
                 "self",
@@ -665,6 +729,16 @@
         },
         {
             "name": "__doc__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__module__",
             "datatype": "str",
             "description": ""
         },

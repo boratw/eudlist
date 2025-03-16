@@ -17,6 +17,27 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br>&emsp;_from<br>&emsp;_static_initval<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
+            "name": "__init__",
+            "params": [
+                "cls",
+                "name",
+                "bases",
+                "dct"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;name<br>&emsp;bases<br>&emsp;dct<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "alloc",
+            "params": [
+                "cls",
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;args<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
             "name": "Assign",
             "params": [
                 "self",
@@ -24,6 +45,15 @@
             ],
             "return": "Self",
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;other<br><br>RETURN<br>&emsp;Self<br><br>DESCRIPTION"
+        },
+        {
+            "name": "cast",
+            "params": [
+                "cls",
+                "_from"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;_from<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
             "name": "constructor",
@@ -77,6 +107,15 @@
             ],
             "return": "None",
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "free",
+            "params": [
+                "cls",
+                "data"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;data<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
             "name": "geattr",
@@ -322,6 +361,15 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;rhs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
+            "name": "__mul__",
+            "params": [
+                "cls",
+                "times"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;times : <class 'int'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
             "name": "__setattr__",
             "params": [
                 "self",
@@ -342,21 +390,6 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;newvalue<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
-            "name": "alloc",
-            "datatype": "classmethod",
-            "description": ""
-        },
-        {
-            "name": "cast",
-            "datatype": "classmethod",
-            "description": ""
-        },
-        {
-            "name": "free",
-            "datatype": "classmethod",
-            "description": ""
-        },
-        {
             "name": "_fielddict",
             "datatype": "dict",
             "description": ""
@@ -374,6 +407,16 @@
         {
             "name": "__doc__",
             "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
             "description": ""
         },
         {

@@ -15,6 +15,88 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;epd : int | eudplib.core.variable.eudv.EUDVariable | eudplib.utils.exprproxy.ExprProxy<br>&emsp;ptr : int | eudplib.core.variable.eudv.EUDVariable | eudplib.utils.exprproxy.ExprProxy | None<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;EPD Constructor of CSprite. Use CSprite.from_ptr(ptr) for ptr value"
         },
         {
+            "name": "__new__",
+            "params": [
+                "mcls",
+                "name",
+                "bases",
+                "namespace",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;mcls<br>&emsp;name<br>&emsp;bases<br>&emsp;namespace<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "from_ptr",
+            "params": [
+                "cls",
+                "ptr"
+            ],
+            "return": "T",
+            "description": "PARAMETERS<br>&emsp;cls : type[~T]<br>&emsp;ptr : int | eudplib.core.variable.eudv.EUDVariable | eudplib.utils.exprproxy.ExprProxy<br><br>RETURN<br>&emsp;T<br><br>DESCRIPTION"
+        },
+        {
+            "name": "from_read",
+            "params": [
+                "cls",
+                "epd"
+            ],
+            "return": "T",
+            "description": "PARAMETERS<br>&emsp;cls : type[~T]<br>&emsp;epd<br><br>RETURN<br>&emsp;T<br><br>DESCRIPTION"
+        },
+        {
+            "name": "register",
+            "params": [
+                "cls",
+                "subclass"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;subclass<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Register a virtual subclass of an ABC.<br>&emsp;<br>&emsp;            Returns the subclass, to allow usage as a class decorator."
+        },
+        {
+            "name": "_abc_caches_clear",
+            "params": [
+                "cls"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Clear the caches (for debugging or testing)."
+        },
+        {
+            "name": "_abc_registry_clear",
+            "params": [
+                "cls"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Clear the registry (for debugging or testing)."
+        },
+        {
+            "name": "_dump_registry",
+            "params": [
+                "cls",
+                "file"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;file<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Debug helper to print the ABC registry."
+        },
+        {
+            "name": "__instancecheck__",
+            "params": [
+                "cls",
+                "instance"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;instance<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Override for isinstance(instance, cls)."
+        },
+        {
+            "name": "__subclasscheck__",
+            "params": [
+                "cls",
+                "subclass"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;subclass<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Override for issubclass(subclass, cls)."
+        },
+        {
             "name": "elevationLevel",
             "datatype": "ByteMember",
             "description": ""
@@ -22,16 +104,6 @@
         {
             "name": "flags",
             "datatype": "ByteEnum",
-            "description": ""
-        },
-        {
-            "name": "from_ptr",
-            "datatype": "classmethod",
-            "description": ""
-        },
-        {
-            "name": "from_read",
-            "datatype": "classmethod",
             "description": ""
         },
         {
@@ -147,6 +219,16 @@
         {
             "name": "__doc__",
             "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
             "description": ""
         },
         {

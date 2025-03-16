@@ -5,6 +5,17 @@
     },
     "data": [
         {
+            "name": "__init__",
+            "params": [
+                "cls",
+                "name",
+                "bases",
+                "dct"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;name<br>&emsp;bases<br>&emsp;dct<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
             "name": "constructor",
             "params": [
                 "self",
@@ -39,6 +50,15 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
+            "name": "__mul__",
+            "params": [
+                "cls",
+                "times"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;cls<br>&emsp;times : <class 'int'><br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
             "name": "_fielddict",
             "datatype": "dict",
             "description": ""
@@ -56,6 +76,16 @@
         {
             "name": "__doc__",
             "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "NoneType",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
             "description": ""
         },
         {

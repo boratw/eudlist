@@ -15,6 +15,16 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;initval<br>&emsp;_from<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
+            "name": "__init__",
+            "params": [
+                "self",
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Initialize self.  See help(type(self)) for accurate signature."
+        },
+        {
             "name": "Assign",
             "params": [
                 "self",
@@ -221,6 +231,14 @@
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;val<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
+            "name": "mro",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Return a type's method resolution order."
+        },
+        {
             "name": "neitem",
             "params": [
                 "self",
@@ -258,6 +276,42 @@
             "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
+            "name": "__call__",
+            "params": [
+                "self",
+                "args",
+                "kwargs"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;args<br>&emsp;kwargs<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Call self as a function."
+        },
+        {
+            "name": "__delattr__",
+            "params": [
+                "self",
+                "name"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Implement delattr(self, name)."
+        },
+        {
+            "name": "__dir__",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Specialized __dir__ implementation for types."
+        },
+        {
+            "name": "__getattribute__",
+            "params": [
+                "self",
+                "name"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Return getattr(self, name)."
+        },
+        {
             "name": "__getitem__",
             "params": [
                 "self",
@@ -265,6 +319,15 @@
             ],
             "return": "EUDVariable",
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br><br>RETURN<br>&emsp;EUDVariable<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__instancecheck__",
+            "params": [
+                "self",
+                "instance"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;instance<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Check if an object is an instance."
         },
         {
             "name": "__iter__",
@@ -275,6 +338,50 @@
             "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
         },
         {
+            "name": "__or__",
+            "params": [
+                "self",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Return self|value."
+        },
+        {
+            "name": "__prepare__",
+            "params": [
+                "&lt;built-in method&gt;"
+            ],
+            "return": " ",
+            "description": "DESCRIPTION<br>&emsp;__prepare__() -> dict<br>&emsp;used to create the namespace for the class statement"
+        },
+        {
+            "name": "__repr__",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Return repr(self)."
+        },
+        {
+            "name": "__ror__",
+            "params": [
+                "self",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Return value|self."
+        },
+        {
+            "name": "__setattr__",
+            "params": [
+                "self",
+                "name",
+                "value"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;name<br>&emsp;value<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Implement setattr(self, name, value)."
+        },
+        {
             "name": "__setitem__",
             "params": [
                 "self",
@@ -283,6 +390,31 @@
             ],
             "return": "None",
             "description": "PARAMETERS<br>&emsp;self<br>&emsp;key<br>&emsp;item<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "__sizeof__",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Return memory consumption of the type object."
+        },
+        {
+            "name": "__subclasscheck__",
+            "params": [
+                "self",
+                "subclass"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;subclass<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Check if a class is a subclass."
+        },
+        {
+            "name": "__subclasses__",
+            "params": [
+                "self"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION<br>&emsp;Return a list of immediate subclasses."
         },
         {
             "name": "dont_flatten",
@@ -300,8 +432,38 @@
             "description": ""
         },
         {
+            "name": "__abstractmethods__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
             "name": "__annotations__",
-            "datatype": "dict",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__bases__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__base__",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__basicsize__",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__dictoffset__",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__dict__",
+            "datatype": "getset_descriptor",
             "description": ""
         },
         {
@@ -310,8 +472,38 @@
             "description": ""
         },
         {
+            "name": "__doc__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__flags__",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__itemsize__",
+            "datatype": "member_descriptor",
+            "description": ""
+        },
+        {
             "name": "__module__",
             "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__mro__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__name__",
+            "datatype": "getset_descriptor",
             "description": ""
         },
         {
@@ -320,8 +512,28 @@
             "description": ""
         },
         {
+            "name": "__qualname__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
             "name": "__slots__",
             "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__text_signature__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__type_params__",
+            "datatype": "getset_descriptor",
+            "description": ""
+        },
+        {
+            "name": "__weakrefoffset__",
+            "datatype": "member_descriptor",
             "description": ""
         }
     ]
