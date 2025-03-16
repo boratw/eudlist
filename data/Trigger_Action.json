@@ -108,7 +108,7 @@
         },
         {
             "name": "LeaderBoardComputerPlayers",
-            "offset": " ",
+            "offset": "32",
             "params": [
                 "state"
             ],
@@ -138,7 +138,7 @@
         },
         {
             "name": "LeaderBoardGoalControl",
-            "offset": " ",
+            "offset": "33",
             "params": [
                 "goal",
                 "unit",
@@ -149,7 +149,7 @@
         },
         {
             "name": "LeaderBoardGoalControlAt",
-            "offset": " ",
+            "offset": "34",
             "params": [
                 "goal",
                 "unit",
@@ -161,7 +161,7 @@
         },
         {
             "name": "LeaderBoardGoalKills",
-            "offset": " ",
+            "offset": "36",
             "params": [
                 "goal",
                 "unit",
@@ -172,7 +172,7 @@
         },
         {
             "name": "LeaderBoardGoalResources",
-            "offset": " ",
+            "offset": "35",
             "params": [
                 "goal",
                 "resource_type",
@@ -183,7 +183,7 @@
         },
         {
             "name": "LeaderBoardGoalScore",
-            "offset": " ",
+            "offset": "37",
             "params": [
                 "goal",
                 "ScoreType",
@@ -194,7 +194,7 @@
         },
         {
             "name": "LeaderBoardGreed",
-            "offset": " ",
+            "offset": "40",
             "params": [
                 "goal"
             ],
