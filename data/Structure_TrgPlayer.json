@@ -1,0 +1,182 @@
+﻿{
+    "summary": {
+        "name": "TrgPlayer",
+        "large_offset": false
+    },
+    "data": [
+        {
+            "name": "__init__",
+            "params": [
+                "self",
+                "initval"
+            ],
+            "return": "None",
+            "description": "PARAMETERS<br>&emsp;self<br>&emsp;initval<br><br>RETURN<br>&emsp;None<br><br>DESCRIPTION"
+        },
+        {
+            "name": "buildingScore",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "cast",
+            "datatype": "classmethod",
+            "description": ""
+        },
+        {
+            "name": "cumulativeGas",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "cumulativeMineral",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "customScore",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "gas",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "killScore",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "mineral",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "minimapColor",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "missionObjectives",
+            "datatype": "MapStringMember",
+            "description": ""
+        },
+        {
+            "name": "ore",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "protossPsiAvailable",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "protossPsiMax",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "protossPsiUsed",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "range",
+            "datatype": "classproperty",
+            "description": ""
+        },
+        {
+            "name": "razingScore",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "remainingGamePause",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "terranSupplyAvailable",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "terranSupplyMax",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "terranSupplyUsed",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "unitColor",
+            "datatype": "ByteMember",
+            "description": ""
+        },
+        {
+            "name": "unitScore",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "zergControlAvailable",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "zergControlMax",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "zergControlUsed",
+            "datatype": "DwordMember",
+            "description": ""
+        },
+        {
+            "name": "_abc_impl",
+            "datatype": "_abc_data",
+            "description": ""
+        },
+        {
+            "name": "_has_array_member",
+            "datatype": "bool",
+            "description": ""
+        },
+        {
+            "name": "__abstractmethods__",
+            "datatype": "frozenset",
+            "description": ""
+        },
+        {
+            "name": "__annotations__",
+            "datatype": "dict",
+            "description": ""
+        },
+        {
+            "name": "__doc__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__module__",
+            "datatype": "str",
+            "description": ""
+        },
+        {
+            "name": "__parameters__",
+            "datatype": "tuple",
+            "description": ""
+        },
+        {
+            "name": "__slots__",
+            "datatype": "tuple",
+            "description": ""
+        }
+    ]
+}
