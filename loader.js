@@ -1,6 +1,6 @@
 function LoadStart(name)
 {
-    fetch('src/' + name + '.json')
+    fetch('data/' + name + '.json')
     .then((response) => response.json())
     .then((json) => LoadOffset(name, json));
 }
